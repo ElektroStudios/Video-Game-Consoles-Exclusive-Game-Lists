@@ -10,6 +10,7 @@ Option Infer Off
 
 Imports System.Collections.Generic
 Imports System.Diagnostics
+Imports System.Globalization
 Imports System.Linq
 Imports System.Reflection
 Imports System.Runtime.CompilerServices
@@ -23,12 +24,21 @@ Imports System.Runtime.CompilerServices
 ''' </summary>
 Friend MustInherit Class PlatformBase : Implements IPlatform
 
-#Region " Private Fields "
+#Region " Fields "
 
     ''' <summary>
-    ''' Flag to determine whether method <see cref="DoScrap"/> was called.
+    ''' Flag to determine whether method <see cref="PlatformBase.DoScrap"/> was called.
     ''' </summary>
     Protected scrapCompleted As Boolean
+
+#End Region
+
+#Region " Properties "
+
+    ''' <summary>
+    ''' Gets the Markdown table of filtered (included, excluded) kind of titles.
+    ''' </summary>
+    Protected MustOverride ReadOnly Property MarkdownFiltersTable As String
 
 #End Region
 
@@ -42,7 +52,32 @@ Friend MustInherit Class PlatformBase : Implements IPlatform
     ''' <summary>
     ''' Gets the Markdown header to use for this platform when building the MD file.
     ''' </summary>
-    Friend MustOverride ReadOnly Property MarkdownHeader As String Implements IPlatform.MarkdownHeader
+    Friend ReadOnly Property MarkdownHeader As String
+        <DebuggerStepThrough>
+        Get
+            Return $"# List of exclusive {Me.PlatformInfo?.Name} titles.
+
+> *Last updated on {Date.Now.ToString("MMMM d, yyyy", CultureInfo.GetCultureInfo("en-US"))}*
+
+_Platform exclusivity refers to the status of a video _game_ being developed for and released only on the specified platform._
+
+-----------------------------
+
+ - The following table of platform exclusive games was generated programmatically by scraping content from Gamefaqs website: 
+
+    - {Me.PlatformInfo?.AllGamesUrl}
+
+    - We use a filter to arbitrarily include and exclude platform exclusive content:
+
+      {Me.MarkdownFiltersTable}
+
+ - The items in the following table are ordered alphabetically by Title column. If you need to sort items in another column, you may search for custom Markdown plugins / user-scripts or convert this table to a more suitable format, such as CSV or HTML with JavaScript.
+
+ - The items in the following table are made up of useful hyperlinks pointing to the game entry, release date information, and genre categories from Gamefaqs website.
+
+-----------------------------"
+        End Get
+    End Property
 
 #End Region
 
@@ -51,7 +86,7 @@ Friend MustInherit Class PlatformBase : Implements IPlatform
     ''' <summary>
     ''' Gets the platform exclusive games.
     ''' <para></para>
-    ''' Note: You must call method <see cref="DoScrap"/> to initialize the value of this property.
+    ''' Note: You must call method <see cref="PlatformBase.DoScrap"/> to initialize the value of this property.
     ''' </summary>
     Friend ReadOnly Property ExclusiveGames As List(Of GameInfo)
         <DebuggerStepThrough>
@@ -70,7 +105,7 @@ Friend MustInherit Class PlatformBase : Implements IPlatform
     ''' <summary>
     ''' Gets the platform exclusive compilations.
     ''' <para></para>
-    ''' Note: You must call method <see cref="DoScrap"/> to initialize the value of this property.
+    ''' Note: You must call method <see cref="PlatformBase.DoScrap"/> to initialize the value of this property.
     ''' </summary>
     Friend ReadOnly Property ExclusiveCompilations As List(Of GameInfo)
         <DebuggerStepThrough>
@@ -79,7 +114,6 @@ Friend MustInherit Class PlatformBase : Implements IPlatform
             Return Me.exclusiveCompilations_
         End Get
     End Property
-
     ''' <summary>
     ''' ( Backing Field )
     ''' <para></para>
@@ -116,26 +150,32 @@ Friend MustInherit Class PlatformBase : Implements IPlatform
         ' Scrap Exclusive Games list.
 
         Me.exclusiveGames_ =
-                GamefaqsUtil.ScrapExclusiveGames($"{Me.PlatformInfo.Name} Games", Me.PlatformInfo,
-                                                 Me.PlatformInfo.AllGamesUrl)
+                GamefaqsUtil.ScrapExclusiveGames(
+                    $"{Me.PlatformInfo.Name} Games", Me.PlatformInfo,
+                    Me.PlatformInfo.AllGamesUrl)
 
         ' Build Exclusive Compilations list.
 
         Me.exclusiveCompilations_ =
-                (From gameinfo As GameInfo In Me.exclusiveGames_
-                 Where gameinfo.Genre.Contains("Compilation")
+                (From game As GameInfo In Me.exclusiveGames_
+                 Where game.Genre.Contains("Compilation")
+                 Order By game.Title
+                )?.ToList()
+
+        If exclusiveCompilations_?.Any() Then
+            Dim compilationUrls As Uri() =
+                    (From game As GameInfo In Me.exclusiveCompilations_
+                     Select game.EntryUrl
+                    ).ToArray()
+
+            ' Filter out Exclusive Compilations from Exclusive Games list.
+
+            Me.exclusiveGames_ =
+                (From game As GameInfo In Me.exclusiveGames_
+                 Where Not compilationUrls.Contains(game.EntryUrl)
+                 Order By game.Title
                 ).ToList()
-
-        Dim compilationUrls As Uri() =
-                (From gameinfo As GameInfo In Me.exclusiveCompilations_
-                 Select gameinfo.EntryUrl).ToArray()
-
-        ' Filter out Exclusive Compilations from Exclusive Games list.
-
-        Me.exclusiveGames_ =
-                (From gameinfo As GameInfo In Me.exclusiveGames_
-                 Where Not compilationUrls.Contains(gameinfo.EntryUrl)
-                ).ToList()
+        End If
 
         Console.WriteLine("")
         Console.WriteLine($"Scraping completed for {Me.PlatformInfo.Name} platform.")
@@ -150,8 +190,15 @@ Friend MustInherit Class PlatformBase : Implements IPlatform
     <DebuggerStepThrough>
     Friend Overridable Sub CreateMarkdownFile() Implements IPlatform.CreateMarkdownFile
         Me.FailIfScrapNotCompleted()
-        Dim gamesTable As String = GamefaqsUtil.BuildMarkdownTable($"{Me.PlatformInfo.Name}∶ Exclusive Games", Me.exclusiveGames_)
-        Dim compilationsTable As String = GamefaqsUtil.BuildMarkdownTable($"{Me.PlatformInfo.Name}∶ Exclusive Compilations", Me.exclusiveCompilations_)
+
+        Dim gamesTable As String =
+            If(Me.exclusiveGames_?.Any(),
+               GamefaqsUtil.BuildMarkdownTable($"{Me.PlatformInfo.Name}∶ Exclusive Games", Me.exclusiveGames_), "")
+
+        Dim compilationsTable As String =
+            If(Me.exclusiveCompilations_?.Any(),
+               GamefaqsUtil.BuildMarkdownTable($"{Me.PlatformInfo.Name}∶ Exclusive Compilations", Me.exclusiveCompilations_), "")
+
         GamefaqsUtil.WriteMarkdownFile(Me.PlatformInfo.Name, Me.MarkdownHeader, gamesTable, compilationsTable)
     End Sub
 
@@ -161,8 +208,14 @@ Friend MustInherit Class PlatformBase : Implements IPlatform
     <DebuggerStepThrough>
     Friend Overridable Sub CreateUrlFiles() Implements IPlatform.CreateUrlFiles
         Me.FailIfScrapNotCompleted()
-        GamefaqsUtil.CreateUrlFiles(Me.PlatformInfo.Name, $"{Me.PlatformInfo.Name}∶ Exclusive Games", Me.exclusiveGames_)
-        GamefaqsUtil.CreateUrlFiles(Me.PlatformInfo.Name, $"{Me.PlatformInfo.Name}∶ Exclusive Compilations", Me.exclusiveCompilations_)
+
+        If Me.exclusiveGames_?.Any() Then
+            GamefaqsUtil.CreateUrlFiles(Me.PlatformInfo.Name, $"{Me.PlatformInfo.Name}∶ Exclusive Games", Me.exclusiveGames_)
+        End If
+
+        If Me.exclusiveCompilations_?.Any() Then
+            GamefaqsUtil.CreateUrlFiles(Me.PlatformInfo.Name, $"{Me.PlatformInfo.Name}∶ Exclusive Compilations", Me.exclusiveCompilations_)
+        End If
     End Sub
 
 #End Region
@@ -171,26 +224,24 @@ Friend MustInherit Class PlatformBase : Implements IPlatform
 
     ''' <summary>
     ''' Throws a exception of type <see cref="InvalidOperationException"/> 
-    ''' if method <see cref="IPlatform.DoScrap"/> was not called previously.
+    ''' if method <see cref="PlatformBase.DoScrap"/> was not called previously.
     ''' </summary>
     ''' <param name="callerName">Optional. The method or property name of the caller to this method.</param>
     <DebuggerStepThrough>
     Protected Sub FailIfScrapNotCompleted(<CallerMemberName> Optional callerName As String = Nothing)
 
         If Not Me.scrapCompleted Then
-            Dim bindingFlags As BindingFlags = BindingFlags.Instance Or BindingFlags.Public Or BindingFlags.NonPublic
 
-            Dim callerProperty As PropertyInfo = Me.GetType().GetProperty(callerName, bindingFlags)
-            If callerProperty IsNot Nothing Then
-                Throw New InvalidOperationException($"You must call method '{NameOf(IPlatform.DoScrap)}' to initialize the value of property '{callerProperty.Name}'.")
-            End If
+            Dim callerProperty As PropertyInfo =
+                Me.GetType().GetProperty(callerName, BindingFlags.Instance Or BindingFlags.Public Or BindingFlags.NonPublic)
 
-            Dim callerMethod As MethodInfo = Me.GetType().GetMethod(callerName, bindingFlags)
-            If callerMethod IsNot Nothing Then
-                Throw New InvalidOperationException($"You must call method '{NameOf(IPlatform.DoScrap)}' before calling method '{callerName}'.")
-            End If
+            Dim errorMsg As String =
+                If(callerProperty IsNot Nothing,
+                   $"You must call method '{NameOf(DoScrap)}' to initialize the value of property: {callerProperty.Name}",
+                   $"You must call method '{NameOf(DoScrap)}' before calling method: {callerName}")
 
-            Throw New InvalidOperationException($"You must call method '{NameOf(IPlatform.DoScrap)}' before calling member '{callerName}'.")
+            Throw New InvalidOperationException(errorMsg)
+
         End If
 
     End Sub

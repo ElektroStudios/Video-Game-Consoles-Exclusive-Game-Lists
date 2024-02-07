@@ -9,6 +9,7 @@ Option Infer Off
 #Region " Imports"
 
 Imports System.Diagnostics
+Imports System.Net
 Imports System.Text
 Imports System.Threading
 
@@ -63,6 +64,70 @@ Friend Module MiscUtil
         Console.WriteLine(sb.ToString())
         Console.ReadKey(intercept:=False)
         Environment.Exit(exitcode)
+
+    End Sub
+
+    ''' <summary>
+    ''' Tries to download the HTML page source-code from the specified <see cref="Uri"/>. 
+    ''' <para></para>
+    ''' Whenever it fails to download, it prints the HTTP error code and waits the specified interval to retry again.
+    ''' </summary>
+    ''' <param name="uri">The input <see cref="Uri"/> from which to download the html page source-code.</param>
+    ''' <param name="refHtmlPage">A <see langword="ByRef"/> value that contains the resulting HTML page source-code when this method returns.</param>
+    ''' <param name="retryIntervalSeconds">The interval, in seconds, to wait for retry the download. Default value is: 10 seconds.</param>
+    <DebuggerStepThrough>
+    Friend Sub DownloadHtmlPageWithRetry(uri As Uri, ByRef refHtmlPage As String,
+                                         Optional retryIntervalSeconds As Integer = 10)
+
+        refHtmlPage = Nothing
+
+        Using wc As New WebClient
+
+            Do While String.IsNullOrEmpty(refHtmlPage)
+                wc.Headers.Remove(HttpRequestHeader.UserAgent)
+                wc.Headers.Add("User-Agent", GamefaqsUtil.ScraperUserAgent)
+                Try
+                    refHtmlPage = wc.DownloadString(uri)
+
+                Catch ex As WebException
+                    Dim response As HttpWebResponse = TryCast(ex.Response, HttpWebResponse)
+                    If response IsNot Nothing Then
+
+                        Dim statusCode As HttpStatusCode = response.StatusCode
+                        Console.WriteLine($"Remote server error: ({CInt(statusCode)}) {statusCode}.")
+                        Console.WriteLine($"Url: {uri}")
+
+                        Select Case statusCode
+
+                            Case HttpStatusCode.NotFound
+                                MiscUtil.PrintErrorAndExit("This error indicates that the webpage or resource linked to by the URL does not exist." & Environment.NewLine &
+                                                           "Check Gamefaqs website or contact their support to explain this problem.",
+                                                           exitcode:=ExitCodes.ExitCodeHttpError)
+
+                            Case HttpStatusCode.Forbidden
+                                MiscUtil.PrintErrorAndExit("This error may indicate that your IP address have been banned." & Environment.NewLine &
+                                                           "Check Gamefaqs website or contact their support to explain this problem.",
+                                                           exitcode:=ExitCodes.ExitCodeHttpError)
+
+                            Case Else
+                                Console.WriteLine($"Waiting {retryIntervalSeconds} seconds to retry again...")
+                                Console.WriteLine()
+                                Thread.Sleep(TimeSpan.FromSeconds(retryIntervalSeconds))
+
+                        End Select
+
+                    Else
+                        Throw
+
+                    End If
+
+                Catch ex As Exception
+                    Throw
+
+                End Try
+            Loop
+
+        End Using
 
     End Sub
 

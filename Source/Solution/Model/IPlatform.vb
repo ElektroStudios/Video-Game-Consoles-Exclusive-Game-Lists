@@ -20,11 +20,6 @@ Friend Interface IPlatform
     ''' </summary>
     ReadOnly Property PlatformInfo As PlatformInfo
 
-    ''' <summary>
-    ''' Gets the Markdown header to use for this platform when building the MD file.
-    ''' </summary>
-    ReadOnly Property MarkdownHeader As String
-
 #End Region
 
 #Region " Methods "

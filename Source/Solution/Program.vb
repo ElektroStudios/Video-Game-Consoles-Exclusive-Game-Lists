@@ -9,6 +9,7 @@ Option Infer Off
 #Region " Imports"
 
 Imports System.Diagnostics
+Imports System.Text
 
 #End Region
 
@@ -17,17 +18,7 @@ Imports System.Diagnostics
 ''' <summary>
 ''' Main Program Module.
 ''' </summary>
-Module Program
-
-#Region "  Fields "
-
-    ''' <summary>
-    ''' User-Agent used to identify the scraper to Gamefaqs server.
-    ''' </summary>
-    Friend Const MyScraperUserAgent As String =
-            "Find_PlatformExclusive_Games_Bot/1.0 (Windows; .NET Framework 4.8; non-harmful scraper; bot; scraper; en-US)"
-
-#End Region
+Friend Module Program
 
 #Region " Main Entry Point "
 
@@ -36,19 +27,35 @@ Module Program
     ''' </summary>
     <DebuggerStepperBoundary>
     Friend Sub Main()
+        Console.CursorVisible = False
+        Console.OutputEncoding = Encoding.UTF8
+        Console.Title = $"{My.Application.Info.Title} v{My.Application.Info.Version} | {My.Application.Info.Copyright}"
 
-        Dim ps3 As New Platforms.Playstation3()
+        ' WonderSwan
+        Dim ws As New Platforms.WonderSwan()
+        ws.DoScrap()
+        ws.CreateMarkdownFile()
+        ws.CreateUrlFiles()
 
-        ' MsgBox(ps3.ExclusiveGames.FirstOrDefault)
+        ' WonderSwan Color
+        Dim wsc As New Platforms.WonderSwanColor()
+        wsc.DoScrap()
+        wsc.CreateMarkdownFile()
+        wsc.CreateUrlFiles()
 
+        ' Nintendo Game Boy
+        Dim gb As New Platforms.GameBoy()
+        gb.DoScrap()
+        gb.CreateMarkdownFile()
+        gb.CreateUrlFiles()
+
+        ' PlayStation 3
+        Dim ps3 As New Platforms.PlayStation3()
         ps3.DoScrap()
-        ' ps3.DoScrap()
-        'ps3.CreateMarkdownFile()
-        ' ps3.CreateUrlFiles()
+        ps3.CreateMarkdownFile()
+        ps3.CreateUrlFiles()
 
-
-        Console.WriteLine("")
-        Console.WriteLine("All work has been completed. Press any key to close this program...")
+        Console.WriteLine("All the scraping work has been completed. Press any key to close this program...")
         Console.ReadKey(intercept:=False)
         Environment.Exit(0)
     End Sub

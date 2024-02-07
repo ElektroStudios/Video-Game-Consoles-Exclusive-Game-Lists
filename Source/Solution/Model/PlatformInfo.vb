@@ -22,24 +22,30 @@ Friend NotInheritable Class PlatformInfo
 #Region " Properties "
 
     ''' <summary>
-    ''' Gets or sets the platform name.
+    ''' Gets the name of this platform.
     ''' </summary>
-    Friend Property Name As String
+    Friend ReadOnly Property Name As String
 
     ''' <summary>
-    ''' Gets or sets the Gamefaqs url for this platform.
+    ''' Gets the name of this platform typed as it appears in the Gamefaqs url.
     ''' </summary>
-    Friend Property BaseUrl As Uri
+    Friend ReadOnly Property HttpName As String
 
     ''' <summary>
-    ''' Gets the Gamefaqs url pointing to the "all games list" of this platform.
+    ''' Gets the Gamefaqs url that points to this platform.
+    ''' </summary>
+    Friend ReadOnly Property BaseUrl As Uri
+        Get
+            Return New Uri($"https://gamefaqs.gamespot.com/{Me.HttpName}")
+        End Get
+    End Property
+
+    ''' <summary>
+    ''' Gets the Gamefaqs url that points to the "all games" list for this platform.
     ''' </summary>
     Friend ReadOnly Property AllGamesUrl As Uri
         <DebuggerStepThrough>
         Get
-            If Me.BaseUrl Is Nothing Then
-                Throw New ArgumentNullException(paramName:=NameOf(Me.BaseUrl))
-            End If
             Return New Uri($"{Me.BaseUrl}/category/999-all")
         End Get
     End Property
@@ -49,10 +55,27 @@ Friend NotInheritable Class PlatformInfo
 #Region " Constructors "
 
     ''' <summary>
+    ''' Prevents a default instance of the <see cref="PlatformInfo"/> class from being created.
+    ''' </summary>
+    Private Sub New()
+    End Sub
+
+    ''' <summary>
     ''' Initializes a new instance of the <see cref="PlatformInfo"/> class.
     ''' </summary>
+    ''' <param name="name">The name for this platform. (e.g. PlayStation 3)</param>
+    ''' <param name="httpName">The name of this platform typed as it appears in the Gamefaqs url (e.g. ps3).</param>
     <DebuggerNonUserCode>
-    Friend Sub New()
+    Friend Sub New(name As String, httpName As String)
+        If String.IsNullOrWhiteSpace(name) Then
+            Throw New ArgumentNullException(paramName:=NameOf(name))
+        End If
+        If String.IsNullOrWhiteSpace(httpName) Then
+            Throw New ArgumentNullException(paramName:=NameOf(httpName))
+        End If
+
+        Me.Name = name
+        Me.HttpName = httpName
     End Sub
 
 #End Region

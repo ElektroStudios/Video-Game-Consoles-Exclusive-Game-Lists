@@ -1,18 +1,18 @@
-﻿#Region " PlayStation 3 "
+﻿#Region " PlayStation 4 "
 
 Namespace Platforms
 
     ''' <summary>
-    ''' PlayStation 3 platform.
+    ''' PlayStation 4 platform.
     ''' </summary>
-    Friend NotInheritable Class PlayStation3 : Inherits PlatformBaseWithOnlineStore
+    Friend NotInheritable Class PlayStation4 : Inherits PlatformBaseWithOnlineStore
 
 #Region " Properties "
 
         Friend Overrides ReadOnly Property PlatformInfo As _
-            New PlatformInfo("PlayStation 3", "ps3")
+            New PlatformInfo("PlayStation 4", "ps4")
 
-        Protected Overrides ReadOnly Property StoreGamesDistributionId As Integer = 17
+        Protected Overrides ReadOnly Property StoreGamesDistributionId As Integer = 26
 
         Protected Overrides ReadOnly Property MarkdownFiltersTable As String = $"
     |Included:|Excluded:|

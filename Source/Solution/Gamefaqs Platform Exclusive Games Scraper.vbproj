@@ -71,6 +71,13 @@
   <ItemGroup>
     <Compile Include="Model\PlatformBaseWithOnlineStore.vb" />
     <Compile Include="Model\PlatformBase.vb" />
+    <Compile Include="Model\ExitCodes.vb" />
+    <Compile Include="Platforms\GameBoyColor.vb" />
+    <Compile Include="Platforms\Playstation 1.vb" />
+    <Compile Include="Platforms\Playstation 2.vb" />
+    <Compile Include="Platforms\Playstation 4.vb" />
+    <Compile Include="Platforms\WonderSwanColor.vb" />
+    <Compile Include="Platforms\WonderSwan.vb" />
     <Compile Include="Utils\GamefaqsUtil.vb" />
     <Compile Include="Model\GameInfo.vb" />
     <Compile Include="Model\IPlatform.vb" />

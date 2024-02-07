@@ -3,14 +3,14 @@
 Namespace Platforms
 
     ''' <summary>
-    ''' Nintendo Game Boy platform.
+    ''' Nintendo Game Boy Color platform.
     ''' </summary>
-    Friend NotInheritable Class GameBoy : Inherits PlatformBase
+    Friend NotInheritable Class GameBoyColor : Inherits PlatformBase
 
 #Region " Properties "
 
         Friend Overrides ReadOnly Property PlatformInfo As _
-            New PlatformInfo("Game Boy", "gameboy")
+            New PlatformInfo("Game Boy Color", "gbc")
 
         Protected Overrides ReadOnly Property MarkdownFiltersTable As String = $"
     |Included:|Excluded:|

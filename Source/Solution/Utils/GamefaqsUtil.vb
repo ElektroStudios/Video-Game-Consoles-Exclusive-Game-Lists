@@ -12,7 +12,6 @@ Imports System.Collections.Generic
 Imports System.Diagnostics
 Imports System.IO
 Imports System.Linq
-Imports System.Net
 Imports System.Text
 Imports System.Threading
 
@@ -28,21 +27,17 @@ Imports HtmlAgilityPack
 <HideModuleName>
 Friend Module GamefaqsUtil
 
-#Region " Scrap Methods "
+#Region " Public Fields "
 
     ''' <summary>
-    ''' Fake method of <see cref="ScrapLastPageNumber"/>.
-    ''' <para></para>
-    ''' Returns the provided value in <paramref name="returnValue"/> parameter.
-    ''' <para></para>
-    ''' This is for testing purposes.
+    ''' User-Agent used to identify the scraper to Gamefaqs server.
     ''' </summary>
-    ''' <param name="returnValue">The value to return.</param>
-    ''' <returns>The value provided in <paramref name="returnValue"/> parameter.</returns>
-    <DebuggerStepThrough>
-    Friend Function FakeScrapLastPageNumber(returnValue As Integer) As Integer
-        Return returnValue
-    End Function
+    Friend Const ScraperUserAgent As String =
+            "Find_PlatformExclusive_Games_Bot/1.0 (Windows; .NET Framework 4.8; non-harmful scraper; bot; scraper; en-US)"
+
+#End Region
+
+#Region " Scrap Methods "
 
     ''' <summary>
     ''' Scraps the source game list url to retrieve the last page number 
@@ -53,11 +48,9 @@ Friend Module GamefaqsUtil
     <DebuggerStepperBoundary>
     Friend Function ScrapLastPageNumber(uri As Uri) As Integer
 
-        Dim htmlSource As String
-        Using wc As New WebClient
-            wc.Headers.Add("User-Agent", Program.MyScraperUserAgent)
-            htmlSource = wc.DownloadString(uri)
-        End Using
+        Dim htmlSource As String = Nothing
+        MiscUtil.DownloadHtmlPageWithRetry(uri, htmlSource)
+
         Dim htmlDoc As New HtmlDocument()
         htmlDoc.LoadHtml(htmlSource)
 
@@ -66,7 +59,7 @@ Friend Module GamefaqsUtil
         Dim paginateText As String = paginateNode?.GetDirectInnerText()
 
         If (paginateNode Is Nothing) OrElse String.IsNullOrEmpty(paginateText) Then
-            MiscUtil.PrintErrorAndExit($"Can't locate paginate element (XPath: ""{paginateXpath}"") in html source-code of uri: {uri}", exitcode:=1)
+            MiscUtil.PrintErrorAndExit($"Can't locate paginate element (XPath: ""{paginateXpath}"") in html source-code of uri: {uri}", exitcode:=ExitCodes.ExitCodeXPathNotFound)
         End If
 
         Dim lastPageNumber As Integer = CInt(paginateText.Split({" "c}, StringSplitOptions.RemoveEmptyEntries).Last())
@@ -78,7 +71,7 @@ Friend Module GamefaqsUtil
     ''' Scraps only the platform exclusive games from the input list url,
     ''' and returns a <see cref="List(Of GameInfo)"/> representing each scraped game.
     ''' </summary>
-    ''' <param name="description">The description name (e.g. Playstation Store PS3) for the games in the provided list uri.</param>
+    ''' <param name="description">The description name (e.g. PlayStation Store PS3) for the games in the provided list uri.</param>
     ''' <param name="platform">The source <see cref="PlatformInfo"/> for which the games in the provided list uri belongs to.</param>
     ''' <param name="uri">The input game list uri where to scrap the platform exclusive games.</param>
     ''' <returns>A <see cref="List(Of GameInfo)"/> representing each scraped game</returns>
@@ -87,29 +80,30 @@ Friend Module GamefaqsUtil
 
         Dim exclusiveGamesList As New List(Of GameInfo)
         Dim lastPageNumber As Integer = GamefaqsUtil.ScrapLastPageNumber(uri)
-        ' Dim lastPageNumber As Integer = GamefaqsUtil.FakeScrapLastPageNumber(1)
 
         Dim entryCount As Integer
 
         For pageIndex As Integer = 0 To lastPageNumber - 1
-            Dim currentPageUri As New Uri($"{uri}&page={pageIndex}")
+
+            Dim pageUri As Uri =
+                If(uri.ToString().Contains("?"c),
+                   New Uri($"{uri}&page={pageIndex}"),
+                   New Uri($"{uri}?page={pageIndex}"))
 
             Console.WriteLine($"Parsing '{description}' page {pageIndex + 1} of {lastPageNumber} ...")
-            Console.WriteLine($"Url: '{currentPageUri} ...")
+            Console.WriteLine($"Url: '{pageUri} ...")
             Console.WriteLine("")
 
-            Dim htmlSource As String
-            Using wc As New WebClient
-                wc.Headers.Add("User-Agent", Program.MyScraperUserAgent)
-                htmlSource = wc.DownloadString(currentPageUri)
-            End Using
+            Dim pageHtmlSource As String = Nothing
+            MiscUtil.DownloadHtmlPageWithRetry(pageUri, pageHtmlSource)
+
             Dim htmlDoc As New HtmlDocument
-            htmlDoc.LoadHtml(htmlSource)
+            htmlDoc.LoadHtml(pageHtmlSource)
 
             Const titleXpath As String = "//td[@class='rtitle']"
             Dim titleNodes As HtmlNodeCollection = htmlDoc.DocumentNode.SelectNodes(titleXpath)
             If (titleNodes Is Nothing) OrElse Not titleNodes.Any Then
-                MiscUtil.PrintErrorAndExit($"Can't locate game title elements (XPath: ""{titleXpath}"") in html source-code of uri: {currentPageUri}", exitcode:=1)
+                MiscUtil.PrintErrorAndExit($"Can't locate game title elements (XPath: ""{titleXpath}"") in html source-code of uri: {pageUri}", exitcode:=ExitCodes.ExitCodeXPathNotFound)
             End If
 
             ' Iterate game title entries.
@@ -124,24 +118,23 @@ Friend Module GamefaqsUtil
                     Continue For
 
                 Else ' Released game.
-                    Thread.Sleep(2000)
-                    ' MiscUtil.SleepRandom(2000, 3000)
+                    MiscUtil.SleepRandom(1000, 2500)
 
                     ' Note that the "titleNode.InnerText" value can return a game title in Japanese or other language,
                     ' so this value can't be considered as the proper game title name to use.
                     Dim entryTitle As String = titleNode.InnerText.Trim()
-                    Dim entryurlBase As String = titleNode.SelectSingleNode("a").Attributes("href").Value
-                    Dim entryUrl As New Uri($"https://gamefaqs.gamespot.com{entryurlBase}")
+                    Dim entryBaseUrl As String = titleNode.SelectSingleNode("a").Attributes("href").Value
+                    Dim entryUrl As New Uri($"https://gamefaqs.gamespot.com{entryBaseUrl}")
 
                     Console.WriteLine($"Scraping {description}... | Page {pageIndex + 1} of {lastPageNumber} | Entry Count: {Interlocked.Increment(entryCount)} | Title: {entryTitle}")
+#If DEBUG Then
                     Console.WriteLine($"Url: {entryUrl}")
                     Console.WriteLine("")
+#End If
 
                     Dim gameEntryHtmlsource As String = Nothing
-                    Using wc As New WebClient
-                        wc.Headers.Add("User-Agent", Program.MyScraperUserAgent)
-                        gameEntryHtmlsource = wc.DownloadString(entryUrl)
-                    End Using
+                    MiscUtil.DownloadHtmlPageWithRetry(entryUrl, gameEntryHtmlsource)
+
                     Dim gameEntryHtmlDoc As New HtmlDocument()
                     gameEntryHtmlDoc.LoadHtml(gameEntryHtmlsource)
 
@@ -219,7 +212,7 @@ Friend Module GamefaqsUtil
                     Dim pageTitleNode As HtmlNode = gameEntryHtmlDoc.DocumentNode.SelectSingleNode(pageTitleXpath)
                     Dim pageTitle As String = pageTitleNode?.InnerText
                     If String.IsNullOrWhiteSpace(pageTitle) Then
-                        MiscUtil.PrintErrorAndExit($"Can't locate game title / page title element (XPath: ""{pageTitleNode}"") in html source-code of uri: {entryUrl}", exitcode:=1)
+                        MiscUtil.PrintErrorAndExit($"Can't locate game title / page title element (XPath: ""{pageTitleNode}"") in html source-code of uri: {entryUrl}", exitcode:=ExitCodes.ExitCodeXPathNotFound)
                     End If
 
                     ' 6. At this point the game entry has passed all checks and it is considered a valid exclusive game.
@@ -232,10 +225,10 @@ Friend Module GamefaqsUtil
                         .ReleaseDate = releaseDate
                     }
 
-                    ' Some entries are duplicated in the Gamefaqs list,
-                    ' such as one entry with Japanese name and the other in English,
-                    ' so we ensure the entry does not already exists in the list.
-                    Dim entryExists As Boolean = (From game As GameInfo In exclusiveGamesList Where game.EntryUrl.Equals(gameInfo.EntryUrl)).Any()
+                    ' Some entry urls are duplicated in the Gamefaqs list,
+                    ' such as one entry with Japanese title and the other with English title,
+                    ' so we ensure that the entry url does not already exists in the list.
+                    Dim entryExists As Boolean = (From item As GameInfo In exclusiveGamesList Where item.EntryUrl.Equals(gameInfo.EntryUrl)).Any()
                     If Not entryExists Then
                         exclusiveGamesList.Add(gameInfo)
                     End If
@@ -243,7 +236,8 @@ Friend Module GamefaqsUtil
 
             Next titleNode
 
-            MiscUtil.SleepRandom(2000, 3000)
+            Console.WriteLine("")
+            MiscUtil.SleepRandom(1000, 2500)
         Next pageIndex
 
         Return exclusiveGamesList
@@ -254,37 +248,41 @@ Friend Module GamefaqsUtil
     ''' Scraps only the game titles and their entry urls from the input list url,
     ''' and returns a <see cref="List(Of GameInfo)"/> representing each scraped game.
     ''' <para></para>
-    ''' Note: this function returns all titles, including non-exclusive, demo discs, compilations, etc.
+    ''' Note: this function returns all titles, including duplicates, non-exclusive, demo discs, compilations, etc.
     ''' </summary>
-    ''' <param name="description">The description name (e.g. Playstation Store PS3) for the games in the provided list uri.</param>
-    ''' <param name="uri">The input game list uri where to scrap the platform exclusive games.</param>
+    ''' <param name="description">The description name (e.g. PlayStation Store PS3) for the games in the provided list uri.</param>
+    ''' <param name="platform">The source <see cref="PlatformInfo"/> for which the games in the provided list uri belongs to.</param>
     ''' <returns>A <see cref="List(Of GameInfo)"/> representing each scraped game</returns>
     <DebuggerStepperBoundary>
-    Friend Function ScrapOnlyTitlesAndEntryUrls(description As String, uri As Uri) As List(Of GameInfo)
+    Friend Function ScrapOnlyTitlesAndEntryUrls(description As String, platform As PlatformInfo, uri As Uri) As List(Of GameInfo)
 
         Dim gamesList As New List(Of GameInfo)
         Dim lastPageNumber As Integer = GamefaqsUtil.ScrapLastPageNumber(uri)
 
+        Dim entryCount As Integer
+
         For pageIndex As Integer = 0 To lastPageNumber - 1
 
-            Dim currentUri As New Uri($"{uri}&page={pageIndex}")
+            Dim pageUri As Uri =
+                If(uri.ToString().Contains("?"c),
+                   New Uri($"{uri}&page={pageIndex}"),
+                   New Uri($"{uri}?page={pageIndex}"))
+
 
             Console.WriteLine($"Parsing '{description}' page {pageIndex + 1} of {lastPageNumber} ...")
-            ' Console.WriteLine($"Url: '{currentUri} ...")
-            ' Console.WriteLine("")
+            Console.WriteLine($"Url: '{pageUri} ...")
+            Console.WriteLine("")
 
-            Dim htmlSource As String
-            Using wc As New WebClient
-                wc.Headers.Add("User-Agent", Program.MyScraperUserAgent)
-                htmlSource = wc.DownloadString(currentUri)
-            End Using
+            Dim htmlSource As String = Nothing
+            MiscUtil.DownloadHtmlPageWithRetry(pageUri, htmlSource)
+
             Dim htmlDoc As New HtmlDocument
             htmlDoc.LoadHtml(htmlSource)
 
             Const titleXpath As String = "//td[@class='rtitle']"
             Dim titleNodes As HtmlNodeCollection = htmlDoc.DocumentNode.SelectNodes(titleXpath)
             If (titleNodes Is Nothing) OrElse Not titleNodes.Any Then
-                MiscUtil.PrintErrorAndExit($"Can't locate game title elements (XPath: ""{titleXpath}"") in html source-code of uri: {currentUri}", exitcode:=1)
+                MiscUtil.PrintErrorAndExit($"Can't locate game title elements (XPath: ""{titleXpath}"") in html source-code of uri: {pageUri}", exitcode:=ExitCodes.ExitCodeXPathNotFound)
             End If
 
             For Each titleNode As HtmlNode In titleNodes
@@ -297,16 +295,16 @@ Friend Module GamefaqsUtil
                     Continue For
 
                 Else ' Released game.
-                    Dim gametitle As String = titleNode.InnerText.Trim()
-                    Dim gameEntryBaseName As String = titleNode.SelectSingleNode("a").Attributes("href").Value
-                    Dim gameEntryUrl As New Uri($"https://gamefaqs.gamespot.com{gameEntryBaseName}")
+                    Dim entryTitle As String = titleNode.InnerText.Trim()
+                    Dim entryBaseUrl As String = titleNode.SelectSingleNode("a").Attributes("href").Value
+                    Dim entryUrl As New Uri($"https://gamefaqs.gamespot.com{entryBaseUrl}")
 
-                    ' Console.WriteLine($"Scraping... | {description} | Page {pageIndex + 1} of {lastPageNumber} | Entry: {Interlocked.Increment(entryCount)} | Game: '{gametitle}' ...")
+                    Console.WriteLine($"Scraping {description}... | Page {pageIndex + 1} of {lastPageNumber} | Entry Count: {Interlocked.Increment(entryCount)} | Title: {entryTitle}")
 
                     Dim gameInfo As New GameInfo() With {
-                        .PlatformName = description,
-                        .Title = gametitle,
-                        .EntryUrl = gameEntryUrl,
+                        .PlatformName = platform.Name,
+                        .Title = entryTitle,
+                        .EntryUrl = entryUrl,
                         .Genre = Nothing,
                         .ReleaseDate = Nothing
                     }
@@ -316,7 +314,7 @@ Friend Module GamefaqsUtil
 
             Next titleNode
 
-            MiscUtil.SleepRandom(2000, 3000)
+            MiscUtil.SleepRandom(1000, 2500)
         Next pageIndex
 
         Return gamesList
@@ -356,17 +354,25 @@ Friend Module GamefaqsUtil
     <DebuggerStepperBoundary>
     Friend Sub WriteMarkdownFile(platformName As String, ParamArray values As String())
 
-        Dim outputDir As New DirectoryInfo($".\{platformName}")
+        Dim outputDir As New DirectoryInfo($"\\?\{My.Application.Info.DirectoryPath}\Output\{platformName}")
         If Not outputDir.Exists Then
             outputDir.Create()
         End If
 
         Dim fullMarkdown As String = String.Join(Environment.NewLine, values)
 
-        Dim outputFilePath As String = $"\\?\{outputDir.FullName}\{platformName}.md"
+        Dim outputFilePath As String = $"{outputDir.FullName}\{platformName}.md"
 
         Console.WriteLine($"Creating markdown file: {outputFilePath.Replace("\\?\", "")}...")
-        File.WriteAllText(outputFilePath, fullMarkdown, Encoding.UTF8)
+        Try
+            File.WriteAllText(outputFilePath, fullMarkdown, Encoding.UTF8)
+
+        Catch ex As Exception
+            MiscUtil.PrintErrorAndExit(ex.Message & Environment.NewLine &
+                                       $"Failed to create file: {outputFilePath.Replace("\\?\", "")}", exitcode:=ExitCodes.ExitCodeCreatefileError)
+        End Try
+        Console.WriteLine("Done.")
+        Console.WriteLine("")
 
     End Sub
 
@@ -383,10 +389,12 @@ Friend Module GamefaqsUtil
     <DebuggerStepperBoundary>
     Friend Sub CreateUrlFiles(platformName As String, subDirName As String, games As List(Of GameInfo))
 
-        Dim outputDir As New DirectoryInfo($".\{platformName}\{subDirName}\Urls")
+        Dim outputDir As New DirectoryInfo($"\\?\{My.Application.Info.DirectoryPath}\Output\{platformName}\{subDirName}")
         If Not outputDir.Exists Then
             outputDir.Create()
         End If
+
+        Console.WriteLine($"Creating URL files in: {outputDir.FullName.Replace("\\?\", "")}...")
 
         For Each game As GameInfo In games
             Dim sb As New StringBuilder()
@@ -394,11 +402,21 @@ Friend Module GamefaqsUtil
             sb.AppendLine($"URL={game.EntryUrl}")
 
             Dim fileName As String = MiscUtil.ConvertStringToWindowsFileName(game.Title)
-            Dim outputFilePath As String = $"\\?\{outputDir.FullName}\{fileName}.url"
+            Dim outputFilePath As String = $"{outputDir.FullName}\{fileName}.url"
 
+#If DEBUG Then
             Console.WriteLine($"Creating URL file: {outputFilePath.Replace("\\?\", "")}...")
-            File.WriteAllText(outputFilePath, sb.ToString(), Encoding.UTF8)
+#End If
+            Try
+                File.WriteAllText(outputFilePath, sb.ToString(), Encoding.UTF8)
+
+            Catch ex As Exception
+                MiscUtil.PrintErrorAndExit(ex.Message & Environment.NewLine &
+                                           $"Failed to create file: {outputFilePath.Replace("\\?\", "")}", exitcode:=ExitCodes.ExitCodeCreatefileError)
+            End Try
         Next game
+        Console.WriteLine("Done.")
+        Console.WriteLine("")
 
     End Sub
 
