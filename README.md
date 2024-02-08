@@ -53,8 +53,8 @@
  - Sega SG-1000
  - SNK Neo•Geo AES
  - SNK Neo•Geo CD
- - Sony PlayStation / PSX / PSOne
- - Sony PlayStation 2
+ - [Sony PlayStation / PSX / PSOne](/Tables/PlayStation.md)
+ - [Sony PlayStation 2](/Tables/PlayStation%202.md)
  - [Sony PlayStation 3](/Tables/PlayStation%203.md)
  - Sony PlayStation 4
  - Sony PlayStation 5
