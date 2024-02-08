@@ -15,7 +15,7 @@ Namespace Platforms
         Protected Overrides ReadOnly Property MarkdownFiltersTable As String = $"
     |Included:|Excluded:|
     |:--|:--|
-    |General Games|Cancelled or Not yet released Games
+    |Released Games|Cancelled or Not yet released Games
 "
 
 #End Region

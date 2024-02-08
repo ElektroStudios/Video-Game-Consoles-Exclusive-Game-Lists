@@ -1,12 +1,4 @@
-﻿#Region "Option Statements"
-
-Option Explicit On
-Option Strict On
-Option Infer Off
-
-#End Region
-
-#Region " ExitCodes "
+﻿#Region " ExitCodes "
 
 ''' <summary>
 ''' Application Exit Codes.

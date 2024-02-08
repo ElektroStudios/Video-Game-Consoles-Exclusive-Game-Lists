@@ -15,7 +15,7 @@ Namespace Platforms
         Protected Overrides ReadOnly Property MarkdownFiltersTable As String = $"
     |Included:|Excluded:|
     |:--|:--|
-    |Games|Cancelled or Not yet released Games
+    |Released Games|Cancelled or Not yet released Games
     |[Compilations]({Me.PlatformInfo.BaseUrl}/category/233-miscellaneous-compilation)|[Software / Applications]({Me.PlatformInfo.BaseUrl}/category/277-miscellaneous-application)
 "
 

@@ -11,6 +11,7 @@ Option Infer Off
 Imports System.Collections.Generic
 Imports System.Diagnostics
 Imports System.IO
+Imports System.IO.Compression
 Imports System.Linq
 Imports System.Text
 Imports System.Threading
@@ -71,19 +72,38 @@ Friend Module GamefaqsUtil
     ''' Scraps only the platform exclusive games from the input list url,
     ''' and returns a <see cref="List(Of GameInfo)"/> representing each scraped game.
     ''' </summary>
-    ''' <param name="description">The description name (e.g. PlayStation Store PS3) for the games in the provided list uri.</param>
-    ''' <param name="platform">The source <see cref="PlatformInfo"/> for which the games in the provided list uri belongs to.</param>
-    ''' <param name="uri">The input game list uri where to scrap the platform exclusive games.</param>
-    ''' <returns>A <see cref="List(Of GameInfo)"/> representing each scraped game</returns>
+    ''' <param name="description">
+    ''' The description name (e.g. PlayStation Store PS3) for the games in the provided list uri.
+    ''' </param>
+    ''' <param name="platform">
+    ''' The source <see cref="PlatformInfo"/> for which the games in the provided list uri belongs to.
+    ''' </param>
+    ''' <param name="uri">
+    ''' The input game list uri where to scrap the platform exclusive games.
+    ''' </param>
+    ''' <param name="refExclusiveGamesList">
+    ''' A <see langword="Byref"/> <see cref="List(Of GameInfo)"/> object used to populate 
+    ''' the games that were released exclusively on the specified platform in <paramref name="platform"/> parameter.
+    ''' </param>
+    ''' <param name="refMultiplatformGamesList">
+    ''' A <see langword="Byref"/> <see cref="List(Of GameInfo)"/> object used to populate 
+    ''' the multi-platform games that were released on the specified platform in <paramref name="platform"/> parameter.
+    ''' </param>
     <DebuggerStepperBoundary>
-    Friend Function ScrapExclusiveGames(description As String, platform As PlatformInfo, uri As Uri) As List(Of GameInfo)
+    Friend Sub ScrapGames(description As String, platform As PlatformInfo, uri As Uri,
+                          ByRef refExclusiveGamesList As List(Of GameInfo),
+                          ByRef refMultiplatformGamesList As List(Of GameInfo))
 
-        Dim exclusiveGamesList As New List(Of GameInfo)
+        refExclusiveGamesList = New List(Of GameInfo)
+        refMultiplatformGamesList = New List(Of GameInfo)
+
         Dim lastPageNumber As Integer = GamefaqsUtil.ScrapLastPageNumber(uri)
-
-        Dim entryCount As Integer
+        Dim currentTotalEntryCount As Integer
+        Dim startTime As Date = Date.Now
 
         For pageIndex As Integer = 0 To lastPageNumber - 1
+
+            Dim thisPageCurrentEntryCount As Integer = 0
 
             Dim pageUri As Uri =
                 If(uri.ToString().Contains("?"c),
@@ -106,10 +126,22 @@ Friend Module GamefaqsUtil
                 MiscUtil.PrintErrorAndExit($"Can't locate game title elements (XPath: ""{titleXpath}"") in html source-code of uri: {pageUri}", exitcode:=ExitCodes.ExitCodeXPathNotFound)
             End If
 
-            ' Iterate game title entries.
+            ' Iterate game entry urls.
+
+            Dim thisPagelastEntryCount As Integer = titleNodes.Count
 
             For Each titleNode As HtmlNode In titleNodes
+                Dim ETA As String =
+                    GamefaqsUtil.CalculateETA(startTime, pageIndex, Interlocked.Increment(thisPageCurrentEntryCount),
+                                              lastPageNumber, Interlocked.Increment(currentTotalEntryCount),
+                                              If(pageIndex <> (lastPageNumber - 1), 100, thisPagelastEntryCount))
+
                 Dim nodeInnerHtml As String = titleNode.InnerHtml
+                Dim entryTitle As String = titleNode.InnerText.Trim()
+
+                Console.WriteLine($"Scraping {description}... | ETA: {ETA} | Page {pageIndex + 1} of {lastPageNumber} | Entry: {currentTotalEntryCount} ({thisPageCurrentEntryCount} of {thisPagelastEntryCount}) | Title: {entryTitle}")
+                ' Console.WriteLine($"Url: {entryUrl}")
+                ' Console.WriteLine("")
 
                 If nodeInnerHtml.Contains("""cancel""") Then ' Cancelled game.
                     Continue For
@@ -118,31 +150,27 @@ Friend Module GamefaqsUtil
                     Continue For
 
                 Else ' Released game.
-                    MiscUtil.SleepRandom(1000, 2500)
+                    MiscUtil.SleepRandom(1000, 2000)
 
                     ' Note that the "titleNode.InnerText" value can return a game title in Japanese or other language,
                     ' so this value can't be considered as the proper game title name to use.
-                    Dim entryTitle As String = titleNode.InnerText.Trim()
                     Dim entryBaseUrl As String = titleNode.SelectSingleNode("a").Attributes("href").Value
                     Dim entryUrl As New Uri($"https://gamefaqs.gamespot.com{entryBaseUrl}")
 
-                    Console.WriteLine($"Scraping {description}... | Page {pageIndex + 1} of {lastPageNumber} | Entry Count: {Interlocked.Increment(entryCount)} | Title: {entryTitle}")
-#If DEBUG Then
-                    Console.WriteLine($"Url: {entryUrl}")
-                    Console.WriteLine("")
-#End If
+                    ' Some entry urls are duplicated in the Gamefaqs list,
+                    ' such as one entry with Japanese title and the other with English title,
+                    ' all duplicates points to the same entry url,
+                    ' so we ensure that the entry url does not already exists in the list.
+                    Dim entryExists As Boolean = (From item As GameInfo In refExclusiveGamesList.Concat(refMultiplatformGamesList) Where item.EntryUrl.Equals(entryUrl)).Any()
+                    If entryExists Then
+                        Continue For
+                    End If
 
                     Dim gameEntryHtmlsource As String = Nothing
                     MiscUtil.DownloadHtmlPageWithRetry(entryUrl, gameEntryHtmlsource)
 
                     Dim gameEntryHtmlDoc As New HtmlDocument()
                     gameEntryHtmlDoc.LoadHtml(gameEntryHtmlsource)
-
-                    ' 1. Determine whether this game is listed for other platforms.
-
-                    If gameEntryHtmlsource.Contains("""also_name"">") Then
-                        Continue For
-                    End If
 
                     Const contentXpath As String = "//div[@class='content']"
 
@@ -215,8 +243,6 @@ Friend Module GamefaqsUtil
                         MiscUtil.PrintErrorAndExit($"Can't locate game title / page title element (XPath: ""{pageTitleNode}"") in html source-code of uri: {entryUrl}", exitcode:=ExitCodes.ExitCodeXPathNotFound)
                     End If
 
-                    ' 6. At this point the game entry has passed all checks and it is considered a valid exclusive game.
-
                     Dim gameInfo As New GameInfo() With {
                         .PlatformName = platform.Name,
                         .Title = pageTitle,
@@ -225,49 +251,55 @@ Friend Module GamefaqsUtil
                         .ReleaseDate = releaseDate
                     }
 
-                    ' Some entry urls are duplicated in the Gamefaqs list,
-                    ' such as one entry with Japanese title and the other with English title,
-                    ' so we ensure that the entry url does not already exists in the list.
-                    Dim entryExists As Boolean = (From item As GameInfo In exclusiveGamesList Where item.EntryUrl.Equals(gameInfo.EntryUrl)).Any()
-                    If Not entryExists Then
-                        exclusiveGamesList.Add(gameInfo)
+                    ' Determine whether this game is a exclusive release for this platform.
+                    If Not gameEntryHtmlsource.Contains("""also_name"">") Then
+                        refExclusiveGamesList.Add(gameInfo)
+                    Else
+                        refMultiplatformGamesList.Add(gameInfo)
                     End If
+
                 End If
 
             Next titleNode
 
             Console.WriteLine("")
-            MiscUtil.SleepRandom(1000, 2500)
+            MiscUtil.SleepRandom(1000, 2000)
         Next pageIndex
 
-        Return exclusiveGamesList
-
-    End Function
+    End Sub
 
     ''' <summary>
-    ''' Scraps only the game titles and their entry urls from the input list url,
+    ''' Scraps only the entry titles and their entry urls from the input games list url,
     ''' and returns a <see cref="List(Of GameInfo)"/> representing each scraped game.
     ''' <para></para>
-    ''' Note: this function returns all titles, including duplicates, non-exclusive, demo discs, compilations, etc.
+    ''' Note: this function returns all entry titles (not the proper game title), including duplicates (different languages), exclusive and multi-plaform, demo discs, compilations, etc.
     ''' </summary>
-    ''' <param name="description">The description name (e.g. PlayStation Store PS3) for the games in the provided list uri.</param>
-    ''' <param name="platform">The source <see cref="PlatformInfo"/> for which the games in the provided list uri belongs to.</param>
-    ''' <returns>A <see cref="List(Of GameInfo)"/> representing each scraped game</returns>
+    ''' <param name="description">
+    ''' The description name (e.g. PlayStation Store PS3) for the games in the provided list uri.
+    ''' </param>
+    ''' <param name="platform">
+    ''' The source <see cref="PlatformInfo"/> for which the games in the provided list uri belongs to.
+    ''' </param>
+    ''' <returns>
+    ''' A <see cref="List(Of GameInfo)"/> representing each scraped game.
+    ''' </returns>
     <DebuggerStepperBoundary>
-    Friend Function ScrapOnlyTitlesAndEntryUrls(description As String, platform As PlatformInfo, uri As Uri) As List(Of GameInfo)
+    Friend Function ScrapOnlyEntryUrls(description As String, platform As PlatformInfo, uri As Uri) As List(Of GameInfo)
 
         Dim gamesList As New List(Of GameInfo)
         Dim lastPageNumber As Integer = GamefaqsUtil.ScrapLastPageNumber(uri)
 
-        Dim entryCount As Integer
+        Dim currentTotalEntryCount As Integer
+        Dim startTime As Date = Date.Now
 
         For pageIndex As Integer = 0 To lastPageNumber - 1
+
+            Dim thisPageCurrentEntryCount As Integer = 0
 
             Dim pageUri As Uri =
                 If(uri.ToString().Contains("?"c),
                    New Uri($"{uri}&page={pageIndex}"),
                    New Uri($"{uri}?page={pageIndex}"))
-
 
             Console.WriteLine($"Parsing '{description}' page {pageIndex + 1} of {lastPageNumber} ...")
             Console.WriteLine($"Url: '{pageUri} ...")
@@ -285,8 +317,22 @@ Friend Module GamefaqsUtil
                 MiscUtil.PrintErrorAndExit($"Can't locate game title elements (XPath: ""{titleXpath}"") in html source-code of uri: {pageUri}", exitcode:=ExitCodes.ExitCodeXPathNotFound)
             End If
 
+            ' Iterate game entry urls.
+
+            Dim thisPagelastEntryCount As Integer = titleNodes.Count
+
             For Each titleNode As HtmlNode In titleNodes
+                Dim ETA As String =
+                    GamefaqsUtil.CalculateETA(startTime, pageIndex, Interlocked.Increment(thisPageCurrentEntryCount),
+                                              lastPageNumber, Interlocked.Increment(currentTotalEntryCount),
+                                              If(pageIndex <> (lastPageNumber - 1), 100, thisPagelastEntryCount))
+
                 Dim nodeInnerHtml As String = titleNode.InnerHtml
+                Dim entryTitle As String = titleNode.InnerText.Trim()
+
+                Console.WriteLine($"Scraping {description} (ONLY ENTRY URLS)... | ETA: {ETA} | Page {pageIndex + 1} of {lastPageNumber} | Entry: {currentTotalEntryCount} ({thisPageCurrentEntryCount} of {thisPagelastEntryCount}) | Title: {entryTitle}")
+                ' Console.WriteLine($"Url: {entryUrl}")
+                ' Console.WriteLine("")
 
                 If nodeInnerHtml.Contains("""cancel""") Then ' Cancelled game.
                     Continue For
@@ -295,11 +341,8 @@ Friend Module GamefaqsUtil
                     Continue For
 
                 Else ' Released game.
-                    Dim entryTitle As String = titleNode.InnerText.Trim()
                     Dim entryBaseUrl As String = titleNode.SelectSingleNode("a").Attributes("href").Value
                     Dim entryUrl As New Uri($"https://gamefaqs.gamespot.com{entryBaseUrl}")
-
-                    Console.WriteLine($"Scraping {description}... | Page {pageIndex + 1} of {lastPageNumber} | Entry Count: {Interlocked.Increment(entryCount)} | Title: {entryTitle}")
 
                     Dim gameInfo As New GameInfo() With {
                         .PlatformName = platform.Name,
@@ -314,7 +357,8 @@ Friend Module GamefaqsUtil
 
             Next titleNode
 
-            MiscUtil.SleepRandom(1000, 2500)
+            Console.WriteLine("")
+            MiscUtil.SleepRandom(1000, 2000)
         Next pageIndex
 
         Return gamesList
@@ -328,15 +372,36 @@ Friend Module GamefaqsUtil
     ''' <summary>
     ''' Builds a markdown table from the provided <see cref="List(Of GameInfo)"/> object.
     ''' </summary>
-    ''' <param name="headerTitle">The table header title.</param>
-    ''' <param name="games">The <see cref="List(Of GameInfo)"/> containing the games to add in the table.</param>
-    ''' <returns>The resulting table in Markdown format.</returns>
+    ''' <param name="headerTitle">
+    ''' The table header title.
+    ''' </param>
+    ''' <param name="games">
+    ''' The <see cref="List(Of GameInfo)"/> containing the games to add in the table.
+    ''' </param>
+    ''' <param name="extraHeaderContent">
+    ''' Optional. A string to add below <paramref name="headerTitle"/> content. This value is empty by default.
+    ''' </param>
+    ''' <param name="footer">
+    ''' Optional. A string to add as the footer of the table. This value is empty by default.
+    ''' </param>
+    ''' <returns>The resulting table in Markdown format.
+    ''' </returns>
     <DebuggerStepThrough>
-    Friend Function BuildMarkdownTable(headerTitle As String, games As List(Of GameInfo)) As String
+    Friend Function BuildMarkdownTable(headerTitle As String, games As List(Of GameInfo),
+                                       Optional extraHeaderContent As String = Nothing,
+                                       Optional footer As String = Nothing) As String
         Dim sb As New StringBuilder()
         sb.AppendLine($"# {headerTitle}")
+        If Not String.IsNullOrEmpty(extraHeaderContent) Then
+            sb.AppendLine(extraHeaderContent)
+            sb.AppendLine()
+        End If
         sb.AppendLine("|Index|Title|Release Date|Genre|")
         sb.AppendLine("|:--:|--|--|--|")
+        If Not String.IsNullOrEmpty(footer) Then
+            sb.AppendLine()
+            sb.AppendLine(footer)
+        End If
 
         Dim entryCount As Integer = 0
         For Each game As GameInfo In games
@@ -349,19 +414,26 @@ Friend Module GamefaqsUtil
     ''' <summary>
     ''' Creates a Markdown's MD file using the provided string values as its file content.
     ''' </summary>
-    ''' <param name="platformName">The name of the platform, used as the output directory name and MD file name.</param>
-    ''' <param name="values">The values to write in the MD file.</param>
+    ''' <param name="dirName">
+    ''' The output directory name.
+    ''' </param>
+    ''' <param name="fileName">
+    ''' The output MD file name.
+    ''' </param>
+    ''' <param name="values">
+    ''' The values to write in the MD file.
+    ''' </param>
     <DebuggerStepperBoundary>
-    Friend Sub WriteMarkdownFile(platformName As String, ParamArray values As String())
+    Friend Sub CreateMarkdownFile(dirName As String, fileName As String, ParamArray values As String())
 
-        Dim outputDir As New DirectoryInfo($"\\?\{My.Application.Info.DirectoryPath}\Output\{platformName}")
+        Dim outputDir As New DirectoryInfo($"\\?\{My.Application.Info.DirectoryPath}\Output\{dirName}")
         If Not outputDir.Exists Then
             outputDir.Create()
         End If
 
-        Dim fullMarkdown As String = String.Join(Environment.NewLine, values)
+        Dim fullMarkdown As String = String.Join(Environment.NewLine, (From value As String In values Where Not String.IsNullOrEmpty(value)))
 
-        Dim outputFilePath As String = $"{outputDir.FullName}\{platformName}.md"
+        Dim outputFilePath As String = $"{outputDir.FullName}\{fileName}.md"
 
         Console.WriteLine($"Creating markdown file: {outputFilePath.Replace("\\?\", "")}...")
         Try
@@ -381,11 +453,18 @@ Friend Module GamefaqsUtil
 #Region " URL (files) Methods "
 
     ''' <summary>
-    ''' Creates an URL file for each item in the provided <see cref="List(Of GameInfo)"/> object.
+    ''' Creates an URL file in the current application directory (.\Output\") for each item in the provided <see cref="List(Of GameInfo)"/> object,
+    ''' and finally compresses the directory containing all the URL files into a single ZIP file.
     ''' </summary>
-    ''' <param name="platformName">The name of the platform, used as the output base directory name.</param>
-    ''' <param name="subDirName">The subdirectory name to append to output directory path.</param>
-    ''' <param name="games">The <see cref="List(Of GameInfo)"/> containing the games from which to create URL files.</param>
+    ''' <param name="platformName">
+    ''' The name of the platform, used as the output base directory name.
+    ''' </param>
+    ''' <param name="subDirName">
+    ''' The subdirectory name to append to output directory path.
+    ''' </param>
+    ''' <param name="games">
+    ''' The <see cref="List(Of GameInfo)"/> containing the games from which to create URL files.
+    ''' </param>
     <DebuggerStepperBoundary>
     Friend Sub CreateUrlFiles(platformName As String, subDirName As String, games As List(Of GameInfo))
 
@@ -395,7 +474,6 @@ Friend Module GamefaqsUtil
         End If
 
         Console.WriteLine($"Creating URL files in: {outputDir.FullName.Replace("\\?\", "")}...")
-
         For Each game As GameInfo In games
             Dim sb As New StringBuilder()
             sb.AppendLine("[InternetShortcut]")
@@ -418,7 +496,47 @@ Friend Module GamefaqsUtil
         Console.WriteLine("Done.")
         Console.WriteLine("")
 
+        Console.WriteLine($"Compressing directory: {outputDir.FullName.Replace("\\?\", "")}...")
+        ZipFile.CreateFromDirectory(outputDir.FullName, $"\\?\{My.Application.Info.DirectoryPath}\Output\{platformName}\{subDirName}.zip",
+                                    CompressionLevel.Optimal, includeBaseDirectory:=False, Encoding.UTF8)
+        Console.WriteLine("Done.")
+        Console.WriteLine("")
+
     End Sub
+
+#End Region
+
+#Region " Private Methods "
+
+    ''' <summary>
+    ''' Calculates the ETA (Estimated Time of Arrival) for the <see cref="GamefaqsUtil.ScrapGames"/> method to finish.
+    ''' </summary>
+    ''' <param name="startTime">The start time.</param>
+    ''' <param name="currentPageIndex">Index of the current page.</param>
+    ''' <param name="currentEntryIndex">Index of the current entry.</param>
+    ''' <param name="lastPageNumber">The last page number.</param>
+    ''' <param name="currentEntryCount">The current entry count.</param>
+    ''' <returns>
+    ''' A string in format "hh:mm:ss" representing the ETA.
+    ''' </returns>
+    <DebuggerStepThrough>
+    Private Function CalculateETA(startTime As Date, currentPageIndex As Integer, currentEntryIndex As Integer,
+                                  lastPageNumber As Integer, currentEntryCount As Integer,
+                                  lastPageEntryCount As Integer) As String
+
+        Dim currentTime As Date = Date.Now
+        Dim elapsedTime As TimeSpan = currentTime - startTime
+
+        Dim completedEntries As Integer = (currentPageIndex * 100) + currentEntryIndex
+        Dim remainingEntries As Integer =
+            If(currentPageIndex <> (lastPageNumber - 1), (lastPageEntryCount * lastPageNumber) - currentEntryCount,
+                                                         100 - Math.Abs(lastPageEntryCount - currentEntryCount))
+
+        Dim estimatedTimePerEntry As TimeSpan = TimeSpan.FromMilliseconds(elapsedTime.TotalMilliseconds / completedEntries)
+        Dim estimatedTotalTime As TimeSpan = TimeSpan.FromMilliseconds(estimatedTimePerEntry.TotalMilliseconds * remainingEntries)
+
+        Return estimatedTotalTime.ToString("hh\:mm\:ss")
+    End Function
 
 #End Region
 

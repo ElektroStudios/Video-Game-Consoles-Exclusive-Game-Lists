@@ -58,6 +58,8 @@
       <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.IO.Compression.FileSystem" />
     <Reference Include="System.Net" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml" />
@@ -72,12 +74,15 @@
     <Compile Include="Model\PlatformBaseWithOnlineStore.vb" />
     <Compile Include="Model\PlatformBase.vb" />
     <Compile Include="Model\ExitCodes.vb" />
+    <Compile Include="Platforms\PlayStation 5.vb" />
+    <Compile Include="Win32\NativeMethods.vb" />
     <Compile Include="Platforms\GameBoyColor.vb" />
-    <Compile Include="Platforms\Playstation 1.vb" />
-    <Compile Include="Platforms\Playstation 2.vb" />
-    <Compile Include="Platforms\Playstation 4.vb" />
+    <Compile Include="Platforms\PlayStation 1.vb" />
+    <Compile Include="Platforms\PlayStation 2.vb" />
+    <Compile Include="Platforms\PlayStation 4.vb" />
     <Compile Include="Platforms\WonderSwanColor.vb" />
     <Compile Include="Platforms\WonderSwan.vb" />
+    <Compile Include="Win32\SafeWindowHandle.vb" />
     <Compile Include="Utils\GamefaqsUtil.vb" />
     <Compile Include="Model\GameInfo.vb" />
     <Compile Include="Model\IPlatform.vb" />
@@ -101,7 +106,7 @@
     </Compile>
     <Compile Include="Model\PlatformInfo.vb" />
     <Compile Include="Platforms\GameBoy.vb" />
-    <Compile Include="Platforms\Playstation 3.vb" />
+    <Compile Include="Platforms\PlayStation 3.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">

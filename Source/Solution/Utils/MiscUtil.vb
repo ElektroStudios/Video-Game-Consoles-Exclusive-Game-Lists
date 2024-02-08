@@ -39,8 +39,12 @@ Friend Module MiscUtil
     ''' Suspends the current thread for the a random number of milliseconds 
     ''' between the provided minimum and maximum values.
     ''' </summary>
-    ''' <param name="minimum">The minimum milliseconds to wait.</param>
-    ''' <param name="maximum">The maximum milliseconds to wait.</param>
+    ''' <param name="minimum">
+    ''' The minimum milliseconds to wait.
+    ''' </param>
+    ''' <param name="maximum">
+    ''' The maximum milliseconds to wait.
+    ''' </param>
     <DebuggerStepThrough>
     Friend Sub SleepRandom(minimum As Integer, maximum As Integer)
         Dim ms As Integer = MiscUtil.RandomGenerator.Next(minimum, maximum + 1)
@@ -51,8 +55,12 @@ Friend Module MiscUtil
     ''' Prints the input error message in the attached console, 
     ''' and closes the running application with the provided exit code.
     ''' </summary>
-    ''' <param name="errorMessage">The input error message to print in the attached console.</param>
-    ''' <param name="exitcode">The exit code to send when closing the running application.</param>
+    ''' <param name="errorMessage">
+    ''' The input error message to print in the attached console.
+    ''' </param>
+    ''' <param name="exitcode">
+    ''' The exit code to send when closing the running application.
+    ''' </param>
     <DebuggerStepThrough>
     Friend Sub PrintErrorAndExit(errorMessage As String, exitcode As Integer)
 
@@ -62,7 +70,7 @@ Friend Module MiscUtil
         sb.AppendLine("This program will close now. Press any key to continue...")
 
         Console.WriteLine(sb.ToString())
-        Console.ReadKey(intercept:=False)
+        Console.ReadKey(intercept:=True)
         Environment.Exit(exitcode)
 
     End Sub
@@ -72,9 +80,15 @@ Friend Module MiscUtil
     ''' <para></para>
     ''' Whenever it fails to download, it prints the HTTP error code and waits the specified interval to retry again.
     ''' </summary>
-    ''' <param name="uri">The input <see cref="Uri"/> from which to download the html page source-code.</param>
-    ''' <param name="refHtmlPage">A <see langword="ByRef"/> value that contains the resulting HTML page source-code when this method returns.</param>
-    ''' <param name="retryIntervalSeconds">The interval, in seconds, to wait for retry the download. Default value is: 10 seconds.</param>
+    ''' <param name="uri">
+    ''' The input <see cref="Uri"/> from which to download the html page source-code.
+    ''' </param>
+    ''' <param name="refHtmlPage">
+    ''' A <see langword="ByRef"/> value that contains the resulting HTML page source-code when this method returns.
+    ''' </param>
+    ''' <param name="retryIntervalSeconds">
+    ''' The interval, in seconds, to wait for retry the download. Default value is: 10 seconds.
+    ''' </param>
     <DebuggerStepThrough>
     Friend Sub DownloadHtmlPageWithRetry(uri As Uri, ByRef refHtmlPage As String,
                                          Optional retryIntervalSeconds As Integer = 10)
@@ -135,8 +149,12 @@ Friend Module MiscUtil
     ''' Converts the input string value to a valid file name that can be used in Windows OS,
     ''' by replacing any unsupported characters in the string.
     ''' </summary>
-    ''' <param name="value">The input string value.</param>
-    ''' <returns>The resulting file name that can be used in Windows OS.</returns>
+    ''' <param name="value">
+    ''' The input string value.
+    ''' </param>
+    ''' <returns>
+    ''' The resulting file name that can be used in Windows OS.
+    ''' </returns>
     <DebuggerStepThrough>
     Friend Function ConvertStringToWindowsFileName(value As String) As String
 

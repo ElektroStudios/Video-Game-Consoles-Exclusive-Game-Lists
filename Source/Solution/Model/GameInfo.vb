@@ -1,12 +1,4 @@
-﻿#Region "Option Statements"
-
-Option Explicit On
-Option Strict On
-Option Infer Off
-
-#End Region
-
-#Region " Imports"
+﻿#Region " Imports"
 
 Imports System.Diagnostics
 

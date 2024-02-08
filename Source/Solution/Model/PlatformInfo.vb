@@ -1,12 +1,4 @@
-﻿#Region "Option Statements"
-
-Option Explicit On
-Option Strict On
-Option Infer Off
-
-#End Region
-
-#Region " Imports"
+﻿#Region " Imports"
 
 Imports System.Diagnostics
 
@@ -63,8 +55,12 @@ Friend NotInheritable Class PlatformInfo
     ''' <summary>
     ''' Initializes a new instance of the <see cref="PlatformInfo"/> class.
     ''' </summary>
-    ''' <param name="name">The name for this platform. (e.g. PlayStation 3)</param>
-    ''' <param name="httpName">The name of this platform typed as it appears in the Gamefaqs url (e.g. ps3).</param>
+    ''' <param name="name">
+    ''' The name for this platform. (e.g. PlayStation 3)
+    ''' </param>
+    ''' <param name="httpName">
+    ''' The name of this platform typed as it appears in the Gamefaqs url (e.g. ps3).
+    ''' </param>
     <DebuggerNonUserCode>
     Friend Sub New(name As String, httpName As String)
         If String.IsNullOrWhiteSpace(name) Then

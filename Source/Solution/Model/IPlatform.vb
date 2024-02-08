@@ -1,12 +1,4 @@
-﻿#Region "Option Statements"
-
-Option Explicit On
-Option Strict On
-Option Infer Off
-
-#End Region
-
-#Region " IPlatform"
+﻿#Region " IPlatform"
 
 ''' <summary>
 ''' Interface used to define platforms.
