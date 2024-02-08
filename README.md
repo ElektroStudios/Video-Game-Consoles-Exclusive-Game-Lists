@@ -28,7 +28,8 @@
 | Amiga CD32 | Take me there | Take me there |
 | Atari Jaguar | Take me there | Take me there |
 | Atari Jaguar CD | Take me there | Take me there |
-| ColecoVision | Take me there | Take me there |
+| Coleco's ColecoVision | Take me there | Take me there |
+| Mattel Intellivision | Take me there | Take me there |
 | Microsoft Xbox / Xbox Classic | Take me there | Take me there |
 | Microsoft Xbox 360 | Take me there | Take me there |
 | Microsoft Xbox One | Take me there | Take me there |
