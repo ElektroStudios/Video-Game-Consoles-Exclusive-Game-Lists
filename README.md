@@ -1,3 +1,4 @@
+
 # Video game exclusivity database for consoles 🎮
 
 ### Comprehensive lists of exclusive video games released for many platforms.
@@ -9,9 +10,9 @@
 
 ------------------
 
-#### ℹ️ The intention of this repository is to serve as a point of reference with the following lists provided to easily find and identify which games were released exclusively for a specific platform, and which were not. 
+ ℹ️ The purpose of this repository is to serve as a point of reference with the following Markdown files provided to easily find and identify which games were released exclusively for a specific platform, and which were not. 
 
-#### 📝 Each file from the list below contains several tables in Markdown format: two tables listing the exclusive games and compilations for that platform, and two other tables for the multi-platform games and compilations released on that platform, if any.
+ 📝 Each file from the list below contains several tables in Markdown format: two tables listing the exclusive games and compilations for that platform, and two other tables for the multi-platform games and compilations released on that platform, if any.
 
 #### ⚠️ Disclaimer:
 - 🙏*This repository would not be possible without the existence of the Gamefaqs website and its video game database (Thank you very much for your work!).* 
@@ -21,43 +22,44 @@
 
  - ✔️*This work has been proven not to violate Gamefaqs rules for the use of web crawlers.* 
 
-## Console Systems
-
- - Amiga CD32
- - Atari Jaguar
- - Atari Jaguar CD
- - ColecoVision
- - Microsoft Xbox / Xbox Classic
- - Microsoft Xbox 360
- - Microsoft Xbox One
- - Microsoft Xbox Series X|S
- - NEC PC-Engine / TurboGrafx-16
- - NEC PC-Engine CD / TurboGrafx-CD
- - NEC PC-Engine SuperGrafx
- - Nintendo 64
- - Nintendo 64DD
- - Nintendo Entertainment System (NES)
- - Nintendo Famicom Disk System
- - Nintendo GameCube
- - Nintendo Switch
- - Nintendo Wii
- - Nintendo Wii-U
- - Nintendo's Super Nintendo / Super Famicom
- - Panasonic 3DO
- - Philips CD-i
- - Sega Dreamcast
- - Sega Mega Drive / Sega Genesis
- - Sega Mega Drive 32x / Sega 32x
- - Sega Mega-CD / Sega CD
- - Sega Saturn
- - Sega SG-1000
- - SNK Neo•Geo AES
- - SNK Neo•Geo CD
- - [Sony PlayStation / PSX / PSOne](/Tables/PlayStation.md)
- - [Sony PlayStation 2](/Tables/PlayStation%202.md)
- - [Sony PlayStation 3](/Tables/PlayStation%203.md)
- - Sony PlayStation 4
- - Sony PlayStation 5
+# Console Systems
+| Name | Exclusive Titles | Multi-Platform Titles |
+|--|--|--|
+| Amiga CD32 | Take me there | Take me there |
+| Atari Jaguar | Take me there | Take me there |
+| Atari Jaguar CD | Take me there | Take me there |
+| ColecoVision | Take me there | Take me there |
+| Microsoft Xbox / Xbox Classic | Take me there | Take me there |
+| Microsoft Xbox 360 | Take me there | Take me there |
+| Microsoft Xbox One | Take me there | Take me there |
+| Microsoft Xbox Series X\|S | Take me there | Take me there |
+| NEC PC-Engine / TurboGrafx-16 | Take me there | Take me there |
+| NEC PC-Engine CD / TurboGrafx-CD | Take me there | Take me there |
+| NEC PC-Engine SuperGrafx | Take me there | Take me there |
+| Nintendo 64 | Take me there | Take me there |
+| Nintendo 64DD | Take me there | Take me there |
+| Nintendo Entertainment System (NES) | Take me there | Take me there |
+| Nintendo Famicom Disk System | Take me there | Take me there |
+| Nintendo GameCube | Take me there | Take me there |
+| Nintendo Switch | Take me there | Take me there |
+| Nintendo Wii | Take me there | Take me there |
+| Nintendo Wii-U | Take me there | Take me there |
+| Nintendo's Super Nintendo / Super Famicom | Take me there | Take me there |
+| Panasonic 3DO | Take me there | Take me there |
+| Philips CD-i | Take me there | Take me there |
+| Sega Dreamcast | Take me there | Take me there |
+| Sega Mega Drive / Sega Genesis | Take me there | Take me there |
+| Sega Mega Drive 32x / Sega 32x | Take me there | Take me there |
+| Sega Mega-CD / Sega CD | Take me there | Take me there |
+| Sega Saturn | Take me there | Take me there |
+| Sega SG-1000 | Take me there | Take me there |
+| SNK Neo•Geo AES | Take me there | Take me there |
+| SNK Neo•Geo CD | Take me there | Take me there |
+| Sony PlayStation / PSX / PSOne | [Take me there ](/Tables/PlayStation.md) | Take me there |
+| Sony PlayStation 2 | [Take me there ](/Tables/PlayStation%202.md) | Take me there |
+| Sony PlayStation 3 | [Take me there ](/Tables/PlayStation%203.md) | Take me there |
+| Sony PlayStation 4 | Take me there | Take me there |
+| Sony PlayStation 5 | Take me there | Take me there |
 
 ## Handheld Systems
 
