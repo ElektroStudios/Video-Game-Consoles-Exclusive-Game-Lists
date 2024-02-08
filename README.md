@@ -39,20 +39,20 @@ THE CONTENT OF THIS REPOSITORY WILL BE UPDATED AS SOON AS POSSIBLE.
  - SNK Neo•Geo CD
  - Sony PlayStation / PSX / PSOne
  - Sony PlayStation 2
- - Sony PlayStation 3
+ - [Sony PlayStation 3](.\Tables\PlayStation%203.md)
  - Sony PlayStation 4
  - Sony PlayStation 5
 
 ## Handheld Systems
 
  - Atari Lynx
- - Bandai WonderSwan
- - Bandai WonderSwan Color
+ - [Bandai WonderSwan](.\Tables\WonderSwan.md)
+ - [Bandai WonderSwan Color](.\Tables\WonderSwan%20Color.md)
  - Evercade
  - Game Park GP32
  - Nintendo 3DS
  - Nintendo DS
- - Nintendo Game Boy
+ - [Nintendo Game Boy](.\Tables\Game%20Boy.md)
  - Nintendo Game Boy Advance
  - Nintendo Game Boy Color
  - Nokia N-Gage
