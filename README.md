@@ -1,9 +1,16 @@
-# Console Exclusive Game lists
-Comprehensive lists of exclusive games for many platforms.
+# Video game exclusivity database
+
+Comprehensive lists of exclusive video games for many platforms.
+
+The following lists are provided as a point of reference to easily identify which games were released exclusively for a specific platform. 
+
+Each list contains several tables, one for exclusive games, and other tables for compilations and cross-platform games released on the specific platform.
 
  \- WORK IN PROGRESS - 
 
 THE CONTENT OF THIS REPOSITORY WILL BE UPDATED AS SOON AS POSSIBLE.
+
+> LAST UPDATED ON FEBRUARY 8, 2024.
 
 ## Console Systems
 
@@ -63,11 +70,11 @@ THE CONTENT OF THIS REPOSITORY WILL BE UPDATED AS SOON AS POSSIBLE.
  - Sony PlayStation Portable (PSP)
  - Sony PlayStation Vita (PS Vita)
 
-## Micro Computers
+## Personal Computers
 
  - Acorn Archimedes
  - Amiga
- - Amiga Commodore 64 / Commodore 64 Games System (C64GS)
+ - Amiga Commodore 64
  - Amstrad CPC
  - Apple II
  - ASCII MSX / MSX2 / MSX2+
@@ -89,5 +96,3 @@ THE CONTENT OF THIS REPOSITORY WILL BE UPDATED AS SOON AS POSSIBLE.
  - Linux
  - Macintosh
  - PC (MS-DOS and Windows)
-
-> LAST UPDATED ON FEBRUARY 5, 2024.
