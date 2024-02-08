@@ -28,8 +28,8 @@
 | Amiga CD32 | Take me there | Take me there |
 | Atari Jaguar | Take me there | Take me there |
 | Atari Jaguar CD | Take me there | Take me there |
-| Coleco's ColecoVision | Take me there | Take me there |
-| Mattel Intellivision | Take me there | Take me there |
+| ColecoVision | Take me there | Take me there |
+| IntelliVision | Take me there | Take me there |
 | Microsoft Xbox / Xbox Classic | Take me there | Take me there |
 | Microsoft Xbox 360 | Take me there | Take me there |
 | Microsoft Xbox One | Take me there | Take me there |
@@ -37,6 +37,8 @@
 | NEC PC-Engine / TurboGrafx-16 | Take me there | Take me there |
 | NEC PC-Engine CD / TurboGrafx-CD | Take me there | Take me there |
 | NEC PC-Engine SuperGrafx | Take me there | Take me there |
+| Neo•Geo AES | Take me there | Take me there |
+| Neo•Geo CD | Take me there | Take me there |
 | Nintendo 64 | Take me there | Take me there |
 | Nintendo 64DD | Take me there | Take me there |
 | Nintendo Entertainment System (NES) | Take me there | Take me there |
@@ -45,7 +47,6 @@
 | Nintendo Switch | Take me there | Take me there |
 | Nintendo Wii | Take me there | Take me there |
 | Nintendo Wii-U | Take me there | Take me there |
-| Nintendo's Super Nintendo / Super Famicom | Take me there | Take me there |
 | Panasonic 3DO | Take me there | Take me there |
 | Philips CD-i | Take me there | Take me there |
 | Sega Dreamcast | Take me there | Take me there |
@@ -54,8 +55,7 @@
 | Sega Mega-CD / Sega CD | Take me there | Take me there |
 | Sega Saturn | Take me there | Take me there |
 | Sega SG-1000 | Take me there | Take me there |
-| SNK Neo•Geo AES | Take me there | Take me there |
-| SNK Neo•Geo CD | Take me there | Take me there |
+| Super Nintendo / Super Famicom | Take me there | Take me there |
 | Sony PlayStation / PSX / PSOne | [Take me there ](/Tables/PlayStation.md) | Take me there |
 | Sony PlayStation 2 | [Take me there ](/Tables/PlayStation%202.md) | Take me there |
 | Sony PlayStation 3 | [Take me there ](/Tables/PlayStation%203.md) | Take me there |
@@ -69,6 +69,8 @@
  - [Bandai WonderSwan Color](/Tables/WonderSwan%20Color.md)
  - Evercade
  - Game Park GP32
+ - Neo•Geo Pocket
+ - Neo•Geo Pocket Color
  - Nintendo 3DS
  - Nintendo DS
  - [Nintendo Game Boy](/Tables/Game%20Boy.md)
@@ -77,8 +79,6 @@
  - Nokia N-Gage
  - Sega Game Gear
  - Sega Master System / Sega Mark III
- - SNK Neo•Geo Pocket
- - SNK Neo•Geo Pocket Color
  - Sony PlayStation Portable (PSP)
  - Sony PlayStation Vita (PS Vita)
 
@@ -89,15 +89,16 @@
  - Amiga Commodore 64
  - Amstrad CPC
  - Apple II
- - ASCII MSX / MSX2 / MSX2+
  - Atari 2600
  - Atari 7800
  - Atari 8-bit
  - Atari ST
- - Fujitsu FM Towns
+ - FM Towns
+ - MSX / MSX2 / MSX2+
  - NEC PC-98
  - NEC PC-FX
  - Sharp X1
+ - Sharp X68000
  - Sinclair ZX81 / Spectrum
 
 ## Other Platforms
