@@ -5,9 +5,7 @@
 
 The intention of this repository is to serve as a point of reference, with the following lists provided to easily identify which games were released exclusively for a specific platform. 
 
-Each list contains several tables in Markdown format, one table for exclusive games and other tables for compilations and multi-platform games released on the specific platform.
-
-This repository would not be possible without the existence of the Gamefaqs website and its video game database (Thank you very much for your work!).
+Each list contains several tables in Markdown format: one table for exclusive games and other tables for compilations and multi-platform games released on that platform.
 
  \- WORK IN PROGRESS - 
 
@@ -15,11 +13,12 @@ THE CONTENT OF THIS REPOSITORY WILL BE UPDATED AS SOON AS POSSIBLE.
 
 > LAST UPDATED ON FEBRUARY 8, 2024.
 
-#### Disclaimer:
+This repository would not be possible without the existence of the Gamefaqs website and its video game database (Thank you very much for your work!).
 
-*This work is the sole product of my own efforts and does not have any affiliation with or endorsement from Gamefaqs or its staff members.* 
-
-*Any opinions expressed by me and any files and hyperlinks provided in this repository are of my responsibility and perhaps may not necessarily reflect the interests of Gamefaqs or its staff.*
+##### Disclaimer:
+##### *This work is the sole product of my own efforts and does not have any affiliation with or endorsement from Gamefaqs or its staff members.* 
+##### *Any opinions expressed by me and any files and hyperlinks provided in this repository are of my responsibility and perhaps may not necessarily reflect the interests of Gamefaqs or its staff.*
+##### *This work has been proven not to violate Gamefaqs rules for the use of web crawlers.* 
 
 ## Console Systems
 
