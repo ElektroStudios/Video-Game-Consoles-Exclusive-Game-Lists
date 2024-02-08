@@ -1,17 +1,17 @@
 
-# Video game exclusivity database
+# Video game exclusivity database for consoles
 
 ### Comprehensive lists of exclusive video games released for many platforms.
+
+ ![](https://t3.ftcdn.net/jpg/05/09/92/72/360_F_509927238_S101CU2kPTgpA4FREveQI8gsSEUBSl4f.jpg)
+
+> THE CONTENT OF THIS REPOSITORY WILL BE UPDATED AS SOON AS POSSIBLE.
+>  
+> LAST UPDATED ON FEBRUARY 8, 2024.
 
 The intention of this repository is to serve as a point of reference, with the following lists provided to easily identify which games were released exclusively for a specific platform. 
 
 Each list contains several tables in Markdown format: one table for exclusive games and other tables for compilations and multi-platform games released on that platform.
-
- \- WORK IN PROGRESS - 
-
-THE CONTENT OF THIS REPOSITORY WILL BE UPDATED AS SOON AS POSSIBLE.
-
-> LAST UPDATED ON FEBRUARY 8, 2024.
 
 This repository would not be possible without the existence of the Gamefaqs website and its video game database (Thank you very much for your work!).
 
