@@ -12,24 +12,23 @@
 
 ------------------
 
-### ℹ️ Introduction:
+## 👋 Introduction
 
- 👋 The purpose of this repository is to serve as a point of reference with the following Markdown files provided to easily find and identify which games were released exclusively for a specific platform, and which were not.
+The purpose of this repository is to serve as a point of reference with the following Markdown files provided through the tables below to easily find and identify which games were released exclusively for a specific platform, and which were not.
 
- 📄 When doing click on the elements of the following tables it will redirect your web-browser to a Markdown file containing several tables listing the exclusive games and compilations, or the multi-platform titles respectively.
+Note: GitHub will not render Markdown files that are considered too big, so I'll recommend you to use the fast and open-sorce program [Markdown Viewer](https://github.com/c3er/mdview) if you require to view some of these Markdown files offline.
 
- 📥 GitHub will not render Markdown files that are considered too big, so I'll recommend you to use the lightweight program [Markdown Viewer](https://github.com/c3er/mdview) if you require to view some of these Markdown files offline.
+## 🏆 Credits
 
-### ⚠️ Disclaimer:
+This repository would not be possible without the existence of Gamefaqs website with its video game database. Thank you very much for your work, guys!. 🙏 
 
- - 💪*This repository would not be possible without the existence of the Gamefaqs website and its video game database (Thank you very much for your work, guys!).* 🙏 
+## ‼️ Disclaimer:
 
- - ‼️ *This work is the sole product of my own efforts and it does not have any affiliation with or endorsement from Gamefaqs or its staff members.* 
-   *Any opinions expressed by me and any files and hyperlinks provided in this repository are of my responsibility and perhaps may not necessarily would reflect the interests of Gamefaqs or its staff members.*
+This work (the repository and the content provided through) has no affiliation, approval or endorsement by Gamefaqs or its staff. Therefore, this work may not necessarily reflect the interests of Gamefaqs or its staff.
 
- - ✔️*This work has been proven not to violate Gamefaqs rules for the use of our web crawler.* 
+## 💰 Contributing
 
- - 💰 This project is distributed completely altruistically, without any profit motive. However, if you are interested in contributing financially to support my work, you could consider to purchase one of my commercial works: [DevCase Class Library for .NET Framework and .NET Core](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282) or else make a [Paypal Donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY) to buy me a coffee. Thank you in advance!.
+This work is distributed for educational purposes and without any profit motive. Anyway, if you are interested in contributing financially to support my contributions, you could consider to purchase one of my commercial works: [DevCase Class Library for .NET Framework and .NET Core](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282) or else make a [donation through Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY) to buy me a coffee (Thank you!).
 
 # Home Consoles
 | Name | Exclusive Titles | Multi-Platform Titles |
