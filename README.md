@@ -16,7 +16,7 @@
 
  👋 The purpose of this repository is to serve as a point of reference with the following Markdown files provided to easily find and identify which games were released exclusively for a specific platform, and which were not.
 
- 📄 When doing click on the elements of the tables below it will redirect you to the a Markdown file containing several tables listing the exclusive games and compilations, or the multi-platform titles respectively.
+ 📄 When doing click on the elements of the following tables it will redirect your web-browser to a Markdown file containing several tables listing the exclusive games and compilations, or the multi-platform titles respectively.
 
  📥 GitHub will not render Markdown files that are considered too big, so I'll recommend you to use the lightweight program [Markdown Viewer](https://github.com/c3er/mdview) if you require to view some of these Markdown files offline.
 
