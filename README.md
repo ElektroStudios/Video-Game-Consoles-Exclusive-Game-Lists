@@ -33,91 +33,91 @@ This work is distributed for educational purposes and without any profit motive.
 # Home Consoles
 | Name | Exclusive Titles | Multi-Platform Titles |
 |--|--|--|
-| Amiga CD32 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| ColecoVision | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Dreamcast | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| GameCube | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| IntelliVision | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Jaguar | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Jaguar CD | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Mega Drive / Sega Genesis | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Mega Drive 32x / Sega 32x | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Mega-CD / Sega CD | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Neo•Geo AES | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Neo•Geo CD | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Nintendo 64 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Nintendo 64DD | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Nintendo Entertainment System (NES) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Nintendo Famicom Disk System | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Nintendo Wii | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Panasonic 3DO | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| PC-Engine / TurboGrafx-16 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| PC-Engine CD / TurboGrafx-CD | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| PC-Engine SuperGrafx | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Philips CD-i | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| PlayStation / PSX / PSOne | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| PlayStation 2 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| PlayStation 3 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| PlayStation 4 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| PlayStation 5 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Sega Saturn | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| SG-1000 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Super Nintendo / Super Famicom | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Xbox (Classic) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Xbox 360 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Xbox One | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Xbox Series X\|S | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ✔️ Amiga CD32 | [📄Table](/Tables/Amiga%20CD32%20(Exclusives).md) ➖ [🗜️Zip file](/Zip/Amiga%20CD32%20(Exclusives).zip) | [📄Table](/Tables/Amiga%20CD32%20(Multi-platform).md) ➖ [🗜️Zip file](/Zip/Amiga%20CD32%20(Multi-platform).zip) |
+| ‼️ NOT AVAILABLE - ColecoVision | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Dreamcast | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - GameCube | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - IntelliVision | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Jaguar | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Jaguar CD | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Mega Drive / Sega Genesis | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Mega Drive 32x / Sega 32x | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Mega-CD / Sega CD | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Neo•Geo AES | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Neo•Geo CD | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Nintendo 64 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Nintendo 64DD | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Nintendo Entertainment System (NES) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Nintendo Famicom Disk System | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Nintendo Wii | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Panasonic 3DO | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - PC-Engine / TurboGrafx-16 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - PC-Engine CD / TurboGrafx-CD | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - PC-Engine SuperGrafx | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Philips CD-i | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - PlayStation / PSX / PSOne | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - PlayStation 2 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - PlayStation 3 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - PlayStation 4 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - PlayStation 5 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Sega Saturn | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - SG-1000 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Super Nintendo / Super Famicom | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Xbox (Classic) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Xbox 360 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Xbox One | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Xbox Series X\|S | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
 
 # Handheld Consoles
 | Name | Exclusive Titles | Multi-Platform Titles |
 |--|--|--|
-| Atari Lynx | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Evercade | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Game Boy | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Game Boy Advance | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Game Boy Color | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Game Gear | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Game Park GP32 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Master System / Sega Mark III | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Neo•Geo Pocket | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Neo•Geo Pocket Color | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Nintendo DS | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Nintendo 3DS | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Nintendo Switch | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Nokia N-Gage | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| PlayStation Portable (PSP) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| PlayStation Vita (PS Vita) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Wii-U | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| WonderSwan | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| WonderSwan Color | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Atari Lynx | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Evercade | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Game Boy | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Game Boy Advance | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Game Boy Color | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Game Gear | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Game Park GP32 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Master System / Sega Mark III | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Neo•Geo Pocket | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Neo•Geo Pocket Color | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Nintendo DS | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Nintendo 3DS | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Nintendo Switch | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Nokia N-Gage | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - PlayStation Portable (PSP) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - PlayStation Vita (PS Vita) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Wii-U | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - WonderSwan | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - WonderSwan Color | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
 
 # Personal Computers
 | Name | Exclusive Titles | Multi-Platform Titles |
 |--|--|--|
-| Acorn Archimedes | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Amiga | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Amstrad CPC | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Apple II | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Atari 2600 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Atari 5200 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Atari 7800 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Atari's 8-bit Family | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Atari ST | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Commodore 64 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| FM Towns | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| MSX / MSX2 / MSX2+ | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| NEC PC-98 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| NEC PC-FX | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Sharp X1 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Sharp X68000 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Sinclair ZX81 / Spectrum | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ✔️ Acorn Archimedes | [📄Table](/Tables/Acorn%20Archimedes%20(Exclusives).md) ➖ [🗜️Zip file](/Zip/Acorn%20Archimedes%20(Exclusives).zip) | [📄Table](/Tables/Acorn%20Archimedes%20(Multi-platform).md) ➖ [🗜️Zip file](/Zip/Acorn%20Archimedes%20(Multi-platform).zip) |
+| ✔️ Amiga | [📄Table](/Tables/Amiga%20(Exclusives).md) ➖ [🗜️Zip file](/Zip/Amiga%20(Exclusives).zip) | [📄Table](/Tables/Amiga%20(Multi-platform).md) ➖ [🗜️Zip file](/Zip/Amiga%20(Multi-platform).zip) |
+| ✔️ Amstrad CPC | [📄Table](/Tables/Amstrad%20CPC%20(Exclusives).md) ➖ [🗜️Zip file](/Zip/Amstrad%20CPC%20(Exclusives).zip) | [📄Table](/Tables/Amstrad%20CPC%20(Multi-platform).md) ➖ [🗜️Zip file](/Zip/Amstrad%20CPC%20(Multi-platform).zip) |
+| ‼️ NOT AVAILABLE - Apple II | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Atari 2600 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Atari 5200 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Atari 7800 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Atari's 8-bit Family | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Atari ST | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Commodore 64 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - FM Towns | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - MSX / MSX2 / MSX2+ | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - NEC PC-98 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - NEC PC-FX | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Sharp X1 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Sharp X68000 | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Sinclair ZX81 / Spectrum | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
 
 # Other Platforms
 | Name | Exclusive Titles | Multi-Platform Titles |
 |--|--|--|
-| Android | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Arcade Games | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| iOS (iPhone / iPad) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Macintosh (Mac) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| PC (MS-DOS and Windows) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
-| Unix / Linux | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Android | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Arcade Games | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - iOS (iPhone / iPad) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Macintosh (Mac) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - PC (MS-DOS and Windows) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Unix / Linux | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) ➖ [🗜️Zip file](/Zip/xxxxx.zip) |
