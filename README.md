@@ -5,21 +5,31 @@
 ![](https://t3.ftcdn.net/jpg/05/09/92/72/360_F_509927238_S101CU2kPTgpA4FREveQI8gsSEUBSl4f.jpg)
 > THE CONTENT OF THIS REPOSITORY WILL BE UPDATED AS SOON AS POSSIBLE.
 >  
-> LAST UPDATED ON FEBRUARY 8, 2024.
+> ACTUALLY THERE ARE NO TABLES AVAILABLE. THEY ARE UNDER CONSTRUCTION.
+> PLEASE WAIT A FEW DAYS, IT WILL NOT TAKE MUCH MORE TO BE AVAILABLE FOR ALL OF YOU.
+>  
+> LAST UPDATED ON FEBRUARY 9, 2024.
 
 ------------------
 
- ℹ️ The purpose of this repository is to serve as a point of reference with the following Markdown files provided to easily find and identify which games were released exclusively for a specific platform, and which were not. 
+### ℹ️ Introduction:
 
- 📝 Each file from the list below contains several tables in Markdown format: two tables listing the exclusive games and compilations for that platform, and two other tables for the multi-platform games and compilations released on that platform, if any.
+ 👋 The purpose of this repository is to serve as a point of reference with the following Markdown files provided to easily find and identify which games were released exclusively for a specific platform, and which were not.
 
-#### ⚠️ Disclaimer:
-- 🙏*This repository would not be possible without the existence of the Gamefaqs website and its video game database (Thank you very much for your work!).* 
+ 📄 When doing click on the elements of the tables below it will redirect you to the a Markdown file containing several tables listing the exclusive games and compilations, or the multi-platform titles respectively.
 
- - ‼️ *This work is the sole product of my own efforts and does not have any affiliation with or endorsement from Gamefaqs or its staff members.* 
-   *Any opinions expressed by me and any files and hyperlinks provided in this repository are of my only responsibility and perhaps may not necessarily reflect the interests of Gamefaqs or its staff.*
+ 📥 GitHub will not render Markdown files that are considered too big, so I'll recommend you to use the lightweight program [Markdown Viewer](https://github.com/c3er/mdview) if you require to view some of these Markdown files offline.
 
- - ✔️*This work has been proven not to violate Gamefaqs rules for the use of web crawlers.* 
+### ⚠️ Disclaimer:
+
+ - 💪*This repository would not be possible without the existence of the Gamefaqs website and its video game database (Thank you very much for your work, guys!).* 🙏 
+
+ - ‼️ *This work is the sole product of my own efforts and it does not have any affiliation with or endorsement from Gamefaqs or its staff members.* 
+   *Any opinions expressed by me and any files and hyperlinks provided in this repository are of my responsibility and perhaps may not necessarily would reflect the interests of Gamefaqs or its staff members.*
+
+ - ✔️*This work has been proven not to violate Gamefaqs rules for the use of our web crawler.* 
+
+ - 💰 This project is distributed completely altruistically, without any profit motive. However, if you are interested in contributing financially to support my work, you could consider to purchase one of my commercial works: [DevCase Class Library for .NET Framework and .NET Core](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282) or else make a [Paypal Donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY) to buy me a coffee. Thank you in advance!.
 
 # Home Consoles
 | Name | Exclusive Titles | Multi-Platform Titles |
@@ -107,7 +117,6 @@
 | Name | Exclusive Titles | Multi-Platform Titles |
 |--|--|--|
 | Android | [Take me there](/Tables/xxxxx.md) | [Take me there](/Tables/xxxxx.md) |
-| Apple II | [Take me there](/Tables/xxxxx.md) | [Take me there](/Tables/xxxxx.md) |
 | Arcade Games | [Take me there](/Tables/xxxxx.md) | [Take me there](/Tables/xxxxx.md) |
 | iOS (iPhone / iPad) | [Take me there](/Tables/xxxxx.md) | [Take me there](/Tables/xxxxx.md) |
 | Macintosh (Mac) | [Take me there](/Tables/xxxxx.md) | [Take me there](/Tables/xxxxx.md) |
