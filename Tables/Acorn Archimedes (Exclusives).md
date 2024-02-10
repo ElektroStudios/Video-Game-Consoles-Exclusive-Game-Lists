@@ -1,6 +1,6 @@
 ﻿# List of exclusive Acorn Archimedes titles.
 
-> *Last updated on February 9, 2024*
+> *Last updated on February 10, 2024*
 
 _Platform exclusivity refers to the status of a video game being developed for and released only on the specified platform._
 
@@ -108,3 +108,5 @@ _Platform exclusivity refers to the status of a video game being developed for a
 |:--:|--|--|--|
 |1|<a href="https://gamefaqs.gamespot.com/arch/952808-bug-hunter-moondash" target="_blank" rel="noopener noreferrer">Bug Hunter / Moondash</a>|<a href="https://gamefaqs.gamespot.com/arch/952808-bug-hunter-moondash/data" target="_blank" rel="noopener noreferrer">1990</a>|<a href="https://gamefaqs.gamespot.com/arch/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/arch/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |2|<a href="https://gamefaqs.gamespot.com/arch/961488-play-it-again-sam-2" target="_blank" rel="noopener noreferrer">Play it again Sam 2</a>|<a href="https://gamefaqs.gamespot.com/arch/961488-play-it-again-sam-2/data" target="_blank" rel="noopener noreferrer">1993</a>|<a href="https://gamefaqs.gamespot.com/arch/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/arch/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
+
+# End of File

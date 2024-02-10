@@ -1,6 +1,6 @@
 ﻿# List of exclusive Amiga titles.
 
-> *Last updated on February 9, 2024*
+> *Last updated on February 10, 2024*
 
 _Platform exclusivity refers to the status of a video game being developed for and released only on the specified platform._
 
@@ -1895,3 +1895,5 @@ _Platform exclusivity refers to the status of a video game being developed for a
 |319|<a href="https://gamefaqs.gamespot.com/amiga/676983-world-cup-year-90" target="_blank" rel="noopener noreferrer">World Cup Year '90</a>|<a href="https://gamefaqs.gamespot.com/amiga/676983-world-cup-year-90/data" target="_blank" rel="noopener noreferrer">1990</a>|<a href="https://gamefaqs.gamespot.com/amiga/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/amiga/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |320|<a href="https://gamefaqs.gamespot.com/amiga/676984-world-cup-year-94" target="_blank" rel="noopener noreferrer">World Cup Year '94</a>|<a href="https://gamefaqs.gamespot.com/amiga/676984-world-cup-year-94/data" target="_blank" rel="noopener noreferrer">1994</a>|<a href="https://gamefaqs.gamespot.com/amiga/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/amiga/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |321|<a href="https://gamefaqs.gamespot.com/amiga/937851-zzzep-monk" target="_blank" rel="noopener noreferrer">Zzzep / Monk</a>|<a href="https://gamefaqs.gamespot.com/amiga/937851-zzzep-monk/data" target="_blank" rel="noopener noreferrer">1990</a>|<a href="https://gamefaqs.gamespot.com/amiga/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/amiga/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
+
+# End of File

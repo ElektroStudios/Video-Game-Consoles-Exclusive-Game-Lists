@@ -1,6 +1,6 @@
 ﻿# List of multi-platform Amiga titles.
 
-> *Last updated on February 9, 2024*
+> *Last updated on February 10, 2024*
 
 _Multi-platform refers to the status of a video game being developed and released on multiple platforms._
 
@@ -2491,3 +2491,5 @@ _Multi-platform refers to the status of a video game being developed and release
 |114|<a href="https://gamefaqs.gamespot.com/amiga/676981-winning-team" target="_blank" rel="noopener noreferrer">Winning Team</a>|<a href="https://gamefaqs.gamespot.com/amiga/676981-winning-team/data" target="_blank" rel="noopener noreferrer">1991</a>|<a href="https://gamefaqs.gamespot.com/amiga/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/amiga/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |115|<a href="https://gamefaqs.gamespot.com/amiga/676985-world-of-business" target="_blank" rel="noopener noreferrer">World Of Business</a>|<a href="https://gamefaqs.gamespot.com/amiga/676985-world-of-business/data" target="_blank" rel="noopener noreferrer">1992</a>|<a href="https://gamefaqs.gamespot.com/amiga/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/amiga/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |116|<a href="https://gamefaqs.gamespot.com/amiga/949814-zork-trilogy" target="_blank" rel="noopener noreferrer">Zork Trilogy</a>|<a href="https://gamefaqs.gamespot.com/amiga/949814-zork-trilogy/data" target="_blank" rel="noopener noreferrer">1987</a>|<a href="https://gamefaqs.gamespot.com/amiga/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/amiga/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
+
+# End of File

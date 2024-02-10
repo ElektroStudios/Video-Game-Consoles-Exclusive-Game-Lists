@@ -1,6 +1,6 @@
 ﻿# List of exclusive Amiga CD32 titles.
 
-> *Last updated on February 9, 2024*
+> *Last updated on February 10, 2024*
 
 _Platform exclusivity refers to the status of a video game being developed for and released only on the specified platform._
 
@@ -55,3 +55,5 @@ _Platform exclusivity refers to the status of a video game being developed for a
 |9|<a href="https://gamefaqs.gamespot.com/cd32/640228-sleepwalker-and-pinball-fantasies" target="_blank" rel="noopener noreferrer">Sleepwalker & Pinball Fantasies</a>|<a href="https://gamefaqs.gamespot.com/cd32/640228-sleepwalker-and-pinball-fantasies/data" target="_blank" rel="noopener noreferrer">1993</a>|<a href="https://gamefaqs.gamespot.com/cd32/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/cd32/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |10|<a href="https://gamefaqs.gamespot.com/cd32/997287-the-big-6" target="_blank" rel="noopener noreferrer">The Big 6</a>|<a href="https://gamefaqs.gamespot.com/cd32/997287-the-big-6/data" target="_blank" rel="noopener noreferrer">1994</a>|<a href="https://gamefaqs.gamespot.com/cd32/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/cd32/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |11|<a href="https://gamefaqs.gamespot.com/cd32/619975-ultimate-body-blows-and-project-x-special-edition" target="_blank" rel="noopener noreferrer">Ultimate Body Blows & Project-X: Special Edition</a>|<a href="https://gamefaqs.gamespot.com/cd32/619975-ultimate-body-blows-and-project-x-special-edition/data" target="_blank" rel="noopener noreferrer">1994</a>|<a href="https://gamefaqs.gamespot.com/cd32/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/cd32/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
+
+# End of File

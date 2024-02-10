@@ -1,6 +1,6 @@
 ﻿# List of multi-platform Amiga CD32 titles.
 
-> *Last updated on February 9, 2024*
+> *Last updated on February 10, 2024*
 
 _Multi-platform refers to the status of a video game being developed and released on multiple platforms._
 
@@ -178,3 +178,5 @@ _Multi-platform refers to the status of a video game being developed and release
 |2|<a href="https://gamefaqs.gamespot.com/cd32/411978-cubulus-and-magic-serpent" target="_blank" rel="noopener noreferrer">Cubulus & Magic Serpent</a>|<a href="https://gamefaqs.gamespot.com/cd32/411978-cubulus-and-magic-serpent/data" target="_blank" rel="noopener noreferrer">1991</a>|<a href="https://gamefaqs.gamespot.com/cd32/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/cd32/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |3|<a href="https://gamefaqs.gamespot.com/cd32/619889-gamers-delight" target="_blank" rel="noopener noreferrer">Gamers' Delight</a>|<a href="https://gamefaqs.gamespot.com/cd32/619889-gamers-delight/data" target="_blank" rel="noopener noreferrer">1994</a>|<a href="https://gamefaqs.gamespot.com/cd32/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/cd32/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |4|<a href="https://gamefaqs.gamespot.com/cd32/956483-humans-1-and-2" target="_blank" rel="noopener noreferrer">Humans 1 and 2</a>|<a href="https://gamefaqs.gamespot.com/cd32/956483-humans-1-and-2/data" target="_blank" rel="noopener noreferrer">1994</a>|<a href="https://gamefaqs.gamespot.com/cd32/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/cd32/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
+
+# End of File

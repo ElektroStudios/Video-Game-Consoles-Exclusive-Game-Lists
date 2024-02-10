@@ -1,6 +1,6 @@
 ﻿# List of multi-platform Acorn Archimedes titles.
 
-> *Last updated on February 9, 2024*
+> *Last updated on February 10, 2024*
 
 _Multi-platform refers to the status of a video game being developed and released on multiple platforms._
 
@@ -117,3 +117,5 @@ _Multi-platform refers to the status of a video game being developed and release
 |:--:|--|--|--|
 |1|<a href="https://gamefaqs.gamespot.com/arch/361069-speccy-classix-3000" target="_blank" rel="noopener noreferrer">Speccy Classix 3000</a>|<a href="https://gamefaqs.gamespot.com/arch/361069-speccy-classix-3000/data" target="_blank" rel="noopener noreferrer">1999</a>|<a href="https://gamefaqs.gamespot.com/arch/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/arch/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |2|<a href="https://gamefaqs.gamespot.com/arch/379024-the-magnetic-scrolls-collection" target="_blank" rel="noopener noreferrer">The Magnetic Scrolls Collection</a>|<a href="https://gamefaqs.gamespot.com/arch/379024-the-magnetic-scrolls-collection/data" target="_blank" rel="noopener noreferrer">1991</a>|<a href="https://gamefaqs.gamespot.com/arch/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/arch/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
+
+# End of File

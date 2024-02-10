@@ -1,6 +1,6 @@
 ﻿# List of multi-platform Amstrad CPC titles.
 
-> *Last updated on February 9, 2024*
+> *Last updated on February 10, 2024*
 
 _Multi-platform refers to the status of a video game being developed and released on multiple platforms._
 
@@ -1943,3 +1943,5 @@ _Multi-platform refers to the status of a video game being developed and release
 |85|<a href="https://gamefaqs.gamespot.com/cpc/280699-wheels-of-fire" target="_blank" rel="noopener noreferrer">Wheels Of Fire</a>|<a href="https://gamefaqs.gamespot.com/cpc/280699-wheels-of-fire/data" target="_blank" rel="noopener noreferrer">1991</a>|<a href="https://gamefaqs.gamespot.com/cpc/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/cpc/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |86|<a href="https://gamefaqs.gamespot.com/cpc/280700-winners-1989" target="_blank" rel="noopener noreferrer">Winners (1989)</a>|<a href="https://gamefaqs.gamespot.com/cpc/280700-winners-1989/data" target="_blank" rel="noopener noreferrer">1989</a>|<a href="https://gamefaqs.gamespot.com/cpc/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/cpc/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |87|<a href="https://gamefaqs.gamespot.com/cpc/280701-winning-team" target="_blank" rel="noopener noreferrer">Winning Team</a>|<a href="https://gamefaqs.gamespot.com/cpc/280701-winning-team/data" target="_blank" rel="noopener noreferrer">1991</a>|<a href="https://gamefaqs.gamespot.com/cpc/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/cpc/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
+
+# End of File

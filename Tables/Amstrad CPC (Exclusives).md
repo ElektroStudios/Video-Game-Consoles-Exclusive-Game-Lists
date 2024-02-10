@@ -1,6 +1,6 @@
 ﻿# List of exclusive Amstrad CPC titles.
 
-> *Last updated on February 9, 2024*
+> *Last updated on February 10, 2024*
 
 _Platform exclusivity refers to the status of a video game being developed for and released only on the specified platform._
 
@@ -429,3 +429,5 @@ _Platform exclusivity refers to the status of a video game being developed for a
 |11|<a href="https://gamefaqs.gamespot.com/cpc/273193-power-plays" target="_blank" rel="noopener noreferrer">Power Plays</a>|<a href="https://gamefaqs.gamespot.com/cpc/273193-power-plays/data" target="_blank" rel="noopener noreferrer">1987</a>|<a href="https://gamefaqs.gamespot.com/cpc/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/cpc/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |12|<a href="https://gamefaqs.gamespot.com/cpc/225536-the-gold-collection-iii" target="_blank" rel="noopener noreferrer">The Gold Collection III</a>|<a href="https://gamefaqs.gamespot.com/cpc/225536-the-gold-collection-iii/data" target="_blank" rel="noopener noreferrer">1987</a>|<a href="https://gamefaqs.gamespot.com/cpc/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/cpc/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |13|<a href="https://gamefaqs.gamespot.com/cpc/200377-they-sold-a-million" target="_blank" rel="noopener noreferrer">They Sold A Million</a>|<a href="https://gamefaqs.gamespot.com/cpc/200377-they-sold-a-million/data" target="_blank" rel="noopener noreferrer">1985</a>|<a href="https://gamefaqs.gamespot.com/cpc/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/cpc/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
+
+# End of File
