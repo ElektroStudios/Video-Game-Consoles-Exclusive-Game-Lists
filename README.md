@@ -77,7 +77,7 @@ This work is distributed for educational purposes and without any profit motive.
 | ‼️ NOT AVAILABLE - Sega Saturn | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - SG-1000 | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Super Nintendo / Super Famicom | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
-| ✔️ Virtual Boy | (All)](https://gamefaqs.gamespot.com/virtualboy/category/999-all) | (None) |
+| ✔️ Virtual Boy | [(All)](https://gamefaqs.gamespot.com/virtualboy/category/999-all) | (None) |
 | ‼️ NOT AVAILABLE - Xbox (Classic) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Xbox 360 | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Xbox One | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
