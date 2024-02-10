@@ -7,7 +7,7 @@
 >
 > Content for platforms with a mark ‼️ are under construction.
 > 
-> Content for platforms with a mark ✔️ are ready and finished.
+> Content for platforms with a mark ✔️ are completed.
 > 
 > PLEASE WAIT A FEW DAYS, IT WILL NOT TAKE MUCH MORE TO BE AVAILABLE FOR ALL OF YOU.
 > 
