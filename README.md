@@ -55,7 +55,7 @@ This work is distributed for educational purposes and without any profit motive.
 | ‼️ NOT AVAILABLE - Dreamcast | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - GameCube | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - IntelliVision | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
-| ‼️ NOT AVAILABLE - Jaguar | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
+| ✔️ Jaguar | [📄Table](/Tables/Atari%20Jaguar%20(Exclusives).md) or [🗜️Zip](/Zip/Atari%20Jaguar%20(Exclusives).zip) | [📄Table](/Tables/Atari%20Jaguar%20(Multi-platform).md) or [🗜️Zip](/Zip/Atari%20Jaguar%20(Multi-platform).zip) |
 | ‼️ NOT AVAILABLE - Jaguar CD | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Mega Drive / Sega Genesis | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Mega Drive 32x / Sega 32x | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
@@ -89,7 +89,7 @@ This work is distributed for educational purposes and without any profit motive.
 # Handheld Consoles
 | Name | Exclusive Titles | Multi-Platform Titles |
 |--|--|--|
-| ‼️ NOT AVAILABLE - Atari Lynx | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
+| ✔️ Atari Lynx | [📄Table](/Tables/Atari%20Lynx%20(Exclusives).md) or [🗜️Zip](/Zip/Atari%20Lynx%20(Exclusives).zip) | [📄Table](/Tables/Atari%20Lynx%20(Multi-platform).md) or [🗜️Zip](/Zip/Atari%20Lynx%20(Multi-platform).zip) |
 | ‼️ NOT AVAILABLE - Evercade | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Game Boy | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Game Boy Advance | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
@@ -115,12 +115,12 @@ This work is distributed for educational purposes and without any profit motive.
 | ✔️ Acorn Archimedes | [📄Table](/Tables/Acorn%20Archimedes%20(Exclusives).md) or [🗜️Zip](/Zip/Acorn%20Archimedes%20(Exclusives).zip) | [📄Table](/Tables/Acorn%20Archimedes%20(Multi-platform).md) or [🗜️Zip](/Zip/Acorn%20Archimedes%20(Multi-platform).zip) |
 | ✔️ Amiga | [📄Table](/Tables/Amiga%20(Exclusives).md) or [🗜️Zip](/Zip/Amiga%20(Exclusives).zip) | [📄Table](/Tables/Amiga%20(Multi-platform).md) or [🗜️Zip](/Zip/Amiga%20(Multi-platform).zip) |
 | ✔️ Amstrad CPC | [📄Table](/Tables/Amstrad%20CPC%20(Exclusives).md) or [🗜️Zip](/Zip/Amstrad%20CPC%20(Exclusives).zip) | [📄Table](/Tables/Amstrad%20CPC%20(Multi-platform).md) or [🗜️Zip](/Zip/Amstrad%20CPC%20(Multi-platform).zip) |
-| ‼️ NOT AVAILABLE - Apple II | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
-| ‼️ NOT AVAILABLE - Atari 2600 | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
-| ‼️ NOT AVAILABLE - Atari 5200 | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
-| ‼️ NOT AVAILABLE - Atari 7800 | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
+| ✔️ Apple II | [📄Table](/Tables/Apple%20II%20(Exclusives).md) or [🗜️Zip](/Zip/Apple%20II%20(Exclusives).zip) | [📄Table](/Tables/Apple%20II%20(Multi-platform).md) or [🗜️Zip](/Zip/Apple%20II%20(Multi-platform).zip) |
+| ✔️ Atari 2600 | [📄Table](/Tables/Atari%202600%20(Exclusives).md) or [🗜️Zip](/Zip/Atari%202600%20(Exclusives).zip) | [📄Table](/Tables/Atari%202600%20(Multi-platform).md) or [🗜️Zip](/Zip/Atari%202600%20(Multi-platform).zip) |
+| ✔️ Atari 5200 | [📄Table](/Tables/Atari%205200%20(Exclusives).md) or [🗜️Zip](/Zip/Atari%205200%20(Exclusives).zip) | [📄Table](/Tables/Atari%205200%20(Multi-platform).md) or [🗜️Zip](/Zip/Atari%205200%20(Multi-platform).zip) |
+| ✔️ Atari 7800 | [📄Table](/Tables/Atari%207800%20(Exclusives).md) or [🗜️Zip](/Zip/Atari%207800%20(Exclusives).zip) | [📄Table](/Tables/Atari%207800%20(Multi-platform).md) or [🗜️Zip](/Zip/Atari%207800%20(Multi-platform).zip) |
 | ‼️ NOT AVAILABLE - Atari's 8-bit Family | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
-| ‼️ NOT AVAILABLE - Atari ST | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
+| ✔️ Atari ST | [📄Table](/Tables/Atari%20ST%20(Exclusives).md) or [🗜️Zip](/Zip/Atari%20ST%20(Exclusives).zip) | [📄Table](/Tables/Atari%20ST%20(Multi-platform).md) or [🗜️Zip](/Zip/Atari%20ST%20(Multi-platform).zip) |
 | ‼️ NOT AVAILABLE - Commodore 64 | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - FM Towns | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - MSX / MSX2 / MSX2+ | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
@@ -133,8 +133,8 @@ This work is distributed for educational purposes and without any profit motive.
 # Other Platforms
 | Name | Exclusive Titles | Multi-Platform Titles |
 |--|--|--|
-| ‼️ NOT AVAILABLE - Android | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
-| ‼️ NOT AVAILABLE - Arcade Games | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
+| ✔️ Android | [📄Table](/Tables/Android%20(Exclusives).md) or [🗜️Zip](/Zip/Android%20(Exclusives).zip) | [📄Table](/Tables/Android%20(Multi-platform).md) or [🗜️Zip](/Zip/Android%20(Multi-platform).zip) |
+| ✔️ Arcade Games | [📄Table](/Tables/Arcade%20Cabinets%20(Exclusives).md) or [🗜️Zip](/Zip/Arcade%20Cabinets%20(Exclusives).zip) | [📄Table](/Tables/Arcade%20Cabinets%20(Multi-platform).md) or [🗜️Zip](/Zip/Arcade%20Cabinets%20(Multi-platform).zip) |
 | ‼️ NOT AVAILABLE - iOS (iPhone / iPad) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Macintosh (Mac) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - PC (MS-DOS and Windows) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
