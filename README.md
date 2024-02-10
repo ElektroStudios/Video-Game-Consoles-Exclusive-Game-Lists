@@ -40,7 +40,7 @@ The game entries of the tables are limited by the game entries that exist on the
 
 ## 💰 Contributing Beyond
 
-This work is distributed for educational purposes and without any profit motive. Anyway, if you are interested in contributing financially to support my work, you could consider to purchase one of my commercial works: [DevCase Class Library for .NET Framework and .NET Core](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282) or else make a [donation through Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY) to buy me a coffee (Thank you!).
+This work is distributed for educational purposes and without any profit motive. Anyway, if you are interested in contributing financially to support my general work, you could consider to purchase one of my commercial works: [DevCase Class Library for .NET Framework and .NET Core](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282) or else make a [donation through Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY) to buy me a coffee (Thank you!).
 
 # Home Consoles
 | Name | Exclusive Titles | Multi-Platform Titles |
