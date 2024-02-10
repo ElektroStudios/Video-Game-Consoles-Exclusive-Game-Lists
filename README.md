@@ -4,11 +4,13 @@
 
 ![](https://t3.ftcdn.net/jpg/05/09/92/72/360_F_509927238_S101CU2kPTgpA4FREveQI8gsSEUBSl4f.jpg)
 > THE CONTENT OF THIS REPOSITORY WILL BE UPDATED AS SOON AS POSSIBLE.
->  
-> ACTUALLY THERE ARE NO TABLES AVAILABLE. THEY ARE UNDER CONSTRUCTION.
+>
+> Content for platforms with a mark ‼️ are under construction.
+> Content for platforms with a mark ✔️ are ready and finished.
+> 
 > PLEASE WAIT A FEW DAYS, IT WILL NOT TAKE MUCH MORE TO BE AVAILABLE FOR ALL OF YOU.
->  
-> LAST UPDATED ON FEBRUARY 9, 2024.
+> 
+> LAST UPDATED ON FEBRUARY 10, 2024.
 
 ------------------
 
@@ -60,7 +62,7 @@ This work is distributed for educational purposes and without any profit motive.
 | ‼️ NOT AVAILABLE - Neo•Geo AES | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Neo•Geo CD | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Nintendo 64 | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
-| ✔️ Nintendo 64DD | [(All)](https://gamefaqs.gamespot.com/n64dd/category/999-all) | (None) |
+| ✔️ Nintendo 64DD | [(All Games)](https://gamefaqs.gamespot.com/n64dd/category/999-all) | (None) |
 | ‼️ NOT AVAILABLE - Nintendo Entertainment System (NES) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Nintendo Famicom Disk System | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Nintendo Wii | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
@@ -77,7 +79,7 @@ This work is distributed for educational purposes and without any profit motive.
 | ‼️ NOT AVAILABLE - Sega Saturn | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - SG-1000 | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Super Nintendo / Super Famicom | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
-| ✔️ Virtual Boy | [(All)](https://gamefaqs.gamespot.com/virtualboy/category/999-all) | (None) |
+| ✔️ Virtual Boy | [(All Games)](https://gamefaqs.gamespot.com/virtualboy/category/999-all) | (None) |
 | ‼️ NOT AVAILABLE - Xbox (Classic) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Xbox 360 | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Xbox One | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
