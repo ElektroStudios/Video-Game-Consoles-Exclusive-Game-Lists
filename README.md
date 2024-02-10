@@ -18,6 +18,12 @@ The purpose of this repository is to serve as a reference point with the followi
 
 Note: GitHub will not render Markdown files that are considered too big, so I'll recommend you to use the fast and open-sorce program [Markdown Viewer](https://github.com/c3er/mdview) if you require to view some of these Markdown files offline.
 
+## </> Structure
+
+Each Markdown file generally contain at least two tables. The Markdown files for platform exclusive titles will contain a first table of platform exclusive titles released on that platform, a second table of platform exclusive compilations released on that platform (if any), and additionally a third table of platform exclusive digital downloadable titles in case of platforms having an online store, such the Nintendo eShop or PlayStation Store.
+
+For the Markdown files of multi-platform titles it is the same structure; It will contain a first table of multi-platform titles released on that platform, a second table of multi-platform compilations released on that platform (if any), and a third table of multi-platform digital downloadable titles in case of platforms having an online store.
+
 ## 🏆 Credits
 
 This repository would not be possible without the existence of Gamefaqs website with its video game database. Thank you very much for your work, guys!. 🙏 
