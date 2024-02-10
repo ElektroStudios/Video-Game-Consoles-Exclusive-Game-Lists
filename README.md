@@ -46,7 +46,7 @@ This work is distributed for educational purposes and without any profit motive.
 
 # Home Consoles
 | Name | Exclusive Titles | Multi-Platform Titles |
-|--|--|--|
+|--|:--:|:--:|
 | ✔️ Amiga CD32 | [📄Table](/Tables/Amiga%20CD32%20(Exclusives).md) or [🗜️Zip](/Zip/Amiga%20CD32%20(Exclusives).zip) | [📄Table](/Tables/Amiga%20CD32%20(Multi-platform).md) or [🗜️Zip](/Zip/Amiga%20CD32%20(Multi-platform).zip) |
 | ‼️ NOT AVAILABLE - ColecoVision | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Dreamcast | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
@@ -60,7 +60,7 @@ This work is distributed for educational purposes and without any profit motive.
 | ‼️ NOT AVAILABLE - Neo•Geo AES | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Neo•Geo CD | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Nintendo 64 | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
-| ‼️ NOT AVAILABLE - Nintendo 64DD | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
+| ✔️ Nintendo 64DD | All | None |
 | ‼️ NOT AVAILABLE - Nintendo Entertainment System (NES) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Nintendo Famicom Disk System | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Nintendo Wii | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
@@ -77,6 +77,7 @@ This work is distributed for educational purposes and without any profit motive.
 | ‼️ NOT AVAILABLE - Sega Saturn | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - SG-1000 | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Super Nintendo / Super Famicom | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
+| ✔️ Virtual Boy | All | None |
 | ‼️ NOT AVAILABLE - Xbox (Classic) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Xbox 360 | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Xbox One | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
