@@ -32,9 +32,13 @@ This repository would not be possible without the existence of Gamefaqs website 
 
 This work (the repository and the content provided through) has no affiliation, approval or endorsement by Gamefaqs or its staff. Therefore, this work may not necessarily reflect the interests of Gamefaqs or its staff.
 
-## 💰 Contributing
+## 💪 Contributing
 
-This work is distributed for educational purposes and without any profit motive. Anyway, if you are interested in contributing financially to support my contributions, you could consider to purchase one of my commercial works: [DevCase Class Library for .NET Framework and .NET Core](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282) or else make a [donation through Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY) to buy me a coffee (Thank you!).
+The game entries of the tables are limited by the game entries that exist on the Gamefaqs website. This means that if you notice that an exclusive or multi-platform game is missing for a platform, it is possible that the game is cancelled, has not yet been released, or there is no entry on the Gamefaqs website. Please check if that is the case before creating an issue.
+
+## 💰 Contributing Beyond
+
+This work is distributed for educational purposes and without any profit motive. Anyway, if you are interested in contributing financially to support my work, you could consider to purchase one of my commercial works: [DevCase Class Library for .NET Framework and .NET Core](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282) or else make a [donation through Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY) to buy me a coffee (Thank you!).
 
 # Home Consoles
 | Name | Exclusive Titles | Multi-Platform Titles |
