@@ -38,6 +38,8 @@ This work (the repository and the content provided through) has no affiliation, 
 
 The game entries of the tables are limited by the game entries that exist on the Gamefaqs website. This means that if you notice that an exclusive or multi-platform game is missing for a platform, it is possible that the game is cancelled, has not yet been released, or there is no entry on the Gamefaqs website. Please check if that is the case before creating an issue.
 
+Requesting the addition of new tables for other platforms is allowed, but such platform must exist on the Gamefaqs website, and it must not be a console whose games are all exclusive (e.g. Nintendo Virtual Boy).
+
 ## 💰 Contributing Beyond
 
 This work is distributed for educational purposes and without any profit motive. Anyway, if you are interested in contributing financially to support my general work, you could consider to purchase one of my commercial works: [DevCase Class Library for .NET Framework and .NET Core](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282) or else make a [donation through Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY) to buy me a coffee (Thank you!).
