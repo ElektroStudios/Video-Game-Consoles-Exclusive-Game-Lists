@@ -105,7 +105,7 @@ This work is distributed for educational purposes and without any profit motive.
 | ‼️ NOT AVAILABLE - Nokia N-Gage | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - PlayStation Portable (PSP) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - PlayStation Vita (PS Vita) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) |
-| ‼️ NOT AVAILABLE - Wii-U | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) |
+| ‼️ NOT AVAILABLE - Nintendo Wii-U | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - WonderSwan | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - WonderSwan Color | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) |
 
