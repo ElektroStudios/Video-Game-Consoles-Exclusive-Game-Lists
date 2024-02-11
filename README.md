@@ -134,7 +134,7 @@ This work is distributed for educational purposes and without any profit motive.
 | Name | Exclusive Titles | Multi-Platform Titles |
 |--|--|--|
 | ✔️ Android | [📄Table](/Tables/Android%20(Exclusives).md) or [🗜️Zip](/Zip/Android%20(Exclusives).zip) | [📄Table](/Tables/Android%20(Multi-platform).md) or [🗜️Zip](/Zip/Android%20(Multi-platform).zip) |
-| ✔️ Arcade Games | [📄Table](/Tables/Arcade%20Cabinets%20(Exclusives).md) or [🗜️Zip](/Zip/Arcade%20Cabinets%20(Exclusives).zip) | [📄Table](/Tables/Arcade%20Cabinets%20(Multi-platform).md) or [🗜️Zip](/Zip/Arcade%20Cabinets%20(Multi-platform).zip) |
+| ✔️ Arcade Cabinets | [📄Table](/Tables/Arcade%20Cabinets%20(Exclusives).md) or [🗜️Zip](/Zip/Arcade%20Cabinets%20(Exclusives).zip) | [📄Table](/Tables/Arcade%20Cabinets%20(Multi-platform).md) or [🗜️Zip](/Zip/Arcade%20Cabinets%20(Multi-platform).zip) |
 | ‼️ NOT AVAILABLE - iOS (iPhone / iPad) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - Macintosh (Mac) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
 | ‼️ NOT AVAILABLE - PC (MS-DOS and Windows) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zip/xxxxx.zip) |
