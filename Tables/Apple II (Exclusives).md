@@ -1,6 +1,6 @@
 ﻿# List of exclusive Apple II titles.
 
-> *Last updated on February 10, 2024*
+> *Last updated on February 11, 2024*
 
 _Platform exclusivity refers to the status of a video game being developed for and released only on the specified platform._
 
@@ -1049,3 +1049,5 @@ _Platform exclusivity refers to the status of a video game being developed for a
 |18|<a href="https://gamefaqs.gamespot.com/appleii/349019-the-apple-tapes-introductory-programs-for-the-apple-ii-plus" target="_blank" rel="noopener noreferrer">The Apple Tapes: Introductory Programs for the Apple II plus</a>|<a href="https://gamefaqs.gamespot.com/appleii/349019-the-apple-tapes-introductory-programs-for-the-apple-ii-plus/data" target="_blank" rel="noopener noreferrer">1979</a>|<a href="https://gamefaqs.gamespot.com/appleii/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/appleii/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |19|<a href="https://gamefaqs.gamespot.com/appleii/344367-the-best-of-muse" target="_blank" rel="noopener noreferrer">The Best of MUSE</a>|<a href="https://gamefaqs.gamespot.com/appleii/344367-the-best-of-muse/data" target="_blank" rel="noopener noreferrer">1980</a>|<a href="https://gamefaqs.gamespot.com/appleii/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/appleii/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |20|<a href="https://gamefaqs.gamespot.com/appleii/356117-viper-patrol-and-rods-revenge" target="_blank" rel="noopener noreferrer">Viper Patrol & Rod's Revenge</a>|<a href="https://gamefaqs.gamespot.com/appleii/356117-viper-patrol-and-rods-revenge/data" target="_blank" rel="noopener noreferrer">1988</a>|<a href="https://gamefaqs.gamespot.com/appleii/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/appleii/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
+
+# End of File

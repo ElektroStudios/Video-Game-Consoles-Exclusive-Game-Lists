@@ -1,6 +1,6 @@
 ﻿# List of multi-platform Atari ST titles.
 
-> *Last updated on February 10, 2024*
+> *Last updated on February 11, 2024*
 
 _Multi-platform refers to the status of a video game being developed and released on multiple platforms._
 
@@ -1718,3 +1718,5 @@ _Multi-platform refers to the status of a video game being developed and release
 |52|<a href="https://gamefaqs.gamespot.com/ast/280776-winners-1989" target="_blank" rel="noopener noreferrer">Winners (1989)</a>|<a href="https://gamefaqs.gamespot.com/ast/280776-winners-1989/data" target="_blank" rel="noopener noreferrer">1989</a>|<a href="https://gamefaqs.gamespot.com/ast/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/ast/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |53|<a href="https://gamefaqs.gamespot.com/ast/280775-winning-team" target="_blank" rel="noopener noreferrer">Winning Team</a>|<a href="https://gamefaqs.gamespot.com/ast/280775-winning-team/data" target="_blank" rel="noopener noreferrer">1991</a>|<a href="https://gamefaqs.gamespot.com/ast/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/ast/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |54|<a href="https://gamefaqs.gamespot.com/ast/948905-zork-trilogy" target="_blank" rel="noopener noreferrer">Zork Trilogy</a>|<a href="https://gamefaqs.gamespot.com/ast/948905-zork-trilogy/data" target="_blank" rel="noopener noreferrer">1987</a>|<a href="https://gamefaqs.gamespot.com/ast/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/ast/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
+
+# End of File

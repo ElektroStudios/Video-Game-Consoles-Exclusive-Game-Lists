@@ -1,6 +1,6 @@
 ﻿# List of exclusive Atari ST titles.
 
-> *Last updated on February 10, 2024*
+> *Last updated on February 11, 2024*
 
 _Platform exclusivity refers to the status of a video game being developed for and released only on the specified platform._
 
@@ -313,3 +313,5 @@ _Platform exclusivity refers to the status of a video game being developed for a
 |3|<a href="https://gamefaqs.gamespot.com/ast/218422-atari-powerpack" target="_blank" rel="noopener noreferrer">Atari Powerpack</a>|<a href="https://gamefaqs.gamespot.com/ast/218422-atari-powerpack/data" target="_blank" rel="noopener noreferrer">1989</a>|<a href="https://gamefaqs.gamespot.com/ast/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/ast/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |4|<a href="https://gamefaqs.gamespot.com/ast/383314-multicours-4eme" target="_blank" rel="noopener noreferrer">Multicours 4eme</a>|<a href="https://gamefaqs.gamespot.com/ast/383314-multicours-4eme/data" target="_blank" rel="noopener noreferrer">1988</a>|<a href="https://gamefaqs.gamespot.com/ast/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/ast/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |5|<a href="https://gamefaqs.gamespot.com/ast/218439-u5" target="_blank" rel="noopener noreferrer">U5</a>|<a href="https://gamefaqs.gamespot.com/ast/218439-u5/data" target="_blank" rel="noopener noreferrer">1988</a>|<a href="https://gamefaqs.gamespot.com/ast/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/ast/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
+
+# End of File

@@ -1,6 +1,6 @@
 ﻿# List of multi-platform Apple II titles.
 
-> *Last updated on February 10, 2024*
+> *Last updated on February 11, 2024*
 
 _Multi-platform refers to the status of a video game being developed and released on multiple platforms._
 
@@ -1413,3 +1413,5 @@ _Multi-platform refers to the status of a video game being developed and release
 |17|<a href="https://gamefaqs.gamespot.com/appleii/410507-trucker-and-streets-of-the-city" target="_blank" rel="noopener noreferrer">Trucker & Streets of the City</a>|<a href="https://gamefaqs.gamespot.com/appleii/410507-trucker-and-streets-of-the-city/data" target="_blank" rel="noopener noreferrer">1981</a>|<a href="https://gamefaqs.gamespot.com/appleii/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/appleii/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |18|<a href="https://gamefaqs.gamespot.com/appleii/225562-ultima-trilogy" target="_blank" rel="noopener noreferrer">Ultima Trilogy</a>|<a href="https://gamefaqs.gamespot.com/appleii/225562-ultima-trilogy/data" target="_blank" rel="noopener noreferrer">1989</a>|<a href="https://gamefaqs.gamespot.com/appleii/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/appleii/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
 |19|<a href="https://gamefaqs.gamespot.com/appleii/366280-zork-trilogy" target="_blank" rel="noopener noreferrer">Zork Trilogy</a>|<a href="https://gamefaqs.gamespot.com/appleii/366280-zork-trilogy/data" target="_blank" rel="noopener noreferrer">1987</a>|<a href="https://gamefaqs.gamespot.com/appleii/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/appleii/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
+
+# End of File

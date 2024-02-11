@@ -1,6 +1,6 @@
 ﻿# List of exclusive Atari Lynx titles.
 
-> *Last updated on February 10, 2024*
+> *Last updated on February 11, 2024*
 
 _Platform exclusivity refers to the status of a video game being developed for and released only on the specified platform._
 
@@ -65,3 +65,5 @@ _Platform exclusivity refers to the status of a video game being developed for a
 |Index|Title|Year|Genre|
 |:--:|--|--|--|
 |1|<a href="https://gamefaqs.gamespot.com/lynx/587000-super-asteroids-and-missile-command" target="_blank" rel="noopener noreferrer">Super Asteroids & Missile Command</a>|<a href="https://gamefaqs.gamespot.com/lynx/587000-super-asteroids-and-missile-command/data" target="_blank" rel="noopener noreferrer">1994</a>|<a href="https://gamefaqs.gamespot.com/lynx/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/lynx/category/233-miscellaneous-compilation" target="_blank" rel="noopener noreferrer">Compilation</a>|
+
+# End of File

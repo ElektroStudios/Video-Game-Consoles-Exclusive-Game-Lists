@@ -1,6 +1,6 @@
 ﻿# List of multi-platform Atari Lynx titles.
 
-> *Last updated on February 10, 2024*
+> *Last updated on February 11, 2024*
 
 _Multi-platform refers to the status of a video game being developed and released on multiple platforms._
 
@@ -70,3 +70,5 @@ _Multi-platform refers to the status of a video game being developed and release
 |50|<a href="https://gamefaqs.gamespot.com/lynx/587013-xenophobe" target="_blank" rel="noopener noreferrer">Xenophobe</a>|<a href="https://gamefaqs.gamespot.com/lynx/587013-xenophobe/data" target="_blank" rel="noopener noreferrer">1992</a>|<a href="https://gamefaqs.gamespot.com/lynx/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/lynx/category/250-action-general" target="_blank" rel="noopener noreferrer">General</a>|
 |51|<a href="https://gamefaqs.gamespot.com/lynx/587014-xybots" target="_blank" rel="noopener noreferrer">Xybots</a>|<a href="https://gamefaqs.gamespot.com/lynx/587014-xybots/data" target="_blank" rel="noopener noreferrer">1991</a>|<a href="https://gamefaqs.gamespot.com/lynx/category/163-action-adventure" target="_blank" rel="noopener noreferrer">Action Adventure</a> &raquo; <a href="https://gamefaqs.gamespot.com/lynx/category/293-action-adventure-linear" target="_blank" rel="noopener noreferrer">Linear</a>|
 |52|<a href="https://gamefaqs.gamespot.com/lynx/587015-zarlor-mercenary" target="_blank" rel="noopener noreferrer">Zarlor Mercenary</a>|<a href="https://gamefaqs.gamespot.com/lynx/587015-zarlor-mercenary/data" target="_blank" rel="noopener noreferrer">1990</a>|<a href="https://gamefaqs.gamespot.com/lynx/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/lynx/category/55-action-shooter" target="_blank" rel="noopener noreferrer">Shooter</a> &raquo; <a href="https://gamefaqs.gamespot.com/lynx/category/313-action-shooter-shoot-em-up" target="_blank" rel="noopener noreferrer">Shoot-&#039;Em-Up</a> &raquo; <a href="https://gamefaqs.gamespot.com/lynx/category/83-action-shooter-shoot-em-up-vertical" target="_blank" rel="noopener noreferrer">Vertical</a>|
+
+# End of File

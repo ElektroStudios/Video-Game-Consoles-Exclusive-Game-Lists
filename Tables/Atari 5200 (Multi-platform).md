@@ -1,6 +1,6 @@
 ﻿# List of multi-platform Atari 5200 titles.
 
-> *Last updated on February 10, 2024*
+> *Last updated on February 11, 2024*
 
 _Multi-platform refers to the status of a video game being developed and released on multiple platforms._
 
@@ -85,3 +85,5 @@ _Multi-platform refers to the status of a video game being developed and release
 |65|<a href="https://gamefaqs.gamespot.com/atari5200/585371-zaxxon" target="_blank" rel="noopener noreferrer">Zaxxon</a>|<a href="https://gamefaqs.gamespot.com/atari5200/585371-zaxxon/data" target="_blank" rel="noopener noreferrer">1983</a>|<a href="https://gamefaqs.gamespot.com/atari5200/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari5200/category/55-action-shooter" target="_blank" rel="noopener noreferrer">Shooter</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari5200/category/313-action-shooter-shoot-em-up" target="_blank" rel="noopener noreferrer">Shoot-&#039;Em-Up</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari5200/category/83-action-shooter-shoot-em-up-vertical" target="_blank" rel="noopener noreferrer">Vertical</a>|
 |66|<a href="https://gamefaqs.gamespot.com/atari5200/585372-zenji" target="_blank" rel="noopener noreferrer">Zenji</a>|<a href="https://gamefaqs.gamespot.com/atari5200/585372-zenji/data" target="_blank" rel="noopener noreferrer">1984</a>|<a href="https://gamefaqs.gamespot.com/atari5200/category/173-puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari5200/category/282-puzzle-action" target="_blank" rel="noopener noreferrer">Action</a>|
 |67|<a href="https://gamefaqs.gamespot.com/atari5200/585373-zone-ranger" target="_blank" rel="noopener noreferrer">Zone Ranger</a>|<a href="https://gamefaqs.gamespot.com/atari5200/585373-zone-ranger/data" target="_blank" rel="noopener noreferrer">1984</a>|<a href="https://gamefaqs.gamespot.com/atari5200/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari5200/category/55-action-shooter" target="_blank" rel="noopener noreferrer">Shooter</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari5200/category/313-action-shooter-shoot-em-up" target="_blank" rel="noopener noreferrer">Shoot-&#039;Em-Up</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari5200/category/83-action-shooter-shoot-em-up-vertical" target="_blank" rel="noopener noreferrer">Vertical</a>|
+
+# End of File

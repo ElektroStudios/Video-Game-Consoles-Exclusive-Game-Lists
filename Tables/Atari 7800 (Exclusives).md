@@ -1,6 +1,6 @@
-﻿# List of exclusive Atari 7800∶ titles.
+﻿# List of exclusive Atari 7800 titles.
 
-> *Last updated on February 10, 2024*
+> *Last updated on February 11, 2024*
 
 _Platform exclusivity refers to the status of a video game being developed for and released only on the specified platform._
 
@@ -34,3 +34,5 @@ _Platform exclusivity refers to the status of a video game being developed for a
 |6|<a href="https://gamefaqs.gamespot.com/atari7800/585431-super-skateboardin" target="_blank" rel="noopener noreferrer">Super Skateboardin'</a>|<a href="https://gamefaqs.gamespot.com/atari7800/585431-super-skateboardin/data" target="_blank" rel="noopener noreferrer">1988</a>|<a href="https://gamefaqs.gamespot.com/atari7800/category/43-sports" target="_blank" rel="noopener noreferrer">Sports</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari7800/category/92-sports-individual" target="_blank" rel="noopener noreferrer">Individual</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari7800/category/102-sports-individual-skate-skateboard" target="_blank" rel="noopener noreferrer">Skate / Skateboard</a>|
 |7|<a href="https://gamefaqs.gamespot.com/atari7800/585432-tank-command" target="_blank" rel="noopener noreferrer">Tank Command</a>|<a href="https://gamefaqs.gamespot.com/atari7800/585432-tank-command/data" target="_blank" rel="noopener noreferrer">1988</a>|<a href="https://gamefaqs.gamespot.com/atari7800/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari7800/category/55-action-shooter" target="_blank" rel="noopener noreferrer">Shooter</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari7800/category/313-action-shooter-shoot-em-up" target="_blank" rel="noopener noreferrer">Shoot-&#039;Em-Up</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari7800/category/272-action-shooter-shoot-em-up-top-down" target="_blank" rel="noopener noreferrer">Top-Down</a>|
 |8|<a href="https://gamefaqs.gamespot.com/atari7800/585438-water-ski" target="_blank" rel="noopener noreferrer">Water Ski</a>|<a href="https://gamefaqs.gamespot.com/atari7800/585438-water-ski/data" target="_blank" rel="noopener noreferrer">1988</a>|<a href="https://gamefaqs.gamespot.com/atari7800/category/47-racing" target="_blank" rel="noopener noreferrer">Racing</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari7800/category/314-racing-arcade" target="_blank" rel="noopener noreferrer">Arcade</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari7800/category/235-racing-arcade-other" target="_blank" rel="noopener noreferrer">Other</a>|
+
+# End of File

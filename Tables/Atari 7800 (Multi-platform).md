@@ -1,6 +1,6 @@
-﻿# List of multi-platform Atari 7800∶ titles.
+﻿# List of multi-platform Atari 7800 titles.
 
-> *Last updated on February 10, 2024*
+> *Last updated on February 11, 2024*
 
 _Multi-platform refers to the status of a video game being developed and released on multiple platforms._
 
@@ -70,3 +70,5 @@ _Multi-platform refers to the status of a video game being developed and release
 |50|<a href="https://gamefaqs.gamespot.com/atari7800/585439-winter-games" target="_blank" rel="noopener noreferrer">Winter Games</a>|<a href="https://gamefaqs.gamespot.com/atari7800/585439-winter-games/data" target="_blank" rel="noopener noreferrer">1988</a>|<a href="https://gamefaqs.gamespot.com/atari7800/category/43-sports" target="_blank" rel="noopener noreferrer">Sports</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari7800/category/92-sports-individual" target="_blank" rel="noopener noreferrer">Individual</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari7800/category/231-sports-individual-athletics" target="_blank" rel="noopener noreferrer">Athletics</a>|
 |51|<a href="https://gamefaqs.gamespot.com/atari7800/585440-xenophobe" target="_blank" rel="noopener noreferrer">Xenophobe</a>|<a href="https://gamefaqs.gamespot.com/atari7800/585440-xenophobe/data" target="_blank" rel="noopener noreferrer">1989</a>|<a href="https://gamefaqs.gamespot.com/atari7800/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari7800/category/250-action-general" target="_blank" rel="noopener noreferrer">General</a>|
 |52|<a href="https://gamefaqs.gamespot.com/atari7800/585441-xevious" target="_blank" rel="noopener noreferrer">Xevious</a>|<a href="https://gamefaqs.gamespot.com/atari7800/585441-xevious/data" target="_blank" rel="noopener noreferrer">1986</a>|<a href="https://gamefaqs.gamespot.com/atari7800/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari7800/category/55-action-shooter" target="_blank" rel="noopener noreferrer">Shooter</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari7800/category/313-action-shooter-shoot-em-up" target="_blank" rel="noopener noreferrer">Shoot-&#039;Em-Up</a> &raquo; <a href="https://gamefaqs.gamespot.com/atari7800/category/83-action-shooter-shoot-em-up-vertical" target="_blank" rel="noopener noreferrer">Vertical</a>|
+
+# End of File
