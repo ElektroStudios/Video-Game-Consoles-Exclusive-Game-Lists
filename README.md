@@ -54,7 +54,7 @@ This work is distributed for educational purposes and without any profit motive.
 
 # Home Consoles
 | Name | Exclusive Titles | Multi-Platform Titles |
-|:--:|--|:--:|
+|:--:|:--|:--|
 | ✔️ Amiga CD32 <br></br><p><img src="/Thumbs/cd32.jpg" width="100px" height="100px"></p> | <p>📄[Table](/Tables/Amiga%20CD32%20(Exclusives).md)</p><p>🗜️[Zip](/Zips/Amiga%20CD32%20(Exclusives).zip)</p> | <p>📄[Table](/Tables/Amiga%20CD32%20(Multi-platform).md)</p><p>🗜️[Zip](/Zips/Amiga%20CD32%20(Multi-platform).zip)</p> |
 | ✔️ ColecoVision <br></br><p><img src="/Thumbs/colecovision.jpg" width="100px" height="100px"></p> | <p>📄[Table](/Tables/ColecoVision%20(Exclusives).md)</p><p>🗜️[Zip](/Zips/ColecoVision%20(Exclusives).zip)</p> | <p>📄[Table](/Tables/ColecoVision%20(Multi-platform).md)</p><p>🗜️[Zip](/Zips/ColecoVision%20(Multi-platform).zip)</p> |
 | ✔️ Dreamcast <br></br><p><img src="/Thumbs/dreamcast.jpg" width="100px" height="100px"></p> | <p>📄[Table](/Tables/Dreamcast%20(Exclusives).md)</p><p>🗜️[Zip](/Zips/Dreamcast%20(Exclusives).zip)</p> | <p>📄[Table](/Tables/Dreamcast%20(Multi-platform).md)</p><p>🗜️[Zip](/Zips/Dreamcast%20(Multi-platform).zip)</p> |
@@ -92,7 +92,7 @@ This work is distributed for educational purposes and without any profit motive.
 
 # Handheld Consoles
 | Name | Exclusive Titles | Multi-Platform Titles |
-|--|--|--|
+|:--:|:--|:--|
 | ✔️ Atari Lynx <br></br><p><img src="/Thumbs/lynx.jpg" width="100px" height="100px"></p> | <p>📄[Table](/Tables/Atari%20Lynx%20(Exclusives).md)</p><p>🗜️[Zip](/Zips/Atari%20Lynx%20(Exclusives).zip)</p> | <p>📄[Table](/Tables/Atari%20Lynx%20(Multi-platform).md)</p><p>🗜️[Zip](/Zips/Atari%20Lynx%20(Multi-platform).zip)</p> |
 | ✔️ Evercade <br></br><p><img src="/Thumbs/evercade.jpg" width="100px" height="100px"></p> | <p>📄[Table](/Tables/Evercade%20(Exclusives).md)</p><p>🗜️[Zip](/Zips/Evercade%20(Exclusives).zip)</p> | <p>📄[Table](/Tables/Evercade%20(Multi-platform).md)</p><p>🗜️[Zip](/Zips/Evercade%20(Multi-platform).zip)</p> |
 | ✔️ Game Boy <br></br><p><img src="/Thumbs/gameboy.jpg" width="100px" height="100px"></p> | <p>📄[Table](/Tables/Game%20Boy%20(Exclusives).md)</p><p>🗜️[Zip](/Zips/Game%20Boy%20(Exclusives).zip)</p> | <p>📄[Table](/Tables/Game%20Boy%20(Multi-platform).md)</p><p>🗜️[Zip](/Zips/Game%20Boy%20(Multi-platform).zip)</p> |
@@ -115,7 +115,7 @@ This work is distributed for educational purposes and without any profit motive.
 
 # Personal Computers
 | Name | Exclusive Titles | Multi-Platform Titles |
-|--|--|--|
+|:--:|:--|:--|
 | ✔️ Acorn Archimedes <br></br><p><img src="/Thumbs/arch.jpg" width="100px" height="100px"></p> | <p>📄[Table](/Tables/Acorn%20Archimedes%20(Exclusives).md)</p><p>🗜️[Zip](/Zips/Acorn%20Archimedes%20(Exclusives).zip)</p> | <p>📄[Table](/Tables/Acorn%20Archimedes%20(Multi-platform).md)</p><p>🗜️[Zip](/Zips/Acorn%20Archimedes%20(Multi-platform).zip)</p> |
 | ✔️ Amiga <br></br><p><img src="/Thumbs/amiga.jpg" width="100px" height="100px"></p> | <p>📄[Table](/Tables/Amiga%20(Exclusives).md)</p><p>🗜️[Zip](/Zips/Amiga%20(Exclusives).zip)</p> | <p>📄[Table](/Tables/Amiga%20(Multi-platform).md)</p><p>🗜️[Zip](/Zips/Amiga%20(Multi-platform).zip)</p> |
 | ✔️ Amstrad CPC <br></br><p><img src="/Thumbs/cpc.jpg" width="100px" height="100px"></p> | <p>📄[Table](/Tables/Amstrad%20CPC%20(Exclusives).md)</p><p>🗜️[Zip](/Zips/Amstrad%20CPC%20(Exclusives).zip)</p> | <p>📄[Table](/Tables/Amstrad%20CPC%20(Multi-platform).md)</p><p>🗜️[Zip](/Zips/Amstrad%20CPC%20(Multi-platform).zip)</p> |
