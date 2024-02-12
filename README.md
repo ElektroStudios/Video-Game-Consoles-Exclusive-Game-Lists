@@ -17,13 +17,13 @@
 
 ## 👋 Introduction
 
-The purpose of this repository is to serve as a reference point with the following Markdown files provided via the tables below to easily find and identify if a game was released exclusively for a specific platform</p><p>if it is a multi-platform game. You will also see Zip files available for download whose contents are all the entries from the respective table, in URL file format.
+The purpose of this repository is to serve as a reference point with the following Markdown files provided via the tables below to easily find and identify if a game was released exclusively for a specific platform or if it is a multi-platform game. You will also see Zip files available for download whose contents are all the entries from the respective table, in URL file format.
 
 Note: GitHub will not render Markdown files that are considered too big, so I'll recommend you to use the fast and open-sorce program [Markdown Viewer](https://github.com/c3er/mdview) if you require to view some of these Markdown files offline.
 
 ## </> Structure
 
-Each Markdown file generally contain at least two tables. The Markdown files for platform exclusive titles will contain a first table of platform exclusive titles released on that platform, a second table of platform exclusive compilations released on that platform (if any), and additionally a third table of platform exclusive digital downloadable titles in case of platforms having an online store, such the Nintendo eShop</p><p>PlayStation Store.
+Each Markdown file generally contain at least two tables. The Markdown files for platform exclusive titles will contain a first table of platform exclusive titles released on that platform, a second table of platform exclusive compilations released on that platform (if any), and additionally a third table of platform exclusive digital downloadable titles in case of platforms having an online store, such the Nintendo eShop or PlayStation Store.
 
 For the Markdown files of multi-platform titles it is the same structure; It will contain a first table of multi-platform titles released on that platform, a second table of multi-platform compilations released on that platform (if any), and a third table of multi-platform digital downloadable titles in case of platforms having an online store.
 
@@ -35,22 +35,19 @@ The programming magic behind this work is based (apart from my humble experience
 
 ## ⚠️ Disclaimer:
 
-This work (the repository and the content provided through) has no affiliation, approval</p><p>endorsement by Gamefaqs</p><p>its staff. Therefore, this work may not necessarily reflect the interests of Gamefaqs</p><p>its staff.
+This work (the repository and the content provided through) has no affiliation, approval or endorsement by Gamefaqs or its staff. Therefore, this work may not necessarily reflect the interests of Gamefaqs or its staff.
 
 The platform thumbnails located inside "Thumbs" folder were obtained from Gamefaqs website and were included physically in this repository to avoid doing harmful inline linking (Hotlinking). They could be subject to Gamefaqs licensing agreements.
 
 ## 💪 Contributing
 
-The game entries of the tables are limited by the game entries that exist on the Gamefaqs website. This means that if you notice that an exclusive</p><p>multi-platform game is missing for a platform, it is possible that the game is cancelled, has not yet been released,</p><p>there is no entry on the Gamefaqs website. Please check if that is the case before creating an issue.
+The game entries of the tables are limited by the game entries that exist on the Gamefaqs website. This means that if you notice that an exclusive or multi-platform game is missing for a platform, it is possible that the game is cancelled, has not yet been released, or there is no entry on the Gamefaqs website. Please check if that is the case before creating an issue.
 
 Requesting the addition of new tables for other platforms is allowed, but such platform must exist on the Gamefaqs website, and it must not be a console whose games are all exclusive (e.g. Nintendo Virtual Boy).
 
 ## 💰 Beyond Contribution 
 
-This work is distributed for educational purposes and without any profit motive. Anyway, if you are interested in contributing financially to support my general work, you could consider to purchase one of my commercial works: [DevCase Class Library for .NET Framework and .NET Core](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)</p><p>else make a [donation through Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY) to buy me a coffee (Thank you!).
-
-
-
+This work is distributed for educational purposes and without any profit motive. Anyway, if you are interested in contributing financially to support my general work, you could consider to purchase one of my commercial works: [DevCase Class Library for .NET Framework and .NET Core](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282) or else make a [donation through Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY) to buy me a coffee (Thank you!).
 
 # Home Consoles
 | Name | Exclusive Titles | Multi-Platform Titles |
