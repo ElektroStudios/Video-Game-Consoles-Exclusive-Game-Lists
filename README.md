@@ -55,8 +55,8 @@ This work is distributed for educational purposes and without any profit motive.
 | ✔️ Dreamcast | [📄Table](/Tables/Dreamcast%20(Exclusives).md) or [🗜️Zip](/Zips/Dreamcast%20(Exclusives).zip) | [📄Table](/Tables/Dreamcast%20(Multi-platform).md) or [🗜️Zip](/Zips/Dreamcast%20(Multi-platform).zip) |
 | ✔️ GameCube | [📄Table](/Tables/GameCube%20(Exclusives).md) or [🗜️Zip](/Zips/GameCube%20(Exclusives).zip) | [📄Table](/Tables/GameCube%20(Multi-platform).md) or [🗜️Zip](/Zips/GameCube%20(Multi-platform).zip) |
 | ✔️ IntelliVision | [📄Table](/Tables/Intellivision%20(Exclusives).md) or [🗜️Zip](/Zips/Intellivision%20(Exclusives).zip) | [📄Table](/Tables/Intellivision%20(Multi-platform).md) or [🗜️Zip](/Zips/Intellivision%20(Multi-platform).zip) |
-| ✔️ Jaguar | [📄Table](/Tables/Atari%20Jaguar%20(Exclusives).md) or [🗜️Zip](/Zips/Atari%20Jaguar%20(Exclusives).zip) | [📄Table](/Tables/Atari%20Jaguar%20(Multi-platform).md) or [🗜️Zip](/Zips/Atari%20Jaguar%20(Multi-platform).zip) |
-| ‼️ Jaguar CD | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) |
+| ✔️ Jaguar | [📄Table](/Tables/Jaguar%20(Exclusives).md) or [🗜️Zip](/Zips/Jaguar%20(Exclusives).zip) | [📄Table](/Tables/Jaguar%20(Multi-platform).md) or [🗜️Zip](/Zips/Jaguar%20(Multi-platform).zip) |
+| ✔️ Jaguar CD | [📄Table](/Tables/Jaguar%20CD%20(Exclusives).md) or [🗜️Zip](/Zips/Jaguar%20CD%20(Exclusives).zip) | [📄Table](/Tables/Jaguar%20CD%20(Multi-platform).md) or [🗜️Zip](/Zips/Jaguar%20CD%20(Multi-platform).zip) |
 | ‼️ Mega Drive / Sega Genesis | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) |
 | ‼️ Mega Drive 32x / Sega 32x | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) |
 | ‼️ Mega-CD / Sega CD | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) |
@@ -96,7 +96,7 @@ This work is distributed for educational purposes and without any profit motive.
 | ✔️ Game Boy Color | [📄Table](/Tables/Game%20Boy%20Color%20(Exclusives).md) or [🗜️Zip](/Zips/Game%20Boy%20Color%20(Exclusives).zip) | [📄Table](/Tables/Game%20Boy%20Color%20(Multi-platform).md) or [🗜️Zip](/Zips/Game%20Boy%20Color%20(Multi-platform).zip) |
 | ✔️ Game Gear | [📄Table](/Tables/Game%20Gear%20(Exclusives).md) or [🗜️Zip](/Zips/Game%20Gear%20(Exclusives).zip) | [📄Table](/Tables/Game%20Gear%20(Multi-platform).md) or [🗜️Zip](/Zips/Game%20Gear%20(Multi-platform).zip) |
 | ✔️ Game Park GP32 | [📄Table](/Tables/Game%20Park%20GP32%20(Exclusives).md) or [🗜️Zip](/Zips/Game%20Park%20GP32%20(Exclusives).zip) | [📄Table](/Tables/Game%20Park%20GP32%20(Multi-platform).md) or [🗜️Zip](/Zips/Game%20Park%20GP32%20(Multi-platform).zip) |
-| ‼️ Master System / Sega Mark III | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) |
+| ✔️ Master System / Sega Mark III | [📄Table](/Tables/Master%20System%20(Exclusives).md) or [🗜️Zip](/Zips/Master%20System%20(Exclusives).zip) | [📄Table](/Tables/Master%20System%20(Multi-platform).md) or [🗜️Zip](/Zips/Master%20System%20(Multi-platform).zip) |
 | ‼️ Neo•Geo Pocket | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) |
 | ‼️ Neo•Geo Pocket Color | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) |
 | ‼️ Nintendo DS | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) | [📄Table](/Tables/xxxxx.md) or [🗜️Zip](/Zips/xxxxx.zip) |

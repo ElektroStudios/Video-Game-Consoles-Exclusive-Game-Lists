@@ -1,6 +1,6 @@
-﻿# List of exclusive Atari Jaguar titles.
+﻿# List of exclusive Jaguar titles.
 
-> *Last updated on February 10, 2024*
+> *Last updated on February 12, 2024*
 
 _Platform exclusivity refers to the status of a video game being developed for and released only on the specified platform._
 
@@ -24,7 +24,7 @@ _Platform exclusivity refers to the status of a video game being developed for a
  - The cell entries are made up of useful hyperlinks pointing to the game entry, release date information and genre categories from Gamefaqs website.
 
 -----------------------------
-# Atari Jaguar∶ Exclusive Games
+# Jaguar∶ Exclusive Games
 |Index|Title|Year|Genre|
 |:--:|--|--|--|
 |1|<a href="https://gamefaqs.gamespot.com/jaguar/917837-aircars" target="_blank" rel="noopener noreferrer">Aircars</a>|<a href="https://gamefaqs.gamespot.com/jaguar/917837-aircars/data" target="_blank" rel="noopener noreferrer">1997</a>|<a href="https://gamefaqs.gamespot.com/jaguar/category/46-simulation" target="_blank" rel="noopener noreferrer">Simulation</a> &raquo; <a href="https://gamefaqs.gamespot.com/jaguar/category/316-simulation-vehicle" target="_blank" rel="noopener noreferrer">Vehicle</a> &raquo; <a href="https://gamefaqs.gamespot.com/jaguar/category/124-simulation-vehicle-combat" target="_blank" rel="noopener noreferrer">Combat</a>|
@@ -56,3 +56,5 @@ _Platform exclusivity refers to the status of a video game being developed for a
 |27|<a href="https://gamefaqs.gamespot.com/jaguar/586914-val-disere-skiing-and-snowboarding" target="_blank" rel="noopener noreferrer">Val D'Isere Skiing and Snowboarding</a>|<a href="https://gamefaqs.gamespot.com/jaguar/586914-val-disere-skiing-and-snowboarding/data" target="_blank" rel="noopener noreferrer">1994</a>|<a href="https://gamefaqs.gamespot.com/jaguar/category/43-sports" target="_blank" rel="noopener noreferrer">Sports</a> &raquo; <a href="https://gamefaqs.gamespot.com/jaguar/category/92-sports-individual" target="_blank" rel="noopener noreferrer">Individual</a> &raquo; <a href="https://gamefaqs.gamespot.com/jaguar/category/273-sports-individual-ski-snowboard" target="_blank" rel="noopener noreferrer">Ski / Snowboard</a>|
 |28|<a href="https://gamefaqs.gamespot.com/jaguar/586915-white-men-cant-jump" target="_blank" rel="noopener noreferrer">White Men Can't Jump</a>|<a href="https://gamefaqs.gamespot.com/jaguar/586915-white-men-cant-jump/data" target="_blank" rel="noopener noreferrer">1995</a>|<a href="https://gamefaqs.gamespot.com/jaguar/category/43-sports" target="_blank" rel="noopener noreferrer">Sports</a> &raquo; <a href="https://gamefaqs.gamespot.com/jaguar/category/91-sports-team" target="_blank" rel="noopener noreferrer">Team</a> &raquo; <a href="https://gamefaqs.gamespot.com/jaguar/category/95-sports-team-basketball" target="_blank" rel="noopener noreferrer">Basketball</a> &raquo; <a href="https://gamefaqs.gamespot.com/jaguar/category/202-sports-team-basketball-arcade" target="_blank" rel="noopener noreferrer">Arcade</a>|
 |29|<a href="https://gamefaqs.gamespot.com/jaguar/586918-zero-5" target="_blank" rel="noopener noreferrer">Zero 5</a>|<a href="https://gamefaqs.gamespot.com/jaguar/586918-zero-5/data" target="_blank" rel="noopener noreferrer">1997</a>|<a href="https://gamefaqs.gamespot.com/jaguar/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/jaguar/category/55-action-shooter" target="_blank" rel="noopener noreferrer">Shooter</a> &raquo; <a href="https://gamefaqs.gamespot.com/jaguar/category/80-action-shooter-third-person" target="_blank" rel="noopener noreferrer">Third-Person</a> &raquo; <a href="https://gamefaqs.gamespot.com/jaguar/category/182-action-shooter-third-person-arcade" target="_blank" rel="noopener noreferrer">Arcade</a>|
+
+# End of File
