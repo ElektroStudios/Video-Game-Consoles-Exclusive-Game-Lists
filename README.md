@@ -137,7 +137,7 @@ This work is distributed for educational purposes and without any profit motive.
 
 # Other Platforms
 | Name | Exclusive Titles | Multi-Platform Titles |
-|--|--|--|
+|:--:|:--|:--|
 | ✔️ Android <br></br><p><img src="/Thumbs/android.jpg" width="100px" height="100px"></p> | <p>📄[Table](/Tables/Android%20(Exclusives).md)</p><p>🗜️[Zip](/Zips/Android%20(Exclusives).zip)</p> | <p>📄[Table](/Tables/Android%20(Multi-platform).md)</p><p>🗜️[Zip](/Zips/Android%20(Multi-platform).zip)</p> |
 | ✔️ Arcade Cabinets <br></br><p><img src="/Thumbs/arcade.jpg" width="100px" height="100px"></p> | <p>📄[Table](/Tables/Arcade%20Cabinets%20(Exclusives).md)</p><p>🗜️[Zip](/Zips/Arcade%20Cabinets%20(Exclusives).zip)</p> | <p>📄[Table](/Tables/Arcade%20Cabinets%20(Multi-platform).md)</p><p>🗜️[Zip](/Zips/Arcade%20Cabinets%20(Multi-platform).zip)</p> |
 | ‼️ iOS (iPhone / iPad) <br></br><p><img src="/Thumbs/iphone.jpg" width="100px" height="100px"></p> | <p>📄[Table](/Tables/xxxxx.md)</p><p>🗜️[Zip](/Zips/xxxxx.zip)</p> | <p>📄[Table](/Tables/xxxxx.md)</p><p>🗜️[Zip](/Zips/xxxxx.zip)</p> |
