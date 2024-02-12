@@ -31,13 +31,13 @@ For the Markdown files of multi-platform titles it is the same structure; It wil
 
 This repository would not be possible without the existence of Gamefaqs website with its video game database. Thank you very much for your work, guys!. 🙏 
 
-The platform thumbnails located inside "Thumbs" folder were obtained from Gamefaqs website and were included physically in this repository to avoid doing harmful hotlinking. They could be subject to Gamefaqs licensing agreements.
-
 The programming magic behind this work is based (apart from my humble experience and personal dedication) on the usage of open-source library: [Html Agility Pack](https://html-agility-pack.net/)
 
 ## ⚠️ Disclaimer:
 
 This work (the repository and the content provided through) has no affiliation, approval or endorsement by Gamefaqs or its staff. Therefore, this work may not necessarily reflect the interests of Gamefaqs or its staff.
+
+The platform thumbnails located inside "Thumbs" folder were obtained from Gamefaqs website and were included physically in this repository to avoid doing harmful inline linking (Hotlinking). They could be subject to Gamefaqs licensing agreements.
 
 ## 💪 Contributing
 
