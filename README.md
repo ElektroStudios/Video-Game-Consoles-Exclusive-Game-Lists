@@ -49,10 +49,13 @@ Requesting the addition of new tables for other platforms is allowed, but such p
 
 This work is distributed for educational purposes and without any profit motive. Anyway, if you are interested in contributing financially to support my general work, you could consider to purchase one of my commercial works: [DevCase Class Library for .NET Framework and .NET Core](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282) or else make a [donation through Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY) to buy me a coffee (Thank you!).
 
+
+
+
 # Home Consoles
 | Name | Exclusive Titles | Multi-Platform Titles |
 |--|:--:|:--:|
-| ✔️ Amiga CD32 | [📄Table](/Tables/Amiga%20CD32%20(Exclusives).md) or [🗜️Zip](/Zips/Amiga%20CD32%20(Exclusives).zip) | [📄Table](/Tables/Amiga%20CD32%20(Multi-platform).md) or [🗜️Zip](/Zips/Amiga%20CD32%20(Multi-platform).zip) |
+| ✔️ Amiga CD32 <p><img src="/Thumbs/cd32.jpg" width="128px" height="128px"></p> | [📄Table](/Tables/Amiga%20CD32%20(Exclusives).md) or [🗜️Zip](/Zips/Amiga%20CD32%20(Exclusives).zip) | [📄Table](/Tables/Amiga%20CD32%20(Multi-platform).md) or [🗜️Zip](/Zips/Amiga%20CD32%20(Multi-platform).zip) |
 | ✔️ ColecoVision | [📄Table](/Tables/ColecoVision%20(Exclusives).md) or [🗜️Zip](/Zips/ColecoVision%20(Exclusives).zip) | [📄Table](/Tables/ColecoVision%20(Multi-platform).md) or [🗜️Zip](/Zips/ColecoVision%20(Multi-platform).zip) |
 | ✔️ Dreamcast | [📄Table](/Tables/Dreamcast%20(Exclusives).md) or [🗜️Zip](/Zips/Dreamcast%20(Exclusives).zip) | [📄Table](/Tables/Dreamcast%20(Multi-platform).md) or [🗜️Zip](/Zips/Dreamcast%20(Multi-platform).zip) |
 | ✔️ GameCube | [📄Table](/Tables/GameCube%20(Exclusives).md) or [🗜️Zip](/Zips/GameCube%20(Exclusives).zip) | [📄Table](/Tables/GameCube%20(Multi-platform).md) or [🗜️Zip](/Zips/GameCube%20(Multi-platform).zip) |
