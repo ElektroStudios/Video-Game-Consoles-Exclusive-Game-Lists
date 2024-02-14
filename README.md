@@ -9,6 +9,8 @@
 > 
 > Tables for platforms with a mark ✔️ are completed.
 > 
+> PROGRESSION: 66 OF 108 PLATFORMS COMPLETED.
+> 
 > PLEASE WAIT A FEW DAYS, IT WILL NOT TAKE MUCH MORE TO BE AVAILABLE FOR ALL OF YOU.
 > 
 > LAST UPDATED ON FEBRUARY 14, 2024.
@@ -37,7 +39,7 @@ The programming magic behind this work is based (apart from my humble experience
 
 This work (the repository and the content provided through) has no affiliation, approval or endorsement by Gamefaqs or its staff. Therefore, this work may not necessarily reflect the interests of Gamefaqs or its staff.
 
-The platform thumbnails located inside "Thumbs" folder were obtained from Gamefaqs website and were included physically in this repository to avoid doing harmful inline linking (Hotlinking). They could be subject to Gamefaqs licensing agreements.
+The images ubicated inside "Thumbs" folder were obtained from Gamefaqs website and were included physically in this GitHub repository to avoid doing harmful inline linking (Hotlinking). They could be subject to Gamefaqs licensing agreements.
 
 ## 💪 Contributing
 
