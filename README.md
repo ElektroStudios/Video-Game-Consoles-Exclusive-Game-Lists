@@ -8,7 +8,7 @@
 
 ## 👋 Introduction
 
-The purpose of this repository is to serve as a reference point with the following Markdown files provided via the tables below to easily find and identify if a game was released exclusively for a specific platform or if it is a multi-platform game. You will also see Zip files available for download whose contents are all the entries from the respective table, in URL file format.
+The purpose of this repository is to serve as a reference point with the following Markdown files provided via the tables below to easily find and identify if a game was released exclusively for a specific platform or if it is a multi-platform game. You will also see Zip files available to download, whose contents are internet shortcut (.url) files that points to each of the entries from the corresponding table.
 
 Note: GitHub will not render Markdown files that are considered too big, so I'll recommend you to use the fast and open-sorce program [Markdown Viewer](https://github.com/c3er/mdview) if you require to view some of these Markdown files offline.
 
@@ -20,15 +20,15 @@ For the Markdown files of multi-platform titles it is the same structure; It wil
 
 ## 🏆 Credits
 
-This repository would not be possible without the existence of Gamefaqs website with its video game database. Thank you very much for your work, guys!. 🙏 
+This repository would not be possible without the existence of [Gamefaqs](https://gamefaqs.gamespot.com/) website with its video game database. Thank you very much for your work, guys!. 🙏 
 
-The programming magic behind this work is based (apart from my humble experience and personal dedication) on the usage of open-source library: [Html Agility Pack](https://html-agility-pack.net/)
+The programming magic behind this work is based on the usage of open-source library: [Html Agility Pack](https://html-agility-pack.net/)
 
 ## ⚠️ Disclaimer:
 
 This work (the repository and the content provided through) has no affiliation, approval or endorsement by Gamefaqs or its staff. Therefore, this work may not necessarily reflect the interests of Gamefaqs or its staff.
 
-The images ubicated inside "Thumbs" folder were obtained from Gamefaqs website and were included physically in this GitHub repository to avoid doing harmful inline linking (Hotlinking). They could be subject to Gamefaqs licensing agreements.
+The image files located inside the "Thumbs" folder were obtained from Gamefaqs website and were included physically in this GitHub repository to avoid doing harmful inline linking (Hotlinking). They could be subject to Gamefaqs licensing agreements.
 
 ## 💪 Contributing
 
@@ -151,7 +151,6 @@ This work is distributed for educational purposes and without any profit motive.
 | Sinclair ZX81 / Spectrum <br></br><p><img src="/Thumbs/sinclair.jpg" width="100px" height="100px"></p> | <p>📄[Table](/Tables/Sinclair%20ZX81⧸Spectrum%20(Exclusives).md)</p><p>🗜️[Zip](/Zips/Sinclair%20ZX81⧸Spectrum%20(Exclusives).zip)</p> | <p>📄[Table](/Tables/Sinclair%20ZX81⧸Spectrum%20(Multi-platform).md)</p><p>🗜️[Zip](/Zips/Sinclair%20ZX81⧸Spectrum%20(Multi-platform).zip)</p> |
 | Sord M5 <br></br><p><img src="/Thumbs/sordm5.jpg" width="100px" height="100px"></p> | <p>📄[Table](/Tables/Sord%20M5%20(Exclusives).md)</p><p>🗜️[Zip](/Zips/Sord%20M5%20(Exclusives).zip)</p> | <p>📄[Table](/Tables/Sord%20M5%20(Multi-platform).md)</p><p>🗜️[Zip](/Zips/Sord%20M5%20(Multi-platform).zip)</p> |
 | Tandy Color Computer <br></br><p><img src="/Thumbs/coco.jpg" width="100px" height="100px"></p> | <p>📄[Table](/Tables/Tandy%20Color%20Computer%20(Exclusives).md)</p><p>🗜️[Zip](/Zips/Tandy%20Color%20Computer%20(Exclusives).zip)</p> | <p>📄[Table](/Tables/Tandy%20Color%20Computer%20(Multi-platform).md)</p><p>🗜️[Zip](/Zips/Tandy%20Color%20Computer%20(Multi-platform).zip)</p> |
-
 
 # Other Platforms
 | Name | Exclusive Titles | Multi-Platform Titles |
