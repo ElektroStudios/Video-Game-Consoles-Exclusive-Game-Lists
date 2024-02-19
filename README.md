@@ -8,7 +8,7 @@
 
 ## 👋 Introduction
 
-The purpose of this repository is to serve as a reference point with the following Markdown files provided via the tables below to easily find and identify if a game was released exclusively for a specific platform or if it is a multi-platform game. You will also see Zip files available to download, whose contents are internet shortcut (.url) files that points to each of the entries from the corresponding table.
+The purpose of this repository is to serve as a reference point with the following Markdown files provided via the tables below to easily find and identify if a game was released exclusively for a specific platform or if it is a multi-platform game. You will also see Zip files available to download, whose contents are individual internet shortcut (.url) files that points to each of the entries from the corresponding table.
 
 Note: GitHub will not render Markdown files that are considered too big, so I'll recommend you to use the fast and open-sorce program [Markdown Viewer](https://github.com/c3er/mdview) if you require to view some of these Markdown files offline.
 
