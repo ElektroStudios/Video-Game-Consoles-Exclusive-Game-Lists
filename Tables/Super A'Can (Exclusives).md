@@ -1,0 +1,41 @@
+﻿# List of exclusive Super A'Can titles.
+
+> *Last updated on February 18, 2024*
+
+_Platform exclusivity refers to the status of a video game being developed for and released only on the specified platform._
+
+-----------------------------
+
+ - The following table of platform exclusive games was generated programmatically by scraping content from Gamefaqs website: 
+
+    - https://gamefaqs.gamespot.com/superacan/category/999-all
+
+    - We use a filter to arbitrarily include and exclude platform exclusive content:
+
+      
+    |Included:|Excluded:|
+    |:--|:--|
+    |Released Games|Cancelled or Not Yet Released Games
+
+
+ - The items in the table are ordered alphabetically by Title column. If you need to sort items in another column, you may search for custom Markdown plugins / user-scripts or convert this table to a more suitable format, such as CSV or HTML with JavaScript.
+
+ - The cell entries are made up of useful hyperlinks pointing to the game entry, release date information and genre categories from Gamefaqs website.
+
+-----------------------------
+# Super A'Can∶ Exclusive Games
+|Index|Title|Year|Genre|
+|:--:|--|--|--|
+|1|<a href="https://gamefaqs.gamespot.com/superacan/441376-boom-zoo-bao-bao-dongwuyuan" target="_blank" rel="noopener noreferrer">Boom Zoo: Bao Bao Dongwuyuan</a>|<a href="https://gamefaqs.gamespot.com/superacan/441376-boom-zoo-bao-bao-dongwuyuan/data" target="_blank" rel="noopener noreferrer">1996</a>|<a href="https://gamefaqs.gamespot.com/superacan/category/173-puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/282-puzzle-action" target="_blank" rel="noopener noreferrer">Action</a>|
+|2|<a href="https://gamefaqs.gamespot.com/superacan/441375-chaoji-guangming-zhan-shi" target="_blank" rel="noopener noreferrer">Chaoji Guangming Zhan Shi</a>|<a href="https://gamefaqs.gamespot.com/superacan/441375-chaoji-guangming-zhan-shi/data" target="_blank" rel="noopener noreferrer">1996</a>|<a href="https://gamefaqs.gamespot.com/superacan/category/48-role-playing" target="_blank" rel="noopener noreferrer">Role-Playing</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/71-role-playing-japanese-style" target="_blank" rel="noopener noreferrer">Japanese-Style</a>|
+|3|<a href="https://gamefaqs.gamespot.com/superacan/389580-chaoji-zhonghua-zhibang-lianmeng" target="_blank" rel="noopener noreferrer">Chaoji Zhonghua Zhibang Lianmeng</a>|<a href="https://gamefaqs.gamespot.com/superacan/389580-chaoji-zhonghua-zhibang-lianmeng/data" target="_blank" rel="noopener noreferrer">1995</a>|<a href="https://gamefaqs.gamespot.com/superacan/category/43-sports" target="_blank" rel="noopener noreferrer">Sports</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/91-sports-team" target="_blank" rel="noopener noreferrer">Team</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/94-sports-team-baseball" target="_blank" rel="noopener noreferrer">Baseball</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/200-sports-team-baseball-arcade" target="_blank" rel="noopener noreferrer">Arcade</a>|
+|4|<a href="https://gamefaqs.gamespot.com/superacan/389581-du-ba" target="_blank" rel="noopener noreferrer">Du Ba</a>|<a href="https://gamefaqs.gamespot.com/superacan/389581-du-ba/data" target="_blank" rel="noopener noreferrer">1996</a>|<a href="https://gamefaqs.gamespot.com/superacan/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/227-miscellaneous-board-card-game" target="_blank" rel="noopener noreferrer">Board / Card Game</a>|
+|5|<a href="https://gamefaqs.gamespot.com/superacan/441361-feizhou-tanxian" target="_blank" rel="noopener noreferrer">Feizhou Tanxian</a>|<a href="https://gamefaqs.gamespot.com/superacan/441361-feizhou-tanxian/data" target="_blank" rel="noopener noreferrer">1995</a>|<a href="https://gamefaqs.gamespot.com/superacan/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/227-miscellaneous-board-card-game" target="_blank" rel="noopener noreferrer">Board / Card Game</a>|
+|6|<a href="https://gamefaqs.gamespot.com/superacan/441362-fu-er-mo-sha-da-duijue" target="_blank" rel="noopener noreferrer">Fu Er Mo Sha Da Duijue</a>|<a href="https://gamefaqs.gamespot.com/superacan/441362-fu-er-mo-sha-da-duijue/data" target="_blank" rel="noopener noreferrer">1995</a>|<a href="https://gamefaqs.gamespot.com/superacan/category/173-puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/283-puzzle-matching" target="_blank" rel="noopener noreferrer">Matching</a>|
+|7|<a href="https://gamefaqs.gamespot.com/superacan/441363-mo-bang-zhuangqiu" target="_blank" rel="noopener noreferrer">Mo Bang Zhuangqiu</a>|<a href="https://gamefaqs.gamespot.com/superacan/441363-mo-bang-zhuangqiu/data" target="_blank" rel="noopener noreferrer">1996</a>|<a href="https://gamefaqs.gamespot.com/superacan/category/43-sports" target="_blank" rel="noopener noreferrer">Sports</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/92-sports-individual" target="_blank" rel="noopener noreferrer">Individual</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/112-sports-individual-billiards" target="_blank" rel="noopener noreferrer">Billiards</a>|
+|8|<a href="https://gamefaqs.gamespot.com/superacan/441372-pan-xing" target="_blank" rel="noopener noreferrer">Pan Xing</a>|<a href="https://gamefaqs.gamespot.com/superacan/441372-pan-xing/data" target="_blank" rel="noopener noreferrer">1996</a>|<a href="https://gamefaqs.gamespot.com/superacan/category/45-strategy" target="_blank" rel="noopener noreferrer">Strategy</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/59-strategy-turn-based" target="_blank" rel="noopener noreferrer">Turn-Based</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/308-strategy-turn-based-tactics" target="_blank" rel="noopener noreferrer">Tactics</a>|
+|9|<a href="https://gamefaqs.gamespot.com/superacan/389583-xi-you-ji" target="_blank" rel="noopener noreferrer">Xi You Ji</a>|<a href="https://gamefaqs.gamespot.com/superacan/389583-xi-you-ji/data" target="_blank" rel="noopener noreferrer">1995</a>|<a href="https://gamefaqs.gamespot.com/superacan/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/56-action-platformer" target="_blank" rel="noopener noreferrer">Platformer</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/84-action-platformer-2d" target="_blank" rel="noopener noreferrer">2D</a>|
+|10|<a href="https://gamefaqs.gamespot.com/superacan/441364-xie-e-zhizi" target="_blank" rel="noopener noreferrer">Xie E Zhizi</a>|<a href="https://gamefaqs.gamespot.com/superacan/441364-xie-e-zhizi/data" target="_blank" rel="noopener noreferrer">1995</a>|<a href="https://gamefaqs.gamespot.com/superacan/category/48-role-playing" target="_blank" rel="noopener noreferrer">Role-Playing</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/71-role-playing-japanese-style" target="_blank" rel="noopener noreferrer">Japanese-Style</a>|
+|11|<a href="https://gamefaqs.gamespot.com/superacan/389584-yinsu-feilong" target="_blank" rel="noopener noreferrer">Yinsu Feilong</a>|<a href="https://gamefaqs.gamespot.com/superacan/389584-yinsu-feilong/data" target="_blank" rel="noopener noreferrer">1995</a>|<a href="https://gamefaqs.gamespot.com/superacan/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/56-action-platformer" target="_blank" rel="noopener noreferrer">Platformer</a> &raquo; <a href="https://gamefaqs.gamespot.com/superacan/category/84-action-platformer-2d" target="_blank" rel="noopener noreferrer">2D</a>|
+
+# End of File

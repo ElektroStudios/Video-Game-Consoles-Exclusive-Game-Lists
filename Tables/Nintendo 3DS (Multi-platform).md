@@ -1,6 +1,6 @@
 ﻿# List of multi-platform Nintendo 3DS titles.
 
-> *Last updated on February 12, 2024*
+> *Last updated on February 17, 2024*
 
 _Multi-platform refers to the status of a video game being developed and released on multiple platforms._
 
@@ -101,8 +101,8 @@ _Multi-platform refers to the status of a video game being developed and release
 |81|<a href="https://gamefaqs.gamespot.com/3ds/675586-wipeout-3" target="_blank" rel="noopener noreferrer">Wipeout 3</a>|<a href="https://gamefaqs.gamespot.com/3ds/675586-wipeout-3/data" target="_blank" rel="noopener noreferrer">2012</a>|<a href="https://gamefaqs.gamespot.com/3ds/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/3ds/category/181-miscellaneous-party-minigame" target="_blank" rel="noopener noreferrer">Party / Minigame</a>|
 |82|<a href="https://gamefaqs.gamespot.com/3ds/632961-wwe-all-stars" target="_blank" rel="noopener noreferrer">WWE All Stars</a>|<a href="https://gamefaqs.gamespot.com/3ds/632961-wwe-all-stars/data" target="_blank" rel="noopener noreferrer">2011</a>|<a href="https://gamefaqs.gamespot.com/3ds/category/43-sports" target="_blank" rel="noopener noreferrer">Sports</a> &raquo; <a href="https://gamefaqs.gamespot.com/3ds/category/92-sports-individual" target="_blank" rel="noopener noreferrer">Individual</a> &raquo; <a href="https://gamefaqs.gamespot.com/3ds/category/312-sports-individual-combat" target="_blank" rel="noopener noreferrer">Combat</a> &raquo; <a href="https://gamefaqs.gamespot.com/3ds/category/93-sports-individual-combat-wrestling" target="_blank" rel="noopener noreferrer">Wrestling</a>|
 
-# Nintendo 3DS∶ Multi-platform Games (distributed on its online store)
-Note: Some games in this table may have also been released in physical format on this platform, but they are categorized on Gamefaqs as games distributed via the online store.
+# Nintendo 3DS∶ Multi-platform Games (3DS eShop)
+Note: Some games in this table may have also been released in physical format on this platform, but they are categorized on Gamefaqs as games distributed via '3DS eShop'.
 
 |Index|Title|Year|Genre|
 |:--:|--|--|--|

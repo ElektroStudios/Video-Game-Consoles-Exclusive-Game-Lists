@@ -1,6 +1,6 @@
 ﻿# List of multi-platform Nintendo Wii-U titles.
 
-> *Last updated on February 12, 2024*
+> *Last updated on February 17, 2024*
 
 _Multi-platform refers to the status of a video game being developed and released on multiple platforms._
 
@@ -46,8 +46,8 @@ _Multi-platform refers to the status of a video game being developed and release
 |26|<a href="https://gamefaqs.gamespot.com/wii-u/769541-star-wars-pinball-balance-of-the-force" target="_blank" rel="noopener noreferrer">Star Wars Pinball: Balance of the Force</a>|<a href="https://gamefaqs.gamespot.com/wii-u/769541-star-wars-pinball-balance-of-the-force/data" target="_blank" rel="noopener noreferrer">2014</a>|<a href="https://gamefaqs.gamespot.com/wii-u/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/wii-u/category/114-action-pinball" target="_blank" rel="noopener noreferrer">Pinball</a>|
 |27|<a href="https://gamefaqs.gamespot.com/wii-u/697262-the-walking-dead-survival-instinct" target="_blank" rel="noopener noreferrer">The Walking Dead: Survival Instinct</a>|<a href="https://gamefaqs.gamespot.com/wii-u/697262-the-walking-dead-survival-instinct/data" target="_blank" rel="noopener noreferrer">2013</a>|<a href="https://gamefaqs.gamespot.com/wii-u/category/163-action-adventure" target="_blank" rel="noopener noreferrer">Action Adventure</a> &raquo; <a href="https://gamefaqs.gamespot.com/wii-u/category/164-action-adventure-survival" target="_blank" rel="noopener noreferrer">Survival</a>|
 
-# Nintendo Wii-U∶ Multi-platform Games (distributed on its online store)
-Note: Some games in this table may have also been released in physical format on this platform, but they are categorized on Gamefaqs as games distributed via the online store.
+# Nintendo Wii-U∶ Multi-platform Games (WiiU eShop)
+Note: Some games in this table may have also been released in physical format on this platform, but they are categorized on Gamefaqs as games distributed via 'WiiU eShop'.
 
 |Index|Title|Year|Genre|
 |:--:|--|--|--|

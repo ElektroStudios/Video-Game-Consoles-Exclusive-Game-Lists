@@ -1,6 +1,6 @@
 ﻿# List of exclusive Jaguar titles.
 
-> *Last updated on February 12, 2024*
+> *Last updated on February 16, 2024*
 
 _Platform exclusivity refers to the status of a video game being developed for and released only on the specified platform._
 

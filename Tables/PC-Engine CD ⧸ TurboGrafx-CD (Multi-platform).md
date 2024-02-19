@@ -1,6 +1,6 @@
 ﻿# List of multi-platform PC-Engine CD / TurboGrafx-CD titles.
 
-> *Last updated on February 14, 2024*
+> *Last updated on February 18, 2024*
 
 _Multi-platform refers to the status of a video game being developed and released on multiple platforms._
 

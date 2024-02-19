@@ -1,6 +1,6 @@
 ﻿# List of exclusive Neo•Geo Pocket titles.
 
-> *Last updated on February 12, 2024*
+> *Last updated on February 17, 2024*
 
 _Platform exclusivity refers to the status of a video game being developed for and released only on the specified platform._
 

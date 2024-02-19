@@ -1,6 +1,6 @@
 ﻿# List of multi-platform Mega Drive 32x / Sega 32x titles.
 
-> *Last updated on February 12, 2024*
+> *Last updated on February 17, 2024*
 
 _Multi-platform refers to the status of a video game being developed and released on multiple platforms._
 

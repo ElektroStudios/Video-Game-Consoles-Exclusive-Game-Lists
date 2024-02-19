@@ -1,6 +1,6 @@
 ﻿# List of multi-platform Atari Lynx titles.
 
-> *Last updated on February 11, 2024*
+> *Last updated on February 15, 2024*
 
 _Multi-platform refers to the status of a video game being developed and released on multiple platforms._
 

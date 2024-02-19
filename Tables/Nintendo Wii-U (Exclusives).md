@@ -1,6 +1,6 @@
 ﻿# List of exclusive Nintendo Wii-U titles.
 
-> *Last updated on February 12, 2024*
+> *Last updated on February 17, 2024*
 
 _Platform exclusivity refers to the status of a video game being developed for and released only on the specified platform._
 
@@ -16,7 +16,7 @@ _Platform exclusivity refers to the status of a video game being developed for a
     |Included:|Excluded:|
     |:--|:--|
     |Released Games|Cancelled or Not Yet Released Games
-    |[Wii-U eShop Store Games](https://gamefaqs.gamespot.com/wii-u/category/49-miscellaneous?dist=22)|[Expansions / DLC Distribution](https://gamefaqs.gamespot.com/wii-u/category/999-all?dist=6)
+    |[WiiU eShop Games](https://gamefaqs.gamespot.com/wii-u/category/999-all?dist=22)|[Expansions / DLC Distribution](https://gamefaqs.gamespot.com/wii-u/category/999-all?dist=6)
     |[Compilations](https://gamefaqs.gamespot.com/wii-u/category/233-miscellaneous-compilation)|[Software / Applications](https://gamefaqs.gamespot.com/wii-u/category/277-miscellaneous-application)
 
 
@@ -34,8 +34,8 @@ _Platform exclusivity refers to the status of a video game being developed for a
 |4|<a href="https://gamefaqs.gamespot.com/wii-u/296317-wii-karaoke-u-trial-disc-w-microphone" target="_blank" rel="noopener noreferrer">Wii Karaoke U Trial Disc (w/Microphone)</a>|<a href="https://gamefaqs.gamespot.com/wii-u/296317-wii-karaoke-u-trial-disc-w-microphone/data" target="_blank" rel="noopener noreferrer">2012</a>|<a href="https://gamefaqs.gamespot.com/wii-u/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/wii-u/category/63-action-rhythm" target="_blank" rel="noopener noreferrer">Rhythm</a> &raquo; <a href="https://gamefaqs.gamespot.com/wii-u/category/159-action-rhythm-music" target="_blank" rel="noopener noreferrer">Music</a>|
 |5|<a href="https://gamefaqs.gamespot.com/wii-u/179986-yo-kai-watch-dance-just-dance-special-version" target="_blank" rel="noopener noreferrer">Yo-kai Watch Dance: Just Dance Special Version</a>|<a href="https://gamefaqs.gamespot.com/wii-u/179986-yo-kai-watch-dance-just-dance-special-version/data" target="_blank" rel="noopener noreferrer">2015</a>|<a href="https://gamefaqs.gamespot.com/wii-u/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/wii-u/category/63-action-rhythm" target="_blank" rel="noopener noreferrer">Rhythm</a> &raquo; <a href="https://gamefaqs.gamespot.com/wii-u/category/158-action-rhythm-dancing" target="_blank" rel="noopener noreferrer">Dancing</a>|
 
-# Nintendo Wii-U∶ Exclusive Games (distributed on its online store)
-Note: Some games in this table may have also been released in physical format on this platform, but they are categorized on Gamefaqs as games distributed via the online store.
+# Nintendo Wii-U∶ Exclusive Games (WiiU eShop)
+Note: Some games in this table may have also been released in physical format on this platform, but they are categorized on Gamefaqs as games distributed via 'WiiU eShop'.
 
 |Index|Title|Year|Genre|
 |:--:|--|--|--|

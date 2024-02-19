@@ -1,6 +1,6 @@
 ﻿# List of exclusive PlayStation 3 titles.
 
-> *Last updated on February 14, 2024*
+> *Last updated on February 18, 2024*
 
 _Platform exclusivity refers to the status of a video game being developed for and released only on the specified platform._
 
@@ -16,7 +16,7 @@ _Platform exclusivity refers to the status of a video game being developed for a
     |Included:|Excluded:|
     |:--|:--|
     |Released Games|Cancelled or Not Yet Released Games
-    |[PlayStation Store Games](https://gamefaqs.gamespot.com/ps3/category/49-miscellaneous?dist=17)|[Expansions / DLC Distribution](https://gamefaqs.gamespot.com/ps3/category/999-all?dist=6)
+    |[PlayStation Store PS3 Games](https://gamefaqs.gamespot.com/ps3/category/999-all?dist=17)|[Expansions / DLC Distribution](https://gamefaqs.gamespot.com/ps3/category/999-all?dist=6)
     |[Compilations](https://gamefaqs.gamespot.com/ps3/category/233-miscellaneous-compilation)|[Demo Discs](https://gamefaqs.gamespot.com/ps3/category/280-miscellaneous-demo-disc)
     ||[Software / Applications](https://gamefaqs.gamespot.com/ps3/category/277-miscellaneous-application)
 
@@ -152,8 +152,8 @@ _Platform exclusivity refers to the status of a video game being developed for a
 |121|<a href="https://gamefaqs.gamespot.com/ps3/952951-yamasa-digi-world-sp-bounty-killer" target="_blank" rel="noopener noreferrer">Yamasa Digi World SP: Bounty Killer</a>|<a href="https://gamefaqs.gamespot.com/ps3/952951-yamasa-digi-world-sp-bounty-killer/data" target="_blank" rel="noopener noreferrer">2008</a>|<a href="https://gamefaqs.gamespot.com/ps3/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/ps3/category/113-miscellaneous-gambling" target="_blank" rel="noopener noreferrer">Gambling</a>|
 |122|<a href="https://gamefaqs.gamespot.com/ps3/930047-yamasa-digi-world-sp-pachi-slot-sengoku-musou" target="_blank" rel="noopener noreferrer">Yamasa Digi World SP: Pachi-Slot Sengoku Musou</a>|<a href="https://gamefaqs.gamespot.com/ps3/930047-yamasa-digi-world-sp-pachi-slot-sengoku-musou/data" target="_blank" rel="noopener noreferrer">2007</a>|<a href="https://gamefaqs.gamespot.com/ps3/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/ps3/category/113-miscellaneous-gambling" target="_blank" rel="noopener noreferrer">Gambling</a>|
 
-# PlayStation 3∶ Exclusive Games (distributed on its online store)
-Note: Some games in this table may have also been released in physical format on this platform, but they are categorized on Gamefaqs as games distributed via the online store.
+# PlayStation 3∶ Exclusive Games (PlayStation Store PS3)
+Note: Some games in this table may have also been released in physical format on this platform, but they are categorized on Gamefaqs as games distributed via 'PlayStation Store PS3'.
 
 |Index|Title|Year|Genre|
 |:--:|--|--|--|

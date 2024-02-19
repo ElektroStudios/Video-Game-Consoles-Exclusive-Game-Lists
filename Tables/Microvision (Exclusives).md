@@ -1,0 +1,41 @@
+﻿# List of exclusive Milton Bradley Microvision titles.
+
+> *Last updated on February 17, 2024*
+
+_Platform exclusivity refers to the status of a video game being developed for and released only on the specified platform._
+
+-----------------------------
+
+ - The following table of platform exclusive games was generated programmatically by scraping content from Gamefaqs website: 
+
+    - https://gamefaqs.gamespot.com/microvision/category/999-all
+
+    - We use a filter to arbitrarily include and exclude platform exclusive content:
+
+      
+    |Included:|Excluded:|
+    |:--|:--|
+    |Released Games|Cancelled or Not Yet Released Games
+
+
+ - The items in the table are ordered alphabetically by Title column. If you need to sort items in another column, you may search for custom Markdown plugins / user-scripts or convert this table to a more suitable format, such as CSV or HTML with JavaScript.
+
+ - The cell entries are made up of useful hyperlinks pointing to the game entry, release date information and genre categories from Gamefaqs website.
+
+-----------------------------
+# Milton Bradley Microvision∶ Exclusive Games
+|Index|Title|Year|Genre|
+|:--:|--|--|--|
+|1|<a href="https://gamefaqs.gamespot.com/microvision/587016-alien-raiders" target="_blank" rel="noopener noreferrer">Alien Raiders</a>|<a href="https://gamefaqs.gamespot.com/microvision/587016-alien-raiders/data" target="_blank" rel="noopener noreferrer">1981</a>|<a href="https://gamefaqs.gamespot.com/microvision/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/55-action-shooter" target="_blank" rel="noopener noreferrer">Shooter</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/313-action-shooter-shoot-em-up" target="_blank" rel="noopener noreferrer">Shoot-&#039;Em-Up</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/83-action-shooter-shoot-em-up-vertical" target="_blank" rel="noopener noreferrer">Vertical</a>|
+|2|<a href="https://gamefaqs.gamespot.com/microvision/587017-baseball" target="_blank" rel="noopener noreferrer">Baseball</a>|<a href="https://gamefaqs.gamespot.com/microvision/587017-baseball/data" target="_blank" rel="noopener noreferrer">1980</a>|<a href="https://gamefaqs.gamespot.com/microvision/category/43-sports" target="_blank" rel="noopener noreferrer">Sports</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/91-sports-team" target="_blank" rel="noopener noreferrer">Team</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/94-sports-team-baseball" target="_blank" rel="noopener noreferrer">Baseball</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/200-sports-team-baseball-arcade" target="_blank" rel="noopener noreferrer">Arcade</a>|
+|3|<a href="https://gamefaqs.gamespot.com/microvision/587018-block-buster" target="_blank" rel="noopener noreferrer">Block Buster</a>|<a href="https://gamefaqs.gamespot.com/microvision/587018-block-buster/data" target="_blank" rel="noopener noreferrer">1979</a>|<a href="https://gamefaqs.gamespot.com/microvision/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/289-action-arcade" target="_blank" rel="noopener noreferrer">Arcade</a>|
+|4|<a href="https://gamefaqs.gamespot.com/microvision/587019-bowling" target="_blank" rel="noopener noreferrer">Bowling</a>|<a href="https://gamefaqs.gamespot.com/microvision/587019-bowling/data" target="_blank" rel="noopener noreferrer">1979</a>|<a href="https://gamefaqs.gamespot.com/microvision/category/43-sports" target="_blank" rel="noopener noreferrer">Sports</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/92-sports-individual" target="_blank" rel="noopener noreferrer">Individual</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/243-sports-individual-bowling" target="_blank" rel="noopener noreferrer">Bowling</a>|
+|5|<a href="https://gamefaqs.gamespot.com/microvision/587021-cosmic-hunter" target="_blank" rel="noopener noreferrer">Cosmic Hunter</a>|<a href="https://gamefaqs.gamespot.com/microvision/587021-cosmic-hunter/data" target="_blank" rel="noopener noreferrer">1981</a>|<a href="https://gamefaqs.gamespot.com/microvision/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/250-action-general" target="_blank" rel="noopener noreferrer">General</a>|
+|6|<a href="https://gamefaqs.gamespot.com/microvision/587022-mindbuster" target="_blank" rel="noopener noreferrer">Mindbuster</a>|<a href="https://gamefaqs.gamespot.com/microvision/587022-mindbuster/data" target="_blank" rel="noopener noreferrer">1979</a>|<a href="https://gamefaqs.gamespot.com/microvision/category/173-puzzle" target="_blank" rel="noopener noreferrer">Puzzle</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/285-puzzle-logic" target="_blank" rel="noopener noreferrer">Logic</a>|
+|7|<a href="https://gamefaqs.gamespot.com/microvision/587023-pinball" target="_blank" rel="noopener noreferrer">Pinball</a>|<a href="https://gamefaqs.gamespot.com/microvision/587023-pinball/data" target="_blank" rel="noopener noreferrer">1979</a>|<a href="https://gamefaqs.gamespot.com/microvision/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/114-action-pinball" target="_blank" rel="noopener noreferrer">Pinball</a>|
+|8|<a href="https://gamefaqs.gamespot.com/microvision/587024-sea-duel" target="_blank" rel="noopener noreferrer">Sea Duel</a>|<a href="https://gamefaqs.gamespot.com/microvision/587024-sea-duel/data" target="_blank" rel="noopener noreferrer">1980</a>|<a href="https://gamefaqs.gamespot.com/microvision/category/45-strategy" target="_blank" rel="noopener noreferrer">Strategy</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/59-strategy-turn-based" target="_blank" rel="noopener noreferrer">Turn-Based</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/305-strategy-turn-based-general" target="_blank" rel="noopener noreferrer">General</a>|
+|9|<a href="https://gamefaqs.gamespot.com/microvision/587025-star-trek-phaser-strike" target="_blank" rel="noopener noreferrer">Star Trek Phaser Strike</a>|<a href="https://gamefaqs.gamespot.com/microvision/587025-star-trek-phaser-strike/data" target="_blank" rel="noopener noreferrer">1979</a>|<a href="https://gamefaqs.gamespot.com/microvision/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/55-action-shooter" target="_blank" rel="noopener noreferrer">Shooter</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/313-action-shooter-shoot-em-up" target="_blank" rel="noopener noreferrer">Shoot-&#039;Em-Up</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/83-action-shooter-shoot-em-up-vertical" target="_blank" rel="noopener noreferrer">Vertical</a>|
+|10|<a href="https://gamefaqs.gamespot.com/microvision/279009-super-blockbuster" target="_blank" rel="noopener noreferrer">Super Blockbuster</a>|<a href="https://gamefaqs.gamespot.com/microvision/279009-super-blockbuster/data" target="_blank" rel="noopener noreferrer">1982</a>|<a href="https://gamefaqs.gamespot.com/microvision/category/54-action" target="_blank" rel="noopener noreferrer">Action</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/289-action-arcade" target="_blank" rel="noopener noreferrer">Arcade</a>|
+|11|<a href="https://gamefaqs.gamespot.com/microvision/587026-vegas-slots" target="_blank" rel="noopener noreferrer">Vegas Slots</a>|<a href="https://gamefaqs.gamespot.com/microvision/587026-vegas-slots/data" target="_blank" rel="noopener noreferrer">1979</a>|<a href="https://gamefaqs.gamespot.com/microvision/category/49-miscellaneous" target="_blank" rel="noopener noreferrer">Miscellaneous</a> &raquo; <a href="https://gamefaqs.gamespot.com/microvision/category/113-miscellaneous-gambling" target="_blank" rel="noopener noreferrer">Gambling</a>|
+
+# End of File
