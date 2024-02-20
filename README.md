@@ -50,13 +50,14 @@ This work is distributed for educational purposes and without any profit motive.
     [![Donation Account](Images/Paypal_Donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY)
 
  - ### Envato Market:
-   If you are a .NET developer, you may want to explore '**DevCase Class Library for .NET**', a powerful set of APIs for .NET developers that I've created.
+   If you are a .NET developer, you may want to explore '**DevCase Class Library for .NET**', a huge set of APIs that I have on sale.
+   Almost all reusable code that you can find across my works is condensed, refined and provided through DevCase class library.
 
     Check out the product:
-    
    [![DevCase Class Library for .NET](Images/DevCase_Banner.png)](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)
 
 <u>**Your support means the world to me! Thank you for considering it!**</u> 👍
+
 
 # Home Consoles
 | Name | Exclusive Titles | Multi-Platform Titles |
