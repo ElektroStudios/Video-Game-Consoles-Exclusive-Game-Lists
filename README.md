@@ -53,6 +53,7 @@ This work is distributed for educational purposes and without any profit motive.
    If you are a .NET developer, you may want to explore '**DevCase Class Library for .NET**', a powerful set of APIs for .NET developers that I've created.
 
     Check out the product:
+    
    [![DevCase Class Library for .NET](Images/DevCase_Banner.png)](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)
 
 <u>**Your support means the world to me! Thank you for considering it!**</u> 👍
