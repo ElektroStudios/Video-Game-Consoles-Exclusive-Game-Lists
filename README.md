@@ -54,6 +54,7 @@ This work is distributed for educational purposes and without any profit motive.
    Almost all reusable code that you can find across my works is condensed, refined and provided through DevCase class library.
 
     Check out the product:
+    
    [![DevCase Class Library for .NET](Images/DevCase_Banner.png)](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)
 
 <u>**Your support means the world to me! Thank you for considering it!**</u> 👍
