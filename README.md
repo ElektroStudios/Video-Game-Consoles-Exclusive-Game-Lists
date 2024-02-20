@@ -26,19 +26,36 @@ The programming magic behind this work is based on the usage of open-source libr
 
 ## ⚠️ Disclaimer:
 
-This work (the repository and the content provided through) has no affiliation, approval or endorsement by Gamefaqs or its staff. Therefore, this work may not necessarily reflect the interests of Gamefaqs or its staff.
+This Work (the repository and the content provided through) is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Work or the use or other dealings in the Work.
+
+This Work has no affiliation, approval or endorsement by Gamefaqs or its staff. Therefore, this work may not necessarily reflect the interests of Gamefaqs or its staff.
 
 The image files located inside the "Thumbs" folder were obtained from Gamefaqs website and were included physically in this GitHub repository to avoid doing harmful inline linking (Hotlinking). They could be subject to Gamefaqs licensing agreements.
 
 ## 💪 Contributing
 
-The game entries of the tables are limited by the game entries that exist on the Gamefaqs website. This means that if you notice that an exclusive or multi-platform game is missing for a platform, it is possible that the game is cancelled, has not yet been released, or there is no entry on the Gamefaqs website. Please check if that is the case before creating an issue.
+Your contribution is highly appreciated!. If you have any ideas, suggestions, or encounter issues, feel free to open an issue. Your input helps make this Work better for everyone. Thank you for your support! 🚀
 
 Requesting the addition of new tables for other platforms is allowed, but such platform must exist on the Gamefaqs website.
 
+The game entries of the tables are limited by the game entries that exist on the Gamefaqs website. This means that if you notice that an exclusive or multi-platform game is missing for a platform, it is possible that the game is cancelled, has not yet been released, or there is no entry on the Gamefaqs website. Please check if that is the case before creating an issue.
+
 ## 💰 Beyond Contribution 
 
-This work is distributed for educational purposes and without any profit motive. Anyway, if you are interested in contributing financially to support my general work, you could consider to purchase one of my commercial works: [DevCase Class Library for .NET Framework and .NET Core](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282) or else make a [donation through Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY) to buy me a coffee (Thank you!).
+This work is distributed for educational purposes and without any profit motive. However, if you find value in my efforts and wish to support and motivate my ongoing work, you may consider contributing financially through the following options:
+
+ - ### Paypal:
+    You can donate any amount you like via **Paypal** by clicking on this button:
+
+    [![Donation Account](Images/Paypal_Donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY)
+
+ - ### Envato Market:
+   If you are a .NET developer, you may want to explore '**DevCase Class Library for .NET**', a powerful set of APIs for .NET developers that I've created.
+
+    Check out the product:
+   [![DevCase Class Library for .NET](Images/DevCase%20Banner.png)](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)
+
+<u>**Your support means the world to me! Thank you for considering it!**</u> 👍
 
 # Home Consoles
 | Name | Exclusive Titles | Multi-Platform Titles |
