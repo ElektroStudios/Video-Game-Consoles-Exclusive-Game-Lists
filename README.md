@@ -51,7 +51,7 @@ This work is distributed for educational purposes and without any profit motive.
 
  - ### Envato Market:
    If you are a .NET developer, you may want to explore '**DevCase Class Library for .NET**', a huge set of APIs that I have on sale.
-   Almost all reusable code that you can find across my works is condensed, refined and provided through DevCase class library.
+   Almost all reusable code that you can find across my works is condensed, refined and provided through DevCase Class Library.
 
     Check out the product:
     
