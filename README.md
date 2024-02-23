@@ -1,4 +1,4 @@
-# Video game exclusivity database for consoles 🎮
+# Video game exclusivity catalogs for home consoles and other platforms 🎮
 
 ### Comprehensive lists of exclusive video games released for many platforms.
 
