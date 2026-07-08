@@ -1,4 +1,4 @@
-# REPOSITORY NAME Change Log 📋
+﻿# REPOSITORY NAME Change Log 📋
 
 ## v1.1 *(current)* 🆕
 #### 🚀 New Features:
