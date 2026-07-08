@@ -4,7 +4,7 @@
 
 > LAST UPDATED ON FEBRUARY 19, 2024.
 
-[https://github.com/ElektroStudios/Video-Game-Consoles-Exclusive-Game-Lists/raw/refs/heads/main/Docs/demo.mp4](https://github.com/user-attachments/assets/8599cb2f-29bd-4ea1-86e7-38ebb3955082)
+[demo.mp4](https://github.com/user-attachments/assets/8599cb2f-29bd-4ea1-86e7-38ebb3955082)
 
 ------------------
 
@@ -20,52 +20,48 @@ Each Markdown file generally contain at least two tables. The Markdown files for
 
 For the Markdown files of multi-platform titles it is the same structure; It will contain a first table of multi-platform titles released on that platform, a second table of multi-platform compilations released on that platform (if any), and a third table of multi-platform digital downloadable titles in case of platforms having an online store.
 
-## 🏆 Credits
-
-This repository would not be possible without the existence of [Gamefaqs](https://gamefaqs.gamespot.com/) website with its video game database. Thank you very much for your work, guys!. 🙏 
-
-The programming magic behind this work is based on the usage of open-source library: [Html Agility Pack](https://html-agility-pack.net/)
-
-## ⚠️ Disclaimer:
-
-This Work (the repository and the content provided through) is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Work or the use or other dealings in the Work.
-
-This Work has no affiliation, approval or endorsement by Gamefaqs or its staff. Therefore, this work may not necessarily reflect the interests of Gamefaqs or its staff.
-
-The image files located inside the "Thumbs" folder were obtained from Gamefaqs website and were included physically in this GitHub repository to avoid doing harmful inline linking (Hotlinking). They could be subject to Gamefaqs licensing agreements.
-
 ## 💪 Contributing
 
 Your contribution is highly appreciated!. If you have any ideas, suggestions, or encounter issues, feel free to open an issue. Your input helps make this Work better for everyone. Thank you for your support! 🚀
 
-Requesting the addition of new tables for other platforms is allowed, but such platform must exist on the Gamefaqs website.
+Requesting the addition of new tables for other platforms is allowed, but such platform must exist on the GameFAQs website.
 
-The game entries of the tables are limited by the game entries that exist on the Gamefaqs website. This means that if you notice that an exclusive or multi-platform game is missing for a platform, it is possible that the game is cancelled, has not yet been released, or there is no entry on the Gamefaqs website. Please check if that is the case before creating an issue.
+The game entries of the tables are limited by the game entries that exist on the GameFAQs website. This means that if you notice that an exclusive or multi-platform game is missing for a platform, it is possible that the game is cancelled, has not yet been released, or there is no entry on the GameFAQs website. Please check if that is the case before creating an issue.
 
-## 💰 Beyond Contribution 
+## 💰 Beyond Contribution
 
 This work is distributed for educational purposes and without any profit motive. However, if you find value in my efforts and wish to support and motivate my ongoing work, you may consider contributing financially through the following options:
 
-<br></br>
-<p align="center"><img src="/Images/github_circle.png" height=100></p>
-<p align="center">__________________</p>
-<h3 align="center">Becoming my sponsor on Github:</h3>
-<p align="center">You can show me your support by clicking <a href="https://github.com/sponsors/ElektroStudios/">here</a>, <br align="center">contributing any amount you prefer, and unlocking rewards!</br></p>
-<br></br>
+| Platform | How to Support |
+| :---: | :--- |
+| <a href="https://github.com/sponsors/ElektroStudios/"><img src="/Images/github_circle.png" width="64"></a> | **[Become my sponsor on GitHub](https://github.com/sponsors/ElektroStudios/)**<br>You can show me your support by contributing any amount you prefer, and unlocking rewards! |
+| <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY"><img src="/Images/paypal_circle.png" width="64"></a> | **[Make a PayPal Donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY)**<br>You can donate to me any amount you like via PayPal. |
+| <a href="https://codecanyon.net/item/elektrokit-class-library-for-net/19260282"><img src="/Images/envato_circle.png" width="64"></a> | **[Purchase my software at Envato's CodeCanyon](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)**<br>If you are a .NET developer, you may want to explore **DevCase Class Library for .NET**, a huge set of APIs I have on sale. *It also contains all pieces of reusable code that you can find across the source code of my open-source works.* |
 
-<p align="center"><img src="/Images/paypal_circle.png" height=100></p>
-<p align="center">__________________</p>
-<h3 align="center">Making a Paypal Donation:</h3>
-<p align="center">You can donate to me any amount you like via Paypal by clicking <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY">here</a>.</p>
-<br></br>
+<br>
+<div align="center">
+  <b>Your support means the world to me! Thank you for considering it! 🤗💗</b>
+</div>
 
-<p align="center"><img src="/Images/envato_circle.png" height=100></p>
-<p align="center">__________________</p>
-<h3 align="center">Purchasing software of mine at Envato's Codecanyon marketplace:</h3>
-<p align="center">If you are a .NET developer, you may want to explore '<b>DevCase Class Library for .NET</b>', <br align="center">a huge set of APIs that I have on sale. Check out the product by clicking <a href="https://codecanyon.net/item/elektrokit-class-library-for-net/19260282">here</a></br><br align="center"><i>It also contains all piece of reusable code that you can find across the source code of my open source works.</i></p>
-<br></br>
+------------------
 
-<h2 align="center"><u>Your support means the world to me! Thank you for considering it!</u> 👍</h2>
+## 🏆 Credits
+
+This repository would not be possible without the existence of [GameFAQs](https://gamefaqs.gamespot.com/) website with its video game database. Thank you very much for your work, guys!. 🙏 
+
+The programming magic behind this work is based on the usage of open-source library: [Html Agility Pack](https://html-agility-pack.net/)
+
+## ⚠️ Disclaimer
+
+This Work and its associated repository are provided strictly on an "as is" basis, without warranties of any kind, whether express or implied. This includes, but is not limited to, any implied warranties of merchantability, reliability, or fitness for a particular purpose.
+
+This Work has no affiliation, approval or endorsement by GameFAQs or its staff. Therefore, this work may not necessarily reflect the interests of GameFAQs or its staff.
+
+The image files located inside the "Thumbs" folder were obtained from GameFAQs website and were included physically in this GitHub repository to avoid doing harmful inline linking (Hotlinking). They could be subject to GameFAQs licensing agreements.
+
+This project is licensed under the **Apache License, Version 2.0**. See the  [License](./LICENSE) file for details.
+
+------------------
 
 # Home Consoles
 | Name | Exclusive Titles | Multi-Platform Titles |
