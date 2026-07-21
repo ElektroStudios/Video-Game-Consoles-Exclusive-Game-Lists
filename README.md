@@ -2,7 +2,9 @@
 
 ### Comprehensive lists of exclusive video games released for many platforms.
 
-> LAST UPDATED ON FEBRUARY 19, 2024.
+> LAST UPDATED ON JULY 21, 2026.
+
+> PREVIOUS UPDATE: FEBRUARY 19, 2024.
 
 [demo.mp4](https://github.com/user-attachments/assets/8599cb2f-29bd-4ea1-86e7-38ebb3955082)
 
