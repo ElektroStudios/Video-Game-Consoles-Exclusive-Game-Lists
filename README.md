@@ -3,9 +3,10 @@
 ### Comprehensive lists of exclusive video games released for many platforms.
 
 > LAST UPDATED ON JULY 21, 2026.
+> 
 > Also, new platforms were added: BBC Micro, Blackberry, Commodore PET, Nintendo Switch 2, Oculus Quest / Meta Quest, and Windows Mobile.
 
-> PREVIOUS UPDATE: FEBRUARY 19, 2024.
+> PREVIOUS UPDATE IT WAS ON FEBRUARY 19, 2024.
 
 [demo.mp4](https://github.com/user-attachments/assets/8599cb2f-29bd-4ea1-86e7-38ebb3955082)
 
