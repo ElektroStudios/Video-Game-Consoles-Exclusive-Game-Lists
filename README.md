@@ -4,7 +4,7 @@
 
 > LAST UPDATED ON JULY 21, 2026.
 > 
-> Also, new platforms were added: BBC Micro, Blackberry, Commodore PET, Nintendo Switch 2, Oculus Quest / Meta Quest, and Windows Mobile.
+> All game lists for every platform were updated. Also, new platforms were added: BBC Micro, Blackberry, Commodore PET, Nintendo Switch 2, Oculus Quest / Meta Quest, and Windows Mobile.
 
 > PREVIOUS UPDATE IT WAS ON FEBRUARY 19, 2024.
 
