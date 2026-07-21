@@ -1,0 +1,29 @@
+﻿# List of multiplatform Intellivision Amico titles.
+
+> *Last updated on July 11, 2026*
+
+_Multiplatform refers to the status of a video game being developed and released on multiple platforms._
+
+-----------------------------
+
+ - The following table of multiplatform games was generated programmatically by scraping content from GameFAQs website: 
+
+    - https://gamefaqs.gamespot.com/amico/category/999-all
+      
+ - The items in the table are ordered alphabetically by Title column. If you need to sort items in another column, you may search for custom Markdown plugins / user-scripts or convert this table to a more suitable format, such as CSV or HTML with JavaScript.
+
+ - The cell entries are made up of useful hyperlinks pointing to the game entry, release date information and genre categories from GameFAQs website.
+
+-----------------------------
+# Intellivision Amico∶ Multiplatform Games
+|Index|Title|Year|Genre|
+|:--:|--|--|--|
+|1|<a href="https://gamefaqs.gamespot.com/amico/334530-biplanes" target="_blank" rel="nofollow noopener noreferrer">Biplanes</a>|<a href="https://gamefaqs.gamespot.com/amico/334530-biplanes/data" target="_blank" rel="nofollow noopener noreferrer">2021</a>|<a href="https://gamefaqs.gamespot.com/amico/category/54-action" target="_blank" rel="nofollow noopener noreferrer">Action</a> » <a href="https://gamefaqs.gamespot.com/amico/category/289-action-arcade" target="_blank" rel="nofollow noopener noreferrer">Arcade</a>|
+|2|<a href="https://gamefaqs.gamespot.com/amico/334528-brain-duel" target="_blank" rel="nofollow noopener noreferrer">Brain Duel</a>|<a href="https://gamefaqs.gamespot.com/amico/334528-brain-duel/data" target="_blank" rel="nofollow noopener noreferrer">2021</a>|<a href="https://gamefaqs.gamespot.com/amico/category/49-miscellaneous" target="_blank" rel="nofollow noopener noreferrer">Miscellaneous</a> » <a href="https://gamefaqs.gamespot.com/amico/category/275-miscellaneous-edutainment" target="_blank" rel="nofollow noopener noreferrer">Edutainment</a>|
+|3|<a href="https://gamefaqs.gamespot.com/amico/334529-dynablaster" target="_blank" rel="nofollow noopener noreferrer">Dynablaster</a>|<a href="https://gamefaqs.gamespot.com/amico/334529-dynablaster/data" target="_blank" rel="nofollow noopener noreferrer">2021</a>|<a href="https://gamefaqs.gamespot.com/amico/category/54-action" target="_blank" rel="nofollow noopener noreferrer">Action</a> » <a href="https://gamefaqs.gamespot.com/amico/category/289-action-arcade" target="_blank" rel="nofollow noopener noreferrer">Arcade</a>|
+|4|<a href="https://gamefaqs.gamespot.com/amico/334531-evel-knievel" target="_blank" rel="nofollow noopener noreferrer">Evel Knievel</a>|<a href="https://gamefaqs.gamespot.com/amico/334531-evel-knievel/data" target="_blank" rel="nofollow noopener noreferrer">2021</a>|<a href="https://gamefaqs.gamespot.com/amico/category/47-racing" target="_blank" rel="nofollow noopener noreferrer">Racing</a> » <a href="https://gamefaqs.gamespot.com/amico/category/314-racing-arcade" target="_blank" rel="nofollow noopener noreferrer">Arcade</a> » <a href="https://gamefaqs.gamespot.com/amico/category/232-racing-arcade-automobile" target="_blank" rel="nofollow noopener noreferrer">Automobile</a>|
+|5|<a href="https://gamefaqs.gamespot.com/amico/297291-finnigan-fox" target="_blank" rel="nofollow noopener noreferrer">Finnigan Fox</a>|<a href="https://gamefaqs.gamespot.com/amico/297291-finnigan-fox/data" target="_blank" rel="nofollow noopener noreferrer">2021</a>|<a href="https://gamefaqs.gamespot.com/amico/category/54-action" target="_blank" rel="nofollow noopener noreferrer">Action</a> » <a href="https://gamefaqs.gamespot.com/amico/category/56-action-platformer" target="_blank" rel="nofollow noopener noreferrer">Platformer</a> » <a href="https://gamefaqs.gamespot.com/amico/category/84-action-platformer-2d" target="_blank" rel="nofollow noopener noreferrer">2D</a>|
+|6|<a href="https://gamefaqs.gamespot.com/amico/334535-moon-patrol" target="_blank" rel="nofollow noopener noreferrer">Moon Patrol</a>|<a href="https://gamefaqs.gamespot.com/amico/334535-moon-patrol/data" target="_blank" rel="nofollow noopener noreferrer">2021</a>|<a href="https://gamefaqs.gamespot.com/amico/category/54-action" target="_blank" rel="nofollow noopener noreferrer">Action</a> » <a href="https://gamefaqs.gamespot.com/amico/category/55-action-shooter" target="_blank" rel="nofollow noopener noreferrer">Shooter</a> » <a href="https://gamefaqs.gamespot.com/amico/category/313-action-shooter-shoot-em-up" target="_blank" rel="nofollow noopener noreferrer">Shoot-'Em-Up</a> » <a href="https://gamefaqs.gamespot.com/amico/category/185-action-shooter-shoot-em-up-horizontal" target="_blank" rel="nofollow noopener noreferrer">Horizontal</a>|
+|7|<a href="https://gamefaqs.gamespot.com/amico/297287-rigid-force-redux-enhanced" target="_blank" rel="nofollow noopener noreferrer">Rigid Force Redux Enhanced</a>|<a href="https://gamefaqs.gamespot.com/amico/297287-rigid-force-redux-enhanced/data" target="_blank" rel="nofollow noopener noreferrer">2021</a>|<a href="https://gamefaqs.gamespot.com/amico/category/54-action" target="_blank" rel="nofollow noopener noreferrer">Action</a> » <a href="https://gamefaqs.gamespot.com/amico/category/55-action-shooter" target="_blank" rel="nofollow noopener noreferrer">Shooter</a> » <a href="https://gamefaqs.gamespot.com/amico/category/313-action-shooter-shoot-em-up" target="_blank" rel="nofollow noopener noreferrer">Shoot-'Em-Up</a> » <a href="https://gamefaqs.gamespot.com/amico/category/185-action-shooter-shoot-em-up-horizontal" target="_blank" rel="nofollow noopener noreferrer">Horizontal</a>|
+
+# End of File
